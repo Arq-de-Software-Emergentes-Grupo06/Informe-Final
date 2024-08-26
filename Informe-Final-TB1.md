@@ -507,16 +507,208 @@ de comercio.</th>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+| Estrategia/ Táctica                          | Medidas a tomar                                         |
+|----------------------------------------------|---------------------------------------------------------|
+| Diferenciación en implementación IoT | \- Destacar la ventaja de la implementación de sensores junto con una aplicación    |
+|                                              | \- Resaltar el uso de sensores durante todo el transporte           |
+|                                              | \- Alianzas con empresas de transporte |
+| Enfoque en la seguridad                    | \- Priorizar la seguridad de los conductores         |
+|                                              | \- Ofrecer a las empresas los detalles obtenidos por los sensores en tiempo real         |
+| Publicidad mediante redes sociales         | \- Resaltar funcionalidades IoT            |
+|                                              | \- Publicitar la solución IoT mediante Facebook, Instagram y Google Ads.           |
+
 ## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas.
+
+A continuación, se realizaó el diseño de entrevistas para ambos segmentos objetivos contemplados para el proyecto. Las preguntas serán planificadas para que los entrevistados contesten abiertamente y brindando información extra que nos aporte para entenden mejor sus necesidades. Cabe resaltar que no se contemplan las preguntas de introducción, sin embargo, se realizarán al inicio de la entrevista.
+
+
+**Segmento objetivo: Transportistas**
+
+- ¿Qué medidas de seguridad tienes a tu disposición actualmente para prevenir incidentes durante el transporte de gases combustibles?
+
+- ¿Alguna vez has experimentado o estado cerca de un incidente relacionado con fugas de gas, o algún otro tipo? Si es así, ¿cómo reaccionaste?
+  
+- ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como transportista?
+
+- ¿Utilizas algún tipo de tecnología o dispositivo para monitorear la seguridad de tu carga mientras conduces? ¿Qué ventajas y desventajas encuentras en ella?
+
+- ¿Estarías dispuesto a utilizar una solución técnológica que monitoree las condiciones del cargamento que llevas en tiempo real? ¿Por qué?
+
+- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
+
+- ¿Qué tipo de alertas o notificaciones crees que serían más útiles para prevenir posibles fugas de gases combustibles durante el transporte?
+  
+- ¿Cómo preferirías recibir estas notificaciones (por ejemplo, a través de una aplicación móvil, mensajes de texto, etc.)?
+
+- ¿Qué barreras crees que podrían existir para adoptar una nueva tecnología de monitoreo de seguridad en tu rutina diaria?
+  
+- ¿Qué características considerarías indispensables en una solución con tecnologías emergentes para que decidas implementarla en tu trabajo?
+
+- ¿Qué piensas de las soluciones tecnológicas disponibles actualmente en el mercado para la seguridad en el transporte de materiales peligrosos?
+  
+- ¿Qué aspectos crees que deberían mejorar en estas soluciones para que sean más efectivas?
+
+- ¿Su vehiculo de transporte cuenta con una pantalla de interacción con un sistema operativo?
+
+- ¿Qué dispositivos usa con más frecuencia durante su jornada de trabajo?
+
+
+
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+
+- ¿Qué protocolos de seguridad implementa tu empresa para garantizar la integridad de los transportistas y de la carga durante el transporte de productos peligrosos?
+  
+- ¿Cómo se maneja la capacitación de los transportistas en cuanto a la prevención de incidentes y la respuesta a emergencias?
+  
+- ¿Qué tipos de tecnologías o dispositivos utiliza actualmente tu empresa para monitorear la seguridad de las cargas peligrosas?
+
+- ¿Qué tipo de sensores serían adecuados para realizar el monitoreo de combustibles sobre vehiculos?
+  
+- ¿Estarías interesado en implementar una solución IoT que permita un monitoreo en tiempo real de las condiciones de seguridad? ¿Por qué?
+  
+- ¿Qué beneficios esperas obtener al implementar una solución IoT para el monitoreo de seguridad?
+  
+- ¿Qué preocupaciones podrías tener sobre la adopción de esta tecnología en tu empresa?
+  
+- ¿Cómo prefieres que tu empresa reciba notificaciones o alertas sobre posibles riesgos durante el transporte de productos peligrosos?
+  
+- ¿De qué manera estas alertas influirían en la toma de decisiones operativas dentro de tu empresa?
+  
+- ¿Crees que la implementación de una solución IoT de monitoreo de seguridad podría proporcionar una ventaja competitiva a tu empresa? ¿Cómo?
+  
+- ¿Qué características consideras esenciales para que esta solución se destaque frente a otras opciones tecnológicas disponibles en el mercado?
+
+
+
+
 ### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
+En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
+
 ### 2.3.1. User Personas
+
+Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, estos user persona son creados en base a la investigación de capitulos previos para identificar a los diferentes tipos de clientes que podrían usar el producto solución. Se utilizó la herramienta UXPressia.
+
+**Transportistas de combustibles peligrosos**
+
+![Paolo Checa (1)](https://github.com/user-attachments/assets/97d571cf-7016-4d0d-9b38-ed6343c98e6f)
+
+**Empresas de transporte de productos peligrosos**
+
+![Carlo Galavis](https://github.com/user-attachments/assets/fb10e06a-0889-4d9b-a8d0-d005574d1eb8)
+
 ### 2.3.2. User Task Matrix
+
+A continuación, se muestra el User Task Matrix para los siguientes segmentos objetivo:
+
+
+<table>
+  <tr>
+    <th></th>
+    <td colspan="2">TRANSPORTISTAS</td>
+    <td colspan="2">EMPRESAS</td>
+  </tr>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+  </tr>
+  <tr>
+    <td>Registrar los envíos de productos combustibles</td>
+    <td>Low </td>
+    <td>Low</td>
+    <td>High</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Coordinar con los demás transportistas detalles acerca del cargamento</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Trazar la ruta que se tiene que recorrer y sus peligros </td>
+    <td>Always</td>
+    <td>Medium</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Evaluar calidad de los vehiculos de transporte</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Evaluar demanda y tendencias</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Revisar el estado del cargamento</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar la condición del cargamento previo al transporte</td>
+    <td>Often</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Monitorear la velocidad del transportista</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+</table>
+
+**Tareas con Mayor Frecuencia e Importancia:**
+- Frecuencia:
+
+> Respecto al segmento objetivo de transportistas, las tareas que se realizan con mayor 
+> frecuencia incluyen trazar la ruta que se tiene que recorrer y sus peligros, coordinar con los demás transportistas detalles acerca del cargamento, 
+> y evaluar la calidad de los vehículos de transporte. Por otro lado, para el segmento de empresas de transporte de productos peligrosos, las tareas más
+> frecuentes son evaluar la calidad de los vehículos de transporte, revisar el estado del cargamento, y trazar la ruta y sus peligros.
+
+- Importancia:
+
+> Para el segmento de empresas de transporte, las tareas más importantes incluyen registrar los 
+> envíos de productos combustibles, evaluar la calidad de los vehículos de transporte, y monitorear la velocidad del transportista. 
+> En el caso de los transportistas, las tareas de mayor relevancia son coordinar detalles acerca del cargamento, evaluar la 
+> calidad de los vehículos de transporte, y trazar la ruta que se tiene que recorrer.
+
+Principales Diferencias y Coincidencias:
+
+Una de las principales diferencias entre los dos segmentos objetivo es que las empresas de transporte tienen una mayor responsabilidad en la supervisión y monitoreo del cargamento, como lo demuestra la alta importancia y frecuencia asignada a tareas como revisar el estado del cargamento y monitorear la velocidad del transportista. Por otro lado, los transportistas se centran más en la planificación de rutas y la coordinación con otros transportistas, lo que refleja su rol más operativo y menos gerencial.
+
+Tanto los transportistas como las empresas coinciden en la alta importancia de la evaluación de la calidad de los vehículos de transporte y la necesidad de trazar rutas seguras y eficientes. Ambas audiencias reconocen la importancia crítica de estas tareas para garantizar la seguridad y la eficiencia en el transporte de productos peligrosos.
+
 ### 2.3.3. Empathy Mapping
+
+![Empathy map](https://github.com/user-attachments/assets/ed0e74aa-de6d-4e8f-9ca6-e235f146f6c7)
+![Empathy map (1)](https://github.com/user-attachments/assets/ef04d9c0-99cf-47e2-8c70-5f579319d6f7)
+
 ### 2.3.4. As-is Scenario Mapping
+
+![image](https://github.com/user-attachments/assets/753224a7-ec79-412f-9fe9-7a5cf13b7c0b)
+
 
 ## 2.4. Ubiquitous Language
 

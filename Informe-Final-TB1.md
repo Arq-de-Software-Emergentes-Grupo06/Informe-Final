@@ -356,7 +356,7 @@ el objetivo de este análisis.</th>
 </tr>
 <tr class="odd">
 <th colspan="5">Llevar a cabo este análisis permite identificar las
-ventajas competitivas y oportunidades de mejora de "" frente a
+ventajas competitivas y oportunidades de mejora de "SafeFlow" frente a
 competidores clave, informando estrategias efectivas para destacar en el
 mercado agrícola y atraer a agricultores y comerciantes.</th>
 </tr>
@@ -371,17 +371,16 @@ mercado agrícola y atraer a agricultores y comerciantes.</th>
 <tr class="odd">
 <th rowspan="2">Perfil</th>
 <th>Overview</th>
-<th>"Ayni" es una solución tecnológica integral para la gestión de
-actividades agrícolas que incluye planificación, monitoreo y
-optimización de procesos.</th>
-<th>Busca mejorar la planificación y el monitoreo de actividades
-agrícolas para aumentar la eficiencia y optimizar los procesos en el
-sector agrícola.</th>
-<th>Granular es una plataforma integral de gestión agrícola que busca
-mejorar la planificación, administración y análisis de operaciones
-agrícolas.</th>
-<th>FarmLogs es una plataforma que busca mejorar el seguimiento de
-cultivos y la toma de decisiones basada en datos en la agricultura.</th>
+<th>SafeFlow es una solución tecnológica integral  que ofrece un sistema 
+de detección y alerta para el transporte seguro de productos peligrosos
+mediante tecnología IoT..</th>
+<th>Grupo Caresny es una empresa tradicional en el sector del transporte
+de mercancías con un enfoque en soluciones logísticas personalizadas.</th>
+<th>Dachser es una multinacional con un enfoque en la logística integral
+que abarca transporte terrestre, aéreo y marítimo.</th>
+<th>Cargo & Transport es una empresa especializada en el transporte de
+carga pesada y bienes industriales, con una fuerte presencia en 
+mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Ventaja competitiva</th>

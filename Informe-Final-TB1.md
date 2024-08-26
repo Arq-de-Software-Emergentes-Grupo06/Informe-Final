@@ -708,7 +708,7 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 ### 2.3.4. As-is Scenario Mapping
 
 ![image](https://github.com/user-attachments/assets/753224a7-ec79-412f-9fe9-7a5cf13b7c0b)
-
+![image](https://github.com/user-attachments/assets/233c4c8e-0a59-472f-863e-d9023194cdc5)
 
 ## 2.4. Ubiquitous Language
 

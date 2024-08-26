@@ -339,6 +339,173 @@ A continuación, se plantean las hipótesis que proponen una solución a la prob
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 18%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">¿Por qué llevar a cabo este análisis?</th>
+<th colspan="5">Escriba en el recuadro la pregunta que busca responder o
+el objetivo de este análisis.</th>
+</tr>
+<tr class="odd">
+<th colspan="5">Llevar a cabo este análisis permite identificar las
+ventajas competitivas y oportunidades de mejora de "" frente a
+competidores clave, informando estrategias efectivas para destacar en el
+mercado agrícola y atraer a agricultores y comerciantes.</th>
+</tr>
+<tr class="header">
+<th></th>
+<th></th>
+<th>Ayni</th>
+<th>Agroptima</th>
+<th>Granular</th>
+<th>FarmLogs</th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil</th>
+<th>Overview</th>
+<th>"Ayni" es una solución tecnológica integral para la gestión de
+actividades agrícolas que incluye planificación, monitoreo y
+optimización de procesos.</th>
+<th>Busca mejorar la planificación y el monitoreo de actividades
+agrícolas para aumentar la eficiencia y optimizar los procesos en el
+sector agrícola.</th>
+<th>Granular es una plataforma integral de gestión agrícola que busca
+mejorar la planificación, administración y análisis de operaciones
+agrícolas.</th>
+<th>FarmLogs es una plataforma que busca mejorar el seguimiento de
+cultivos y la toma de decisiones basada en datos en la agricultura.</th>
+</tr>
+<tr class="header">
+<th>Ventaja competitiva</th>
+<th>Ofrece una plataforma única para la gestión agrícola y la dinámica
+de compra y venta</th>
+<th>Ofrece herramientas para la planificación de cultivos y el
+seguimiento de labores, lo que ayuda a los agricultores a ser más
+organizados.</th>
+<th>Ofrece una plataforma completa para la gestión agrícola, abordando
+aspectos desde la planificación hasta el análisis.</th>
+<th>Ofrece herramientas para el seguimiento de cultivos y la
+planificación de labores, lo que ayuda a los agricultores a tomar
+decisiones informadas.</th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil de Marketing</th>
+<th>Mercado Objetivo</th>
+<th>Agricultores, productores agrícolas y comerciantes que buscan
+mejorar la eficiencia en la gestión de cultivos y la dinámica de
+comercio.</th>
+<th>Agricultores y productores agrícolas que buscan mejorar la
+planificación y la gestión de sus cultivos.</th>
+<th>Agricultores y productores agrícolas que buscan una solución
+integral para la gestión agrícola.</th>
+<th>Agricultores y productores agrícolas que buscan mejorar el
+seguimiento y análisis de sus cultivos.</th>
+</tr>
+<tr class="header">
+<th>Estrategias de marketing</th>
+<th>Colabora con cooperativas agrícolas y comerciantes locales para
+aumentar la visibilidad de la plataforma.</th>
+<th>Utiliza videos educativos, webinar y eventos en línea.</th>
+<th>Muestra casos de estudio y participa en ferias agrícolas para
+promover la plataforma.</th>
+<th>Colaboración con expertos en agricultura y agrónomos. Hace uso de
+blogs.</th>
+</tr>
+<tr class="odd">
+<th rowspan="3">Perfil de Producto</th>
+<th>Productos &amp; Servicios</th>
+<th>Planificación, monitoreo de actividades diarias, gestión de costos e
+ingresos, dinámica de compraventa, calificación de productos y
+publicidad de insumos.</th>
+<th>Plataforma de gestión agrícola que incluye planificación de cultivos
+y seguimiento de labores.</th>
+<th>Plataforma de gestión agrícola con amplias características para
+planificación, análisis y toma de decisiones.</th>
+<th>Plataforma de gestión agrícola con herramientas para el seguimiento
+y análisis de cultivos.</th>
+</tr>
+<tr class="header">
+<th>Precios y Costos</th>
+<th>Estructura de precios basada en suscripciones o uso.</th>
+<th>Estructura de precios basada en suscripciones o uso.</th>
+<th>Estructura de precios basada en suscripciones o uso.</th>
+<th>Estructura de precios basada en suscripciones o uso.</th>
+</tr>
+<tr class="odd">
+<th><p>Canales de distribución</p>
+<p>(Web y/o Móvil)</p></th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+<th>Plataforma en línea accesible a través de dispositivos móviles y
+computadoras.</th>
+</tr>
+<tr class="header">
+<th rowspan="5">Análisis SWOT</th>
+<th colspan="5">Realice esto para su startup y sus competidores. Sus
+fortalezas deberían apoyar sus oportunidades y contribuir a lo que
+ustedes definen como su posible ventaja competitiva.</th>
+</tr>
+<tr class="odd">
+<th>Fortalezas</th>
+<th>Enfoque en la gestión agrícola y la dinámica de compra y venta, lo
+que agrega un valor único. Plataforma integral.</th>
+<th>Enfoque en la planificación y el monitoreo agrícola. Herramientas
+para la toma de decisiones.</th>
+<th>Solución integral que aborda múltiples aspectos de la gestión
+agrícola. Enfoque en la toma de decisiones.</th>
+<th>Enfoque en el seguimiento de cultivos y la toma de decisiones basada
+en datos. Datos en tiempo real.</th>
+</tr>
+<tr class="header">
+<th>Debilidades</th>
+<th>Puede enfrentar resistencia al cambio debido a la complejidad
+percibida por algunos usuarios.</th>
+<th>Puede carecer de funcionalidades adicionales como la dinámica de
+compra y venta.</th>
+<th>Puede ser percibido como complejo para algunos usuarios debido a su
+amplia gama de características.</th>
+<th>Puede carecer de funcionalidades adicionales como la dinámica de
+compra y venta.</th>
+</tr>
+<tr class="odd">
+<th>Oportunidades</th>
+<th>Crear alianzas estratégicas con cooperativas agrícolas y
+comerciantes locales para aumentar la adopción.</th>
+<th>Expandir el alcance al ofrecer características adicionales para la
+gestión de costos e ingresos.</th>
+<th>Incorporar características adicionales que se centren en la dinámica
+de compra y venta.</th>
+<th>Incorporar características adicionales relacionadas con la compra y
+venta para atraer a más agricultores y comerciantes.</th>
+</tr>
+<tr class="header">
+<th>Amenazas</th>
+<th>Competencia de soluciones establecidas en el mercado. Cambios en las
+preferencias de los usuarios.</th>
+<th>Competencia de soluciones integrales que también abordan la dinámica
+de compra y venta.</th>
+<th>Competencia de soluciones específicas que también se enfocan en la
+dinámica de comercio.</th>
+<th>Competencia de soluciones integrales que también abordan la dinámica
+de comercio.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas

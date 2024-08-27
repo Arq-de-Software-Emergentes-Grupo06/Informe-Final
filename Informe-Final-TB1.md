@@ -363,80 +363,74 @@ mercado agrícola y atraer a agricultores y comerciantes.</th>
 <tr class="header">
 <th></th>
 <th></th>
-<th>Ayni</th>
-<th>Agroptima</th>
-<th>Granular</th>
-<th>FarmLogs</th>
+<th>SafeFlow</th>
+<th>Grupo Caresny</th>
+<th>Dachser</th>
+<th>Cargo & Transport</th>
 </tr>
 <tr class="odd">
 <th rowspan="2">Perfil</th>
 <th>Overview</th>
-<th>SafeFlow es una solución tecnológica integral  que ofrece un sistema 
+<th>Es una solución tecnológica integral  que ofrece un sistema 
 de detección y alerta para el transporte seguro de productos peligrosos
 mediante tecnología IoT..</th>
-<th>Grupo Caresny es una empresa tradicional en el sector del transporte
+<th>Es una empresa tradicional en el sector del transporte
 de mercancías con un enfoque en soluciones logísticas personalizadas.</th>
-<th>Dachser es una multinacional con un enfoque en la logística integral
+<th>Es una multinacional con un enfoque en la logística integral
 que abarca transporte terrestre, aéreo y marítimo.</th>
-<th>Cargo & Transport es una empresa especializada en el transporte de
+<th>Es una empresa especializada en el transporte de
 carga pesada y bienes industriales, con una fuerte presencia en 
 mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Ventaja competitiva</th>
-<th>Ofrece una plataforma única para la gestión agrícola y la dinámica
-de compra y venta</th>
-<th>Ofrece herramientas para la planificación de cultivos y el
-seguimiento de labores, lo que ayuda a los agricultores a ser más
-organizados.</th>
-<th>Ofrece una plataforma completa para la gestión agrícola, abordando
-aspectos desde la planificación hasta el análisis.</th>
-<th>Ofrece herramientas para el seguimiento de cultivos y la
-planificación de labores, lo que ayuda a los agricultores a tomar
-decisiones informadas.</th>
+<th>Su enfoque en la seguridad y supervisión en tiempo real
+mediante sensores avanzados que monitorean condiciones como
+fugas de gas, temperatura, presión y movimiento.</th>
+<th>Amplia red de transporte y servicios logísticos integrados
+que permiten una distribución eficiente a nivel global.</th>
+<th>Fuerte infraestructura global y capacidades avanzadas en 
+gestión de la cadena de suministro.</th>
+<th>Experiencia en mercados difíciles y capacidad para manejar
+cargas de gran tamaño o peligrosas.</th>
 </tr>
 <tr class="odd">
 <th rowspan="2">Perfil de Marketing</th>
 <th>Mercado Objetivo</th>
-<th>Agricultores, productores agrícolas y comerciantes que buscan
-mejorar la eficiencia en la gestión de cultivos y la dinámica de
-comercio.</th>
-<th>Agricultores y productores agrícolas que buscan mejorar la
-planificación y la gestión de sus cultivos.</th>
-<th>Agricultores y productores agrícolas que buscan una solución
-integral para la gestión agrícola.</th>
-<th>Agricultores y productores agrícolas que buscan mejorar el
-seguimiento y análisis de sus cultivos.</th>
+<th>Empresas que transportan productos peligrosos, 
+especialmente en la industria química y petrolera.</th>
+<th>Empresas que buscan soluciones logísticas personalizadas, 
+especialmente en sectores minoristas y de bienes de consumo.</th>
+<th>Empresas multinacionales con necesidades complejas de logística
+y transporte global.</th>
+<th>Industrias pesadas y proyectos de infraestructura en mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Estrategias de marketing</th>
-<th>Colabora con cooperativas agrícolas y comerciantes locales para
-aumentar la visibilidad de la plataforma.</th>
-<th>Utiliza videos educativos, webinar y eventos en línea.</th>
-<th>Muestra casos de estudio y participa en ferias agrícolas para
-promover la plataforma.</th>
-<th>Colaboración con expertos en agricultura y agrónomos. Hace uso de
-blogs.</th>
+<th>Enfoque en la seguridad y cumplimiento normativo, destacando
+la innovación tecnológica como diferenciador.</th>
+<th>Contratos a largo plazo y servicio al cliente personalizado.</th>
+<th>Infraestructura global y tecnología avanzada para la gestión
+de la cadena de suministro.</th>
+<th>Reputación en fiabilidad y capacidad para manejar cargas complejas.</th>
 </tr>
 <tr class="odd">
 <th rowspan="3">Perfil de Producto</th>
 <th>Productos &amp; Servicios</th>
-<th>Planificación, monitoreo de actividades diarias, gestión de costos e
-ingresos, dinámica de compraventa, calificación de productos y
-publicidad de insumos.</th>
-<th>Plataforma de gestión agrícola que incluye planificación de cultivos
-y seguimiento de labores.</th>
-<th>Plataforma de gestión agrícola con amplias características para
-planificación, análisis y toma de decisiones.</th>
-<th>Plataforma de gestión agrícola con herramientas para el seguimiento
-y análisis de cultivos.</th>
+<th>Sistemas IoT para la supervisión del transporte de productos peligrosos.</th>
+<th>Soluciones logísticas, transporte terrestre, almacenamiento y distribución.</th>
+<th>Servicios de transporte terrestre, aéreo y marítimo, logística contractual
+y gestión de la cadena de suministro.</th>
+<th>Transporte de carga pesada, logística para proyectos y soluciones 
+especializadas para industrias.</th>
 </tr>
 <tr class="header">
 <th>Precios y Costos</th>
-<th>Estructura de precios basada en suscripciones o uso.</th>
-<th>Estructura de precios basada en suscripciones o uso.</th>
-<th>Estructura de precios basada en suscripciones o uso.</th>
-<th>Estructura de precios basada en suscripciones o uso.</th>
+<th>Modelo basado en suscripción con costos variables según el número de sensores
+y características adicionales.</th>
+<th>Costos competitivos, con opciones personalizadas según el servicio requerido.</th>
+<th>Varían según la complejidad del servicio y el alcance global.</th>
+<th>Costos basados en la complejidad del transporte y el tipo de carga.</th>
 </tr>
 <tr class="odd">
 <th><p>Canales de distribución</p>
@@ -458,47 +452,34 @@ ustedes definen como su posible ventaja competitiva.</th>
 </tr>
 <tr class="odd">
 <th>Fortalezas</th>
-<th>Enfoque en la gestión agrícola y la dinámica de compra y venta, lo
-que agrega un valor único. Plataforma integral.</th>
-<th>Enfoque en la planificación y el monitoreo agrícola. Herramientas
-para la toma de decisiones.</th>
-<th>Solución integral que aborda múltiples aspectos de la gestión
-agrícola. Enfoque en la toma de decisiones.</th>
-<th>Enfoque en el seguimiento de cultivos y la toma de decisiones basada
-en datos. Datos en tiempo real.</th>
+<th>Innovación tecnológica, enfoque en seguridad, capacidad de 
+monitoreo en tiempo real. Plataforma integral.</th>
+<th>Red logística establecida, fuerte relación con clientes.</th>
+<th>Infraestructura global, experiencia en logística compleja.</th>
+<th>Experiencia en manejo de cargas pesadas y peligrosas, 
+fuerte presencia en mercados emergentes.</th>
 </tr>
 <tr class="header">
 <th>Debilidades</th>
-<th>Puede enfrentar resistencia al cambio debido a la complejidad
-percibida por algunos usuarios.</th>
-<th>Puede carecer de funcionalidades adicionales como la dinámica de
-compra y venta.</th>
-<th>Puede ser percibido como complejo para algunos usuarios debido a su
-amplia gama de características.</th>
-<th>Puede carecer de funcionalidades adicionales como la dinámica de
-compra y venta.</th>
+<th>Dependencia de la tecnología IoT, costos iniciales altos para los clientes.</th>
+<th>Falta de innovación tecnológica en comparación con competidores.</th>
+<th>Costos operativos altos, dependencia de mercados maduros.</th>
+<th>Menor presencia global comparada con competidores más grandes.</th>
 </tr>
 <tr class="odd">
 <th>Oportunidades</th>
-<th>Crear alianzas estratégicas con cooperativas agrícolas y
-comerciantes locales para aumentar la adopción.</th>
-<th>Expandir el alcance al ofrecer características adicionales para la
-gestión de costos e ingresos.</th>
-<th>Incorporar características adicionales que se centren en la dinámica
-de compra y venta.</th>
-<th>Incorporar características adicionales relacionadas con la compra y
-venta para atraer a más agricultores y comerciantes.</th>
+<th>Creciente demanda de seguridad en el transporte de productos 
+peligrosos, expansión a otros mercados.</th>
+<th>Expansión a nuevos mercados y adopción de nuevas tecnologías.</th>
+<th>Expansión en mercados emergentes, adopción de tecnologías sostenibles.</th>
+<th>Expansión a nuevos sectores industriales, colaboración con nuevas tecnologías.</th>
 </tr>
 <tr class="header">
 <th>Amenazas</th>
-<th>Competencia de soluciones establecidas en el mercado. Cambios en las
-preferencias de los usuarios.</th>
-<th>Competencia de soluciones integrales que también abordan la dinámica
-de compra y venta.</th>
-<th>Competencia de soluciones específicas que también se enfocan en la
-dinámica de comercio.</th>
-<th>Competencia de soluciones integrales que también abordan la dinámica
-de comercio.</th>
+<th>Competencia de empresas más grandes con mayores recursos, regulación cambiante.</th>
+<th>Competencia de empresas más innovadoras, presión en márgenes de precios.</th>
+<th>Competencia en mercados emergentes, fluctuaciones económicas globales.</th>
+<th>Competencia en precios, regulaciones ambientales más estrictas.</th>
 </tr>
 </thead>
 <tbody>

@@ -710,10 +710,25 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ## 4.1. Strategic-Level Attribute-Driven Design
 ### 4.1.1. Design Purpose
+
+El propósito del diseño de la plataforma "SafeFlow" se centra en maximizar la eficiencia, satisfacción y seguridad durante todo el servicio del transporte de productos peligrosos, tanto para los transportistas y las empresas que ofrecen el tipo de servicio de transporte de combustibles.
+
 ### 4.1.2. Attribute-Driven Design Inputs
+
+A continuación, en esta sección se detallará los 3 puntos relacionados al proceso ADD.
+
 #### 4.1.2.1. Primary Functionality (Primary User Stories)
+
+
+
 #### 4.1.2.2. Quality Attribute Scenarios
+
+
+
 #### 4.1.2.3. Constraints
+
+
+
 ### 4.1.3. Architectural Drivers Backlog
 ### 4.1.4. Architectural Design Decisions
 ### 4.1.5. Quality Attribute Scenario Refinements

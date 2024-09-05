@@ -624,7 +624,8 @@ Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, 
 
 **Transportistas de combustibles peligrosos**
 
-![Paolo Checa (1)](https://github.com/user-attachments/assets/97d571cf-7016-4d0d-9b38-ed6343c98e6f)
+![361573775-97d571cf-7016-4d0d-9b38-ed6343c98e6f](https://github.com/user-attachments/assets/d045a6b1-433a-47e3-ab11-df173cd3438d)
+
 
 **Empresas de transporte de productos peligrosos**
 

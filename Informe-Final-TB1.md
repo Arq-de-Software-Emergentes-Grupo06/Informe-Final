@@ -14,9 +14,9 @@ Profesor: Rojas Malasquez, Royer Edelwer
 
 ***INFORME DE TRABAJO FINAL - TB1***
 
-**Startup: **
+**Startup: CuriDev**
 
-**Producto: **
+**Producto: SafeFlow - IOT**
 
 **Integrantes:**
 - Alarcon Rondon. Sandro Fourfive
@@ -32,23 +32,31 @@ Agosto del 2024
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 | 15/08/2024 | Alarcon Rondon. Sandro Fourfive | |
-| 1.10 | 20/08/2024 | Espejo Macuri, Paolo Andre |  |
-| 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| |
-| 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | |
-| 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | |
+| 1.00 | 15/08/2024 | Alarcon Rondon. Sandro Fourfive | To Be Scenario Map, Diseño de historia de usuarios, constrains v.1|
+| 1.10 | 20/08/2024 | Espejo Macuri, Paolo Andre | Diseño de historia de usuario, EventStorming v.1 |
+| 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design, Software Architecture, diseño y registro de entrevistas |
+| 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | EventStorming, Bounded Context Candidates, diseño y registro de entrevistas |
+| 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | Diseño de user stories, analisis de entrevistas, proceso Lean UX, Constrains v.1 |
 
 
 ---
 # Project Report Collaboration Insights
 
 TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
-Link de repositorio Github: (https://github.com/upc-202402-GreatMinds-SW74-Ayni-IoT/Informe-Final_IoT)
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
 
-Para la elaboración del informe se realizaron actividades tales como: 
--
+Para la elaboración del informe se realizaron actividades tales como:
 
-(imagen de commit)
+-Primera versión de Software Architecture, Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design
+
+-Lean UX Process
+
+-Diseño y analisis de entrevistas
+
+-Analisis de competidores
+
+-User Stories y Product Backlog
+
 
 
 ---
@@ -137,8 +145,8 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |  |  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |  |  |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. | Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos.  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. | El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. |
 
 # Capítulo I: Introducción
 
@@ -185,13 +193,41 @@ Otro desafío es la fragmentación de las soluciones actuales de monitoreo. Much
 
 Además, las exigencias regulatorias en el transporte de materiales peligrosos son cada vez más estrictas. El incumplimiento de estas normativas no solo implica sanciones legales, sino también la pérdida de confianza de los clientes y daños significativos a la reputación de la empresa. Sin herramientas adecuadas para garantizar el cumplimiento, las empresas corren el riesgo de enfrentar graves consecuencias financieras y operativas.
 
+**Herramienta 5W y 2H**
 
+**¿Qué? (What)**
+
+Según Lopez-Atamorors et al. (2010), nos dice que los principales riesgos dentro del servicio de transportes peligros son: Choque, Explosión y Fuga. Debido a ello, el transporte de productos peligrosos, como gases inflamables y productos químicos, significa un alto riesgo que se tiene que afrontar. La falta de monitoreo continuo y en tiempo real impide la identificación oportuna de condiciones peligrosas, como cambios en la presión, temperatura o movimiento del vehículo, también suponen unod estos problemas.
+
+**¿Cuándo? (When)**
+
+Este problema se presenta de manera constante durante el transporte de productos peligrosos, particularmente en situaciones de emergencia o cuando las condiciones de seguridad cambian rápidamente y no se detectan a tiempo.
+
+**¿Dónde? (Where)**
+
+Los problemas surgen en cualquier etapa del transporte de materiales peligrosos, ya sea en carreteras, vías ferroviarias o puertos. Estos incidentes afectan principalmente a las rutas de transporte utilizadas por empresas que manejan productos químicos, gases inflamables y otros materiales industriales peligrosos.
+
+**¿Quién? (Who)**
+
+Los principales afectados son las empresas de transporte de productos peligrosos, los trabajadores que manipulan estos materiales y las comunidades cercanas a las rutas de transporte. También se ven afectadas las autoridades reguladoras que deben supervisar el cumplimiento de las normas de seguridad.
+
+**¿Por qué? (Why)**
+
+Según Chacoón y Domingo (2021): los efectos de fugas de gases pueden aumentar el efecto invernadero, contaminación de atmosfera y otros efectos nocivos, debido a ello es importante. Además, la falta de un sistema de monitoreo eficiente y continuo. Muchos sistemas actuales son manuales o desactualizados, lo que crea brechas de seguridad. Esto se agrava con el incumplimiento de regulaciones, lo cual puede resultar en sanciones legales y pérdidas de reputación.
+
+**¿Cómo? (How)**
+
+La problemática se manifiesta a través de incidentes como fugas, explosiones y derrames que no son detectados a tiempo debido a la falta de monitoreo adecuado. Las empresas a menudo dependen de sistemas fragmentados que no ofrecen una supervisión integral, exponiendo a los trabajadores y al medio ambiente a riesgos significativos.
+
+**¿Cuánto? (How Much)**
+
+Según Soto et al. (2023), en la mayoría de países de latinoamerica, se arroja que en un año promedio se atienden más de 11,00 resportes relacionados con gas L.P y gas natural. Las pérdidas asociadas incluyen daños a la infraestructura, sanciones legales, costos de limpieza y posibles daños a la salud de los trabajadores y el público. Además, el incumplimiento de las regulaciones puede llevar a multas que varían dependiendo de la gravedad del incidente y el impacto ambiental.
+
+**Conclusiones de las 5W + 2H**
+
+Luego de analizar las 5W y 2H, se evidencia que la industria del transporte de productos peligrosos enfrenta desafíos críticos en la detección temprana de fugas y otros incidentes relacionados con la seguridad. La fragmentación y la falta de actualización de las tecnologías de monitoreo son factores clave que impiden una respuesta rápida y efectiva ante emergencias. Para mitigar estos riesgos, se requiere una solución integral que incluya la implementación de tecnologías de monitoreo continuo y en tiempo real, centralizando la supervisión y mejorando la capacidad de respuesta ante condiciones peligrosas. Esto no solo ayudaría a cumplir con las normativas cada vez más estrictas, sino que también protegería a los trabajadores, el medio ambiente y las comunidades circundantes.
 
 ### 1.2.2. Lean UX Process
-
-
-
-
 #### 1.2.2.1. Lean UX Problem Statements
 
 El propósito de esta solución es proporcionar un sistema de monitoreo en tiempo real que detecte posibles fugas de gases combustibles (GNV) durante su transporte. La idea es que, al utilizar sensores avanzados, se pueda identificar rápidamente cualquier fuga que pudiera alcanzar la cabina del conductor sin ser percibida, evitando así riesgos potenciales como explosiones.
@@ -808,30 +844,199 @@ Con el objetivo de priorizar las historias de usuario clave apra el funcionamien
 
 El usuario podrá cancelar un envío de transporte antes de que esté ‘en progreso’ cuando presione el botón “Cancelar”.
 
+| **ID** | **Atributo**   | **Fuente**         | **Estímulo**                         | **Artefacto**             | **Entorno**         | **Respuesta**                       | **Medida**                                   |
+|--------|----------------|--------------------|--------------------------------------|---------------------------|---------------------|--------------------------------------|----------------------------------------------|
+| QS-3   | Seguridad    | Usuario            | Iniciar sesión | Dispositivo movil con software malicioso              | JWT y Proxy         | Dispositivo móvil con software malicioso | Pruebas de penetración |
+
+El usuario debe ser autenticado con JWT y sus datos son encriptados para que ningún software malicioso acceda a sus datos.
+
 
 #### 4.1.2.3. Constraints
 
 
 
 ### 4.1.3. Architectural Drivers Backlog
+
+| Driver ID | Título de Driver          | Descripción              | Importancia para Stakeholders (High, Medium, Low) | Impacto en Architecture Technical Complexity (High, Medium, Low) |
+|-----------|---------------------------|--------------------------|---------------------------------------------------|---------------------------------------------------------------|
+|      QS-1    |              Availability             |          Garantizar la disponibilidad del software en todo, en especifico los procesos de monitoreo y registro de incidentes. Garantizando un sistema operable y comprometido en cumplir la misión del usuario               |                 High                                  |                            High                                   |
+|      QS-2    |              Usability             |          Facilitar la experiencia de usuario es de suma importancia dado que el transportista necesita visualizar las notifiaciones visualmente clara y rapida, asimismo los reportes y formularios deben tener opción de "cancelar". De esta manera se garantiza una experiencia de  usuario completa acorde con el dominio del negocio               |                 High                                  |                            Medium                                   |
+|      QS-3    |              Security            |          Garantizar la seguridad de los datos personales              |                 High                                  |                            High                                   |
+
 ### 4.1.4. Architectural Design Decisions
+
+![image](https://github.com/user-attachments/assets/d403c417-3264-499b-b8b1-e805f7df36af)
+
+
 ### 4.1.5. Quality Attribute Scenario Refinements
+
+![image](https://github.com/user-attachments/assets/1c383976-be4f-4260-96ae-cb9c3e1af6ca)
+
+
 
 ## 4.2. Strategic-Level Domain-Driven Design
 ### 4.2.1. EventStorming
+
+Para la sección de Event Storming el equipo de desarrollo tuvo una reunión donde expusimos ideas acerca de las funcionalidades y caracteristicas a implementar en el proyecto. En el transcurso de la reunión, se lograron plantar varias ideas para la plataforma, adempas de las primeras versiones para los bounded context.
+
+En esta etapa, se identificaron los eventos clave que representan las acciones significativas dentro de la solución tecnológica. La herramienta utilizada fue Miro.
+
+![image](https://github.com/user-attachments/assets/08119e3e-b039-4ab5-9bf3-524da0cb3c01)
+
+
+**Step 2: Timelines**
+
+Durante esta fase, los eventos identificados fueron agrupados en subgrupos liderados por un evento en general que encapsula la función principal del grupo. Estos grupos incluyen happy paths, que representan los caminos deseados o exitoso, y los unhappy paths, que muestran los posibles problemas o situaciones no deseadas que pudieran surgir. Esto ayudó a darle una estructura a los eventos de manera coherente y a comprender mejor las diferentes secuencias dentro del sistema.
+
+![image](https://github.com/user-attachments/assets/a715602c-a47a-439c-9e30-f6ff791400c6)
+
+
+**Step 3: Paint Points**
+
+En este proceso, se identificaron paint points o puntos problemáticos, que son áreas donde los usuarios pueden experimentar dificultados o fricciones en su interacción con la aplicación. Estos puntos son cruciales para mejorar la experiencia del usuario y optimizar el diseño del sistema
+
+![image](https://github.com/user-attachments/assets/80e9dda3-c237-425d-9699-514d4a28d421)
+
+
+**Step 4: Pivotal points**
+
+Se señalaron los pivotal points o puntos clave, que son eventos críticos que marcan hitos improtantes en el flujo de la plataforma. Estos eventos tienden a ser significativos en el comportamiento del sistema o en la experiencia del usuario
+
+![image](https://github.com/user-attachments/assets/01cbc4a0-b909-4840-a70a-3bd2f044a2ed)
+
+
+**Step 5: Commands**
+
+Cada evento se asoció a un comando en específico que lo desencadena y un actor que lo realiza. Esto ayudó a tener un mejor reconocimiento de cómo interactúan los diferentes usuarios con el sistema.
+
+![image](https://github.com/user-attachments/assets/978c377f-81e8-4ace-88cf-777caadebbd0)
+
+
+**Step 6: Policies**
+
+Durante esta etapa, se identifican las politicas relevantes para cada contexto del sistema. Estas politica spueden incluir restricciones de negocio, reglas de validación, etc.
+
+![image](https://github.com/user-attachments/assets/87c92947-c5e6-439a-a120-a83cb7d01d0b)
+
+
+**Step 7: Read Models**
+
+Durante esta fase, se diseñan y desarrollan lso modelos de lectura para cada contexto de sistema, asegurando que proporcionen la información necesaria de manera eficiente y coherente.
+
+![image](https://github.com/user-attachments/assets/dfd3a65d-e07a-44cf-b6fb-dbc3beb86a5a)
+
+
+**Step 8: External Systems** 
+
+Durante esta etapa, se identifican los sistemas externos relevantes para la plataforma y se establecen las interfaces necesarias para integrarlos de manera efectiva.
+
+![image](https://github.com/user-attachments/assets/547d18ae-44a2-4959-95fd-6eb6dd9e6d7d)
+
+
+**Step 9: Aggregates**
+
+Durante esta etapa, se definen aggregates para cad contexto del sistema, asegurando que representen ocrrectamente las transacciones y operaciones coherentes dentro del sistema.
+
+![image](https://github.com/user-attachments/assets/8473641f-be07-4664-acb8-4e32231dfbca)
+
+Link de Miro: https://miro.com/welcomeonboard/MmFIalZxRFFmZEpobnVxU2tvVUNmZEN3R2JDbExMdUVybEJTNlI5cnRicWpLRWlCcGVYYmwzRTBhVWJqRHJ1aXwzMDc0NDU3MzU3NDk3MzU0NjE5fDI=?share_link_id=498149078137
+
 ### 4.2.2. Candidate Context Discovery
+
+A continuación, elegimos utilizar la técnica de start-with-value ya que el equipo de desarrollo decidió empezar por el valor de la aplicación (core), esto es importante para tener una mejor visión del producto.
+
+- **Identificación de Valores del Negocio** : Analizamos los valores clave del negocio, como la experiencia del usuario al monitorearla carga y registrar un incidente, calificación de transportista y la eficiencia en la gestión de usuarios.
+
+- **Identificación de Funcionalidades clave** : Identificar las funcionalidades esenciales de la aplicación, como la autenticación y registro de usuarios (IAM), el monitoreo y notificación de incidentes (Management) y las funcionalidades relacionadas al registro de incidentes y reportes (Records), que contribuyen directamente a la entre de los valores empresariales.
+
+Candidate para Bounded Context: IAM
+![image](https://github.com/user-attachments/assets/8fbd7f62-9488-4edf-88da-c2f1b87ba1e4)
+
+
+Candidate para Bounded Context: Management
+![image](https://github.com/user-attachments/assets/67b0f89a-5324-4e8e-8155-9929101dccc7)
+
+
+Candidate para Bounded Context: Records
+![image](https://github.com/user-attachments/assets/de7a3e2e-54c2-4e5b-8c49-e180f7e6a808)
+
+
+Vista completa:
+![image](https://github.com/user-attachments/assets/9a66c4d3-d5de-442e-9f51-b29718317938)
+
+
 ### 4.2.3. Domain Message Flows Modeling
+
+
+
+
+
 ### 4.2.4. Bounded Context Canvases
+
+
+
+
 ### 4.2.5. Context Mapping
 
+Después de realizar el EventStorming se identificó 3 bounded context: IAM, Records y Management. Se ha decidido usar los siguientes patrones:
+
+**IAM y Records (Customer/Supplier Pattern):**
+
+Relación: IAM valida y proporciona la autenticación para los transportistas y empresarios que interactúan con Records. Esta interacción permite el acceso adecuado para reportar y gestionar incidentes.
+
+
+**IAM y Management (Shared Kernel Pattern):**
+
+Relación: Compartición de datos de autenticación y roles de usuario, lo que permite la ejecución fluida de procesos dentro de Management. Este patrón ayuda a reducir la redundancia y mantener la consistencia en los permisos de acceso.
+
+**Records y Management (Anti-Corruption Layer Pattern):**
+
+Relación: Utilizar un Anti-Corruption Layer permite gestionar la interacción entre la notificación de incidentes y la operación del transporte. Protege los datos internos de Management de cambios que puedan afectar negativamente la funcionalidad de Records y viceversa.
+
+![image](https://github.com/user-attachments/assets/5f6d675d-b452-43a9-8a41-8461d7e18083)
+
+
+
+
 ## 4.3. Software Architecture
+
+A continuación se mostrarán los diagramas c4 que exponen la arquitectura del sistema.
+
 ### 4.3.1. Software Architecture System Landscape Diagram
+
+![image](https://github.com/user-attachments/assets/f2298318-2b09-4ce5-bc9c-88c8aa668d06)
+
+
 ### 4.3.2. Software Architecture Context Level Diagrams
+
+![image](https://github.com/user-attachments/assets/b0a73a76-60b2-4ca8-90b5-b1d30959cf41)
+
+
+
 ### 4.3.3. Software Architecture Container Level Diagrams
+
+![image](https://github.com/user-attachments/assets/3c69d139-a35f-41ce-a2a1-e2bfb31f287e)
+
+
 ### 4.3.4. Software Architecture Deployment Diagrams
+
+![image](https://github.com/user-attachments/assets/5c3495d8-e4ef-44d4-b28b-f3700442bbc3)
+
+
+
 
 # Conclusión
 
+En esta primera entrega se realizaron tareas relacionadas a la captura de requisitos y toma de decisiones a la solución tecnoloógica con tecnologías emergentes, en este caso utilizanod IOT. Se planteó el dominio de negocio y a que problemática responde. 
+
+
 # Bibliografía
 
+López-Atamoros, L. G., Fernández-Villagómez, G., Cruz-Gómez, M. J., & Durán-de-Bazúa, C. (2010). Integración de una Base Nacional de Datos de Accidentes durante el Transporte de Gas LP (BNDAT@ GLP) 1998-2009: Sustento para un estudio de evaluación de riesgo. Tecnología, Ciencia, Educación, 25(2), 99-112.
+
+Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, J. M. E. (2023). DISEÑO DE DISPOSITIVO PARA PREVENIR ACCIDENTES CAUSADOS POR FUGAS DE GAS. Revista IPSUMTEC, 6(4), 11-14.
+
+
 # Anexos
+
+Video exposición TB1: 

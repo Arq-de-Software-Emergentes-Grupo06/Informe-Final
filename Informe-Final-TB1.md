@@ -739,6 +739,47 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ## 2.4. Ubiquitous Language
 
+•	Profile (Perfil): Un perfil es un registro que contiene información personal sobre un usuario, típicamente almacenado dentro de la base de datos de la aplicación.
+
+•	Registration (Registro): La inscripción es el proceso de crear una cuenta de usuario dentro de la aplicación.
+
+•	FAQ (Frequently Asked Questions) (Preguntas Frecuentes): Las FAQ (Preguntas Frecuentes) son una recopilación de preguntas comúnmente formuladas y sus respectivas respuestas, con el objetivo de proporcionar una ayuda rápida a los usuarios.
+
+•	Dashboard (Panel de control): Un panel de control es un componente de la interfaz de usuario que proporciona una visión general de la información relevante y las acciones disponibles para el usuario, como la gestión de eventos para los organizadores o la configuración de la cuenta para los asistentes.
+
+•	Confirmation (Confirmación): Una confirmación es un reconocimiento o notificación proporcionada a los usuarios después de completar una solicitud o registro de incidente.
+
+•	Event Listing (Listado de eventos): Un listado de eventos es una colección o pantalla de eventos disponibles para que los usuarios los examinen y seleccionen.
+
+•	About Us (Acerca de Nosotros): "Acerca de nosotros" es una sección de la aplicación que contiene información sobre los creadores, la misión y los objetivos de la plataforma.
+
+•	Incident Notification (Notificación de incidentes): El proceso por el cual se informa a los transportistas y empresarios sobre cualquier inconveniente o problema que haya ocurrido durante el servicio de transporte.
+
+•	Transport Service (Servicio de transporte): El conjunto de operaciones logísticas destinadas a transportar bienes desde un punto de origen hasta su destino final.
+
+•	Transporters (Transportistas): Personas o empresas responsables del transporte de bienes desde el origen hasta el destino.
+
+•	Business Owner (Empresario): Persona o entidad encargada de gestionar la logística y la coordinación del transporte de bienes, así como de la relación con los transportistas.
+
+•	Incident Report (Reporte de incidente): Documento que detalla el incidente ocurrido durante el proceso de transporte, incluyendo la causa, el impacto y las acciones correctivas.
+
+•	Transporter Rating (Calificación de transportistas): Proceso mediante el cual los empresarios califican la calidad del servicio ofrecido por los transportistas.
+
+•	Load Monitoring (Monitoreo de carga): Seguimiento en tiempo real del estado y ubicación de la carga durante el proceso de transporte.
+
+•	Transporter Registration (Registro de transportistas): Proceso mediante el cual un transportista crea una cuenta o perfil en la plataforma para ofrecer sus servicios.
+
+•	Login (Iniciar sesión): El proceso mediante el cual un usuario accede a su cuenta en la plataforma.
+
+•	Authentication Policy (Política de autenticación): Conjunto de reglas que definen cómo los usuarios deben autenticarse para acceder a la plataforma, asegurando que solo personas autorizadas puedan ingresar.
+
+•	Service Acceptance (Aceptación del servicio): Confirmación por parte de los transportistas de que aceptan una oferta de servicio de transporte hecha por un empresario.
+
+•	Transport Route (Ruta de transporte): El trayecto que debe seguir el transportista desde el punto de recogida hasta el punto de entrega de la mercancía.
+
+
+
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping

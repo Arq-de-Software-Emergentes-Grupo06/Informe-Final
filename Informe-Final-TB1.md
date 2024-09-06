@@ -1,4 +1,4 @@
-![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
+![image](https://github.com/user-attachments/assets/fc3d633f-5c5c-4ba1-84e2-fd1ea7a62bbe)![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
 
@@ -633,12 +633,62 @@ A continuación, se realizaó el diseño de entrevistas para ambos segmentos obj
   
 - ¿Qué características consideras esenciales para que esta solución se destaque frente a otras opciones tecnológicas disponibles en el mercado?
 
-
-
-
 ### 2.2.2. Registro de entrevistas
 
+**Segmento objetivo: Transportistas**
+
+***Primera Entrevista:***
+- Hemos entrevistado a Jean Pierre de 20 años de edad, lleva trabajando 2 años dentro de su empresa y radica en Lima, que tuvo experienca de primera mano con una fuga de gas, sus principales inconvenientes son los factores externos tales como tráfico, problemas de conectividad y problemas con la carretera. Principalmente utiliza un GPS y un walkie-talkie durante su desempeño laboral. Busca recibir notificaciones a través de una aplicación movil.
+
+![entrevista1t](https://github.com/user-attachments/assets/5e605c66-95f7-4179-8a19-0af2427b68c6)
+
+
+***Segunda Entrevista:***
+- Hemos entrevistado a Ian Perez de 25 años de edad y vive en Ate Vitarte. Aunque no ha enfrentado incidentes graves, tuvo una experiencia cercana con una fuga de gas menor, en la que reaccionó de acuerdo con los protocolos de seguridad. Entre sus principales frustraciones están la incertidumbre sobre el estado de la carga y la falta de comunicación eficiente en algunas rutas. Actualmente, usa un sistema básico de rastreo GPS que le ofrece algunas ventajas, pero señala que no proporciona suficiente información sobre la seguridad de la carga. Está dispuesto a utilizar una solución tecnológica de monitoreo en tiempo real para mejorar la seguridad, siempre que sea fácil de usar y no represente una distracción. Considera esenciales los sensores de nivel de líquidos, presión y gases para monitorear combustibles, y prefiere recibir notificaciones a través de una pantalla en el vehículo o mediante una aplicación móvil. Utiliza principalmente el GPS y su teléfono móvil durante su jornada de trabajo.
+
+![entrevista2t](https://github.com/user-attachments/assets/fadb0fcb-c20a-44fd-b714-401c9a28501f)
+
+***Tercera Entrevista:***
+
+- Hemos entrevistado a Luis Cornejo de 25 años de edad y vive en San Borja. Nos cuenta que tienemedidas de seguridad como extintores, un sistema de detección de fugas y equipo de comunicación para reportar problemas. Aunque no ha enfrentado incidentes graves, tuvo una fuga menor que gestionó siguiendo los protocolos de seguridad. Entre sus principales frustraciones están la incertidumbre sobre el estado de la carga y la falta de comunicación eficiente en rutas complicadas. Actualmente, solo usa un sistema básico de rastreo que no le brinda información detallada sobre la seguridad de la carga. Está interesado en adoptar una solución tecnológica de monitoreo en tiempo real, especialmente con sensores de nivel de líquidos, presión y gases, para mejorar la prevención de fugas y peligros.
+
+![entrevista3t](https://github.com/user-attachments/assets/5bf3c460-4c92-406b-bb7d-f202d049f1a1)
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+***Primera Entrevista:***
+- Hemos entrevistado a Paolo Checa, quien explicó que actualmente cuentan solo con un sistema de GPS para monitorear los vehículos, y un seguro de vida para los transportistas, sin medidas específicas adicionales para su protección. La capacitación se limita a recomendaciones básicas como evitar exponer la carga a fuego o movimientos bruscos, y prefieren contratar transportistas experimentados. Aparte del GPS y los teléfonos proporcionados por la empresa, no disponen de otras tecnologías para la seguridad de las cargas.
+
+![entrevista2e](https://github.com/user-attachments/assets/a8db29a9-6d0b-473a-992b-9c071af4750c)
+
+***Segunda Entrevista:***
+- Hemos entrevistado a Lisanne, quien mencionó que actualmente solo cuentan con un sistema de GPS para rastrear los vehículos y proporcionan un seguro de vida a los transportistas, pero no implementan medidas adicionales específicas para protegerlos. La capacitación que se ofrece es básica, enfocándose en evitar que la carga esté expuesta a fuentes de calor o movimientos bruscos, y se prefiere contratar conductores con experiencia. Además del GPS y los teléfonos entregados por la empresa, no utilizan tecnologías adicionales para garantizar la seguridad de las cargas.
+  
+![entrevista3e](https://github.com/user-attachments/assets/8c7c6c22-70f1-4775-9212-80a7b8fb3c28)
+
+***Tercera Entrevista:***
+- Hemos entrevistado a un representante de una empresa de transporte de productos peligrosos, quien mencionó que implementan protocolos rigurosos para garantizar la seguridad de los transportistas y la carga, como la señalización adecuada, límites de velocidad, rutas seguras y revisiones periódicas de los vehículos. La capacitación de los transportistas incluye entrenamiento regular en el manejo de materiales peligrosos, procedimientos de emergencia y el uso de equipos de protección personal.
+
+  ![entrevista1e](https://github.com/user-attachments/assets/ade12b09-87c0-4c4e-8ddb-7cf14e5a830c)
+
 ### 2.2.3. Análisis de entrevistas
+
+- En las entrevistas realizadas a conductores y representantes de empresas de transporte de productos peligrosos, se pueden identificar varios temas recurrentes que destacan la importancia de la seguridad, el monitoreo en tiempo real y la adopción de nuevas tecnologías como soluciones IoT. A continuación, se presentan los principales puntos de análisis:
+
+- Las empresas dependen demasiado de la experiencia de los conductores y las medidas reactivas, como el uso de extintores o comunicación básica. Hay una oportunidad de mejorar los protocolos de seguridad mediante capacitaciones más detalladas y el uso de tecnología avanzada para la prevención de incidentes.
+  
+- El uso de tecnologías avanzadas como sensores de gas, temperatura y presión es limitado, lo que representa una debilidad. Las empresas y conductores podrían beneficiarse enormemente de soluciones IoT que ofrezcan un monitoreo en tiempo real, brindando mayor visibilidad sobre la seguridad de la carga durante el transporte.
+  
+- El interés en las soluciones IoT es fuerte debido a los beneficios que pueden ofrecer, como la mejora de la seguridad, la optimización de las operaciones y el cumplimiento de las normativas de seguridad. Este interés sugiere que existe una clara oportunidad para implementar tecnologías que puedan proporcionar estas capacidades de monitoreo avanzado.
+  
+- Aunque el interés en las soluciones IoT es alto, existen barreras para su adopción, principalmente relacionadas con la inversión económica y la posibilidad de fallos en zonas con poca conectividad. Las empresas tecnológicas que ofrezcan estas soluciones deben enfocarse en asegurar la confiabilidad y la facilidad de uso para mitigar estas preocupaciones.
+  
+- La demanda por notificaciones en tiempo real es clara, y cualquier solución IoT que se implemente debe incluir un sistema de alertas que no interfiera con las tareas diarias de los conductores, pero que brinde información oportuna y precisa en el momento correcto.
+  
+- La adopción de tecnologías emergentes puede posicionar a las empresas de transporte como líderes en seguridad dentro del sector. Aquellas que adopten estas soluciones de manera temprana no solo mejorarán sus operaciones, sino que también podrían atraer a más clientes al garantizar un servicio más seguro y confiable.
+
+- En conclusión, Las entrevistas revelan una clara necesidad de mejorar los protocolos de seguridad y adoptar tecnologías avanzadas, como soluciones IoT para el monitoreo en tiempo real. Existe un fuerte interés en estas soluciones debido a los beneficios que ofrecen en términos de seguridad y eficiencia operativa, pero las preocupaciones sobre la confiabilidad y los costos de implementación deben abordarse. Las empresas que logren implementar con éxito estas tecnologías tendrán una ventaja competitiva en el mercado y podrán mejorar significativamente la seguridad de sus operaciones.
+
 
 ## 2.3. Needfinding
 En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.

@@ -163,6 +163,9 @@ Mi nombre es Jorge Enrique Gonzales Carrión tengo 19 años de edad y curso el o
 
 ![jroge](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f2ae0bea-109a-48cb-abd8-47db542006c3)
 
+Mi nombre es Fabrizzio Hernán Laguerre Challco, tengo 19 años, desde pequeño siempre he sentido un interés por aprender a usar ciertos dispositivos siendo uno de estos los más útiles que tenemos en la actualidad, las computadoras, por ello me esforzado en practicar y aprender ciertas habilidades en ofimática, edición de videos, programación y en aprender inglés, habilidades que puedo ofrecer para contribuir al grupo.
+
+![flag](<img src="https://github.com/GraphicNovelHub/Report/blob/main/images/fabrizzio.jpg?raw=true" width="200" height="200">)
 
 ---
 

@@ -57,6 +57,8 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 -User Stories y Product Backlog
 
+Registro de commits:
+![image](https://github.com/user-attachments/assets/500ba39d-a9c5-4940-a872-bf7857b7909e)
 
 
 ---
@@ -688,7 +690,8 @@ Fin: 39:17
 
 Duración: 07:43
 
-![entrevista3t](https://github.com/user-attachments/assets/5bf3c460-4c92-406b-bb7d-f202d049f1a1)
+![Captura de pantalla 2024-09-06 171745](https://github.com/user-attachments/assets/6570a2ce-794a-41f8-870c-1fa46d93ea19)
+
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EVhL7w8-vyZKl68ljP0MwdYB7jwPNv07LyALip-7_Lmg2w?e=sL9c5x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 

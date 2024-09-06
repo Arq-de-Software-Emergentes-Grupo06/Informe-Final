@@ -658,7 +658,7 @@ Resumen:
 
 ***Segunda Entrevista:***
 
-Nombres y apellidos: Ian Perz
+Nombres y apellidos: Ian Perez
 
 Edad: 25
 
@@ -717,7 +717,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EV
 
 ***Segunda Entrevista:***
 
-Nombre: Paolo Checa
+Nombre: Lissane Mareni
 
 Inicio: 4:30
 
@@ -735,7 +735,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EV
 
 ***Tercera Entrevista:***
 
-Nombre: Alejandro Mello
+Nombre: Jose Luis Castillo
 
 Inicio: 8:48
 
@@ -747,7 +747,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EV
 
 ![entrevista1e](https://github.com/user-attachments/assets/ade12b09-87c0-4c4e-8ddb-7cf14e5a830c)
 
-- Hemos entrevistado a un representante de una empresa de transporte de productos peligrosos, quien mencionó que implementan protocolos rigurosos para garantizar la seguridad de los transportistas y la carga, como la señalización adecuada, límites de velocidad, rutas seguras y revisiones periódicas de los vehículos. La capacitación de los transportistas incluye entrenamiento regular en el manejo de materiales peligrosos, procedimientos de emergencia y el uso de equipos de protección personal.
+- Hemos entrevistado Jose Luis Castillo de 22 años de edad que vive en Santiago de Surco, quien mencionó que implementan protocolos rigurosos para garantizar la seguridad de los transportistas y la carga, como la señalización adecuada, límites de velocidad, rutas seguras y revisiones periódicas de los vehículos. La capacitación de los transportistas incluye entrenamiento regular en el manejo de materiales peligrosos, procedimientos de emergencia y el uso de equipos de protección personal.
 
 
 
@@ -1190,14 +1190,18 @@ Vista completa:
 
 ### 4.2.3. Domain Message Flows Modeling
 
-
-
-
+![whatesigma](https://github.com/user-attachments/assets/05749b3f-3869-41d2-882f-27f4aaa67c64)
 
 ### 4.2.4. Bounded Context Canvases
 
+-**IAM**
+![boundediam](https://github.com/user-attachments/assets/145f3968-f66e-4eae-a37e-67867137b619)
 
+-**MANAGEMENT**
+![boundedmanage](https://github.com/user-attachments/assets/44a6fc1d-0319-4151-9415-d2779d365840)
 
+-**RECORDS**
+![boundedrecor](https://github.com/user-attachments/assets/f192d683-5dbd-4c57-8a0f-50ffbf7e5199)
 
 ### 4.2.5. Context Mapping
 

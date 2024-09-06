@@ -57,6 +57,8 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 -User Stories y Product Backlog
 
+Registro de commits:
+![image](https://github.com/user-attachments/assets/78f03c33-e559-4d8d-911b-44222b621651)
 
 
 ---

@@ -939,10 +939,9 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+![image](https://github.com/user-attachments/assets/c5d9bbff-01ac-4111-8638-5a62cc7b1e40)
 
-![image](https://media.discordapp.net/attachments/1279250871175217205/1279250982324408340/Scenario_Mapping_Template_-_Frame_2.jpg?ex=66d3c2d1&is=66d27151&hm=54c4b680d9d2eee9426cfcbe1ef072de48a65ecf3ad3690b18a0d15bb38cf318&=&format=webp)
-
-![image](https://media.discordapp.net/attachments/1279250871175217205/1279250984312246332/Scenario_Mapping_Template_-_Frame_1.jpg?ex=66d3c2d1&is=66d27151&hm=f86e1b0ff279b949485d98f0afda095cece2cec945a16ec798576bf58406ead2&=&format=webp)
+![image](https://github.com/user-attachments/assets/8027d267-90bf-4513-8589-bc8096e62f76)
 
 ## 3.2. User Stories
 
@@ -983,10 +982,9 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ## 3.3. Impact Mapping
 
-![image](https://media.discordapp.net/attachments/1279250871175217205/1279250982923931691/Impact_map_1_1.png?ex=66d3c2d1&is=66d27151&hm=620328f456178569c0d3af35b326471546e22dbabfe6360d691a4d93c28c7be1&=&format=webp)
+![image](https://github.com/user-attachments/assets/579455f2-88ac-4f21-a78d-ba428afc5caa)
 
-
-![image](https://media.discordapp.net/attachments/1279250871175217205/1279250983444156538/Impact_map_1.png?ex=66d3c2d1&is=66d27151&hm=892103df7d0a24255cd97616f425c38a778a92ec6ca5e0a97103e79863c57c86&=&format=webp)
+![image](https://github.com/user-attachments/assets/0e275f07-8f13-4e0d-9d7c-184bdbfd0aca)
 
 
 ## 3.4. Product Backlog

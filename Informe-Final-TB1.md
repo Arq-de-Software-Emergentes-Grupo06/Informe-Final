@@ -234,7 +234,7 @@ El propósito de esta solución es proporcionar un sistema de monitoreo en tiemp
 
 Este sistema está diseñado para abordar una problemática crítica en la industria del transporte de gases combustibles: la falta de mecanismos eficaces que permitan alertar a los conductores sobre fugas inminentes antes de que se conviertan en una amenaza. Actualmente, existen pocas soluciones tecnológicas que ofrezcan este nivel de seguridad, lo que hace que nuestra propuesta sea una alternativa innovadora en el mercado.
 
-El sistema no solo permitirá reducir significativamente los riesgos de accidentes, sino que también optimizará los protocolos de seguridad, garantizando una operación más segura y eficiente.
+Sin embargo, hemos observado un factor críticio, que en base a los poisbles incidentes de fuga de gas, no solo puede perjudicar a la empresa en su reputación, sino cobrar vidas humanas debido a la poca atención a este problema
 
 Por tanto, la pregunta clave que este proyecto busca resolver es:
 

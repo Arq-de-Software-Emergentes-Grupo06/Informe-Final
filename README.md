@@ -14,9 +14,9 @@ Profesor: Rojas Malasquez, Royer Edelwer
 
 ***INFORME DE TRABAJO FINAL - TB1***
 
-**Startup: **
+**Startup: CuriDev**
 
-**Producto: **
+**Producto: SafeFlow - IOT**
 
 **Integrantes:**
 - Alarcon Rondon. Sandro Fourfive
@@ -32,23 +32,31 @@ Agosto del 2024
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 | 15/08/2024 | Alarcon Rondon. Sandro Fourfive | |
-| 1.10 | 20/08/2024 | Espejo Macuri, Paolo Andre |  |
-| 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| |
-| 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | |
-| 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | |
+| 1.00 | 15/08/2024 | Alarcon Rondon. Sandro Fourfive | To Be Scenario Map, Diseño de historia de usuarios, constrains v.1|
+| 1.10 | 20/08/2024 | Espejo Macuri, Paolo Andre | Diseño de historia de usuario, EventStorming v.1 |
+| 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design, Software Architecture, diseño y registro de entrevistas |
+| 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | EventStorming, Bounded Context Candidates, diseño y registro de entrevistas |
+| 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | Diseño de user stories, analisis de entrevistas, proceso Lean UX, Constrains v.1 |
 
 
 ---
 # Project Report Collaboration Insights
 
 TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
-Link de repositorio Github: (https://github.com/upc-202402-GreatMinds-SW74-Ayni-IoT/Informe-Final_IoT)
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
 
-Para la elaboración del informe se realizaron actividades tales como: 
--
+Para la elaboración del informe se realizaron actividades tales como:
 
-(imagen de commit)
+-Primera versión de Software Architecture, Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design
+
+-Lean UX Process
+
+-Diseño y analisis de entrevistas
+
+-Analisis de competidores
+
+-User Stories y Product Backlog
+
 
 
 ---
@@ -137,5 +145,5 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |  |  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |  |  |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. | Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos.  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. | El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. |

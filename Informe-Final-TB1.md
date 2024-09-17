@@ -1253,7 +1253,363 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 ![image](https://github.com/user-attachments/assets/3330ed52-938f-4075-abe1-8cdd753a0a02)
 
+## 4.2.1. Bounded Context: IAM
+### 4.2.1.1. Domain Layer
 
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>User</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Representación de los usuarios del segmento objetivo</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador unico</td>
+    </tr>
+    <tr>
+        <td>userName</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Nombre de usuario</td>
+    </tr>
+     <tr>
+        <td>email</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Correo electronico</td>
+    </tr>
+     <tr>
+        <td>password</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Contraseña del usuario</td>
+    </tr>
+     <tr>
+        <td>role</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>rol del usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>getUsername</td>
+        <td>username</td>
+        <td>Public</td>
+        <td>Obtención de nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>getEmail</td>
+        <td>email</td>
+        <td>Public</td>
+        <td>Obtención de correo electrónico</td>
+    </tr>
+    <tr>
+        <td>getPassword</td>
+        <td>password</td>
+        <td>Public</td>
+        <td>Obtención de contraseña</td>
+    </tr>
+     <tr>
+        <td>getRoles</td>
+        <td>srtRoles</td>
+        <td>Public</td>
+        <td>Obtención del rol del usuario</td>
+    </tr>
+</table>
+
+### 4.2.1.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>AuthController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlador para autenticación</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>authService</td>
+        <td>AuthService</td>
+        <td>Private</td>
+        <td>Servicio de autenticación</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>authenticateUser</td>
+        <td>authenticatedResource</td>
+        <td>Public</td>
+        <td>Metodo para autenticar usuario</td>
+    </tr>
+    <tr>
+        <td>registerUser</td>
+        <td>signInResource</td>
+        <td>Public</td>
+        <td>Metodo de registro de usuario</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UsersController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlador para usuarios</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>userQueryService</td>
+        <td>UserQueryService</td>
+        <td>Private</td>
+        <td>Servicio de consultas de usuario</td>
+    </tr>
+    <tr>
+        <td>userCommandService</td>
+        <td>UserCommandService</td>
+        <td>Private</td>
+        <td>Servicio de registro de usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>getAllUsers</td>
+        <td>usersResource</td>
+        <td>Public</td>
+        <td>Metodo para obtener todos los usuarios/td>
+    </tr>
+    <tr>
+        <td>getUserById</td>
+        <td>userResource</td>
+        <td>Public</td>
+        <td>Metodo para obtener un usuario por id</td>
+    </tr>
+</table>
+
+
+### 4.2.1.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UserCommandService</td>
+        <td>Service</td>
+        <td colspan="2">Servicio con reglas de negocio para usuario</td>
+    </tr>
+    <tr>
+        <td>UserQueryService</td>
+        <td>Service</td>
+        <td colspan="2">Servicio con reglas de negocio para usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>UserRepository</td>
+        <td>Long</td>
+        <td>private</td>
+        <td>Repositorio de usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>existByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Metodo para validar usuario por nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>findByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Metodo para obtener usuario por nombre de usuario</td>
+    </tr>
+</table>
+
+
+### 4.2.1.4. Infrastructure Layer
+
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>UserRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Repositorio que guarda la información de los usuario</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>existsByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Metodo para validar usuario por nombre de usuario</td>
+    </tr>
+    <tr>
+        <td>findByUsername</td>
+        <td>user</td>
+        <td>Public</td>
+        <td>Metodo para buscar usuario por nombre de usuario</td>
+    </tr>
+</table>
+
+
+
+### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
+
+
+
+
+### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
+
+![image](https://github.com/user-attachments/assets/756ee8f2-a2c0-4d8b-95d1-69b36efe7740)
+
+
+#### 4.2.1.7.2. Bounded Context Database Design Diagram
+
+![image](https://github.com/user-attachments/assets/71c76fb2-c063-42d8-a7be-0c6cd55fa1a3)
+
+
+# Capítulo VI: Solution UX Design
+
+## 6.1 Style Guidelines
+### 6.1.1 General Style Guidelines
+
+### 6.1.2 Web, Mobile and IoT Style Guidelines
+
+## 6.2 Information Architecture
+### 6.2.1 Organization Systems
+
+### 6.2.2 Labeling Systems
+
+### 6.2.3 SEO Tags and Meta Tags
+
+### 6.2.4 Searching Systems
+
+### 6.2.5 Navigation Systems
+
+## 6.3 Landing Page UI Design
+### 6.3.1 Landing Page Wireframe
+
+### 6.3.2 Landing Page Mock-up
+
+## 6.4 Applications UI/UX Design
+### 6.4.1 Applications Wireframes
+
+### 6.4.2 Applications Wireflow Diagrams
+
+### 6.4.3 Applications Mock-ups
+
+### 6.4.4 Applications User Flow Diagrams
+
+### 6.4.5 Applications Prototyping
+
+## 6.5 Appilcations Prototyping
 
 
 

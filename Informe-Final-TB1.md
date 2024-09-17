@@ -1253,8 +1253,10 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 ![image](https://github.com/user-attachments/assets/3330ed52-938f-4075-abe1-8cdd753a0a02)
 
-## 4.2.1. Bounded Context: IAM
-### 4.2.1.1. Domain Layer
+# Capítulo V: Tactical-Level Software Design
+
+## 5.1. Bounded Context: IAM
+### 5.1.1. Domain Layer
 
 <table>
     <tr>
@@ -1344,7 +1346,7 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
     </tr>
 </table>
 
-### 4.2.1.2. Interface Layer
+### 5.1.2. Interface Layer
 
 <table>
     <tr>
@@ -1457,7 +1459,7 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 </table>
 
 
-### 4.2.1.3. Application Layer
+### 5.1.3. Application Layer
 
 <table>
     <tr>
@@ -1517,7 +1519,7 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 </table>
 
 
-### 4.2.1.4. Infrastructure Layer
+### 5.1.4. Infrastructure Layer
 
 
 <table>
@@ -1559,18 +1561,18 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 
 
-### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
+### 5.1.5 Bounded Context Software Architecture Component Level Diagrams
 
 
 
 
-### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
-#### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
+### 5.1.6 Bounded Context Software Architecture Code Level Diagrams
+#### 5.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![image](https://github.com/user-attachments/assets/756ee8f2-a2c0-4d8b-95d1-69b36efe7740)
 
 
-#### 4.2.1.7.2. Bounded Context Database Design Diagram
+#### 5.1.6.2. Bounded Context Database Design Diagram
 
 ![image](https://github.com/user-attachments/assets/71c76fb2-c063-42d8-a7be-0c6cd55fa1a3)
 

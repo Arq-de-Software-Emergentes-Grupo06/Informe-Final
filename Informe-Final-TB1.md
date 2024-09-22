@@ -1578,22 +1578,225 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 
 # Capítulo VI: Solution UX Design
-
 ## 6.1 Style Guidelines
-### 6.1.1 General Style Guidelines
+
+Mediante la solución IoT SafeFlow se busca que los usuarios gocen de una interfaz que transmite formalidad, profesionalismo y lo más minimalista posible que transmita una sensación de facil uso ante el monitoreo de la carga y su rapida respuesta frente a posibles accidentes. Por ello, el equipo tomó la decisión de emplear recursos visuales que capten la atención de los segmentos objetivos y que sean fáciles de identificar. Como estrategia se utilizaron colores llamativos, con comibnaciones resaltantes, junto con fuentes tipográficas con diferentes tamaños y espaciados ligeramente amplios, con el propósito de generar placer visual y lograr que el texto sea más visible. Cabe destacar que no se emplearán texturas, pues se busca mantener un aspecto minimalista.
+
+**Brand Overview**
+
+La solución IOT SafeFlow, surge a partir de la necesidad de mejorar la seguridad de los transportistas de productos peligrosos y aumentar la calidad del servicio de las empresas de estos mismos. Debido a ello, se propuso desarrollar una solución completa incluyendo IOT, que facilitará el monitoreo atiempo real de la carga de combustible, entre otras funciones con el fin de atender las necesidades previamente mencionadas.
+
+El branding detrás de SafeFlow se fortalece aún más al comunicar un mensaje claro y directo: proteger el flujo de transporte en entornos críticos, mejorando tanto la calidad del servicio como la seguridad operacional, lo que refuerza la reputación de las empresas que lo adoptan. En resumen, SafeFlow no es solo un sistema, es una promesa de seguridad y eficiencia en un sector donde estos elementos son clave para el éxito.
+
+**Brand Name**
+
+El nombre SafeFlow encapsula de manera precisa y potente la misión central de la solución IOT: asegurar un flujo seguro en el transporte de combustibles peligrosos. Al unir las palabras "Safe" (seguridad) y "Flow" (flujo), el nombre comunica inmediatamente dos aspectos críticos: la prioridad por mantener altos estándares de seguridad y la importancia del movimiento continuo y controlado de las cargas.
+
+La elección del nombre SafeFlow no solo resalta el compromiso con la seguridad, sino que también refleja la eficiencia y la confianza que las empresas y transportistas pueden esperar al integrar este sistema en sus operaciones. SafeFlow se convierte así en un sinónimo de protección para quienes manejan cargas peligrosas y para el entorno en el que operan, generando tranquilidad tanto para el operador como para el cliente final.
+
+![image](https://github.com/user-attachments/assets/44cd783b-487f-4b18-a427-d0d142cf0c7f)
+
+**Colores**:
+
+Colores primarios: La paleta de colores mostrada va desde tonos claros hasta oscuros, todos en la gama de amarillos y naranjas. Comienza con los tonos más suaves, como el #FFF8BC (Claro V3) y el #FFF0A2 (Claro), que evocan luz y calidez con su suavidad. Avanza hacia un amarillo más intenso y brillante con #FFE589 (Claro V2) y #FFDF6F (Regular), que transmiten energía y vitalidad. Luego, los tonos naranjas empiezan a tomar protagonismo con #FCB658 (Regular V1) y #FFAC3C (Oscuro), que aportan una sensación de dinamismo y audacia. Finalmente, el tono más oscuro, #E09735 (Oscuro V2), ofrece una sensación más terrosa y sólida, cerrando la progresión con un color más profundo y fuerte.
+
+![image](https://github.com/user-attachments/assets/8080af10-fc8b-463d-b746-7c8045670664)
+
+
+Colores secundarios: La paleta de colores presentada, que abarca desde tonos claros hasta oscuros, refleja una identidad visual de seguridad, confiabilidad y profesionalismo, clave para SafeFlow. Los tonos claros evocan transparencia y confianza, mientras que los medios sugieren responsabilidad y conexión con el entorno. Los tonos oscuros, por su parte, aportan una sensación de fuerza y protección, elementos esenciales en una solución IOT que monitorea la carga peligrosa. Esta combinación equilibra accesibilidad y autoridad, proyectando una imagen robusta y seria, ideal para transmitir la misión de SafeFlow.
+
+![image](https://github.com/user-attachments/assets/228bb94b-5e0b-4898-a060-2cb1114b3cb3)
+
+
+Colores adicionales: Como colores adicionales se seleccionaron blanco, negro y dos tonalidades diferentes de rojo. Estos serán empleados dentro de la tipografía, botones y mensajes de la aplicación. El blanco también será empleado para algunos fondos que requieran que la visibilidad del texto resalte con mayor ímpetu.
+
+![image](https://github.com/user-attachments/assets/bc5ea6a4-e539-42be-8313-798507e1c7bb)
+
+**Tipografia:**
+
+El equipo seleccionó la fuente de letra Archivo, un estilo tradicional y fácil de leer. La separación del interletraje es de 0,15 px, el interlineado es de 0,5 px y el tamaño de la fuente varía dependiendo de la finalidad de uso, por ejemplo, para los títulos se opta por un tamaño de 56 px, y para el texto redactado por el usuario 27 px. 
+
+![Tipografia](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2e9abaf9-db14-4c7f-b000-2a60df98a8c6)
+
+Tono de comunicación y lenguaje aplicado
+El tipo de lenguaje a emplear será serio y formal junto con entusiasmo y serenidad. Dado que se agregarán mejoras y pasos que captarán la atención del usuario. Asimismo, se agregaron elementos para perfeccionar la interfaz y diseño final para los clientes.
+
 
 ### 6.1.2 Web, Mobile and IoT Style Guidelines
 
+Con respecto a la página web, está diseñada para mostrarse en el dispositivo que se esté usando, ya sea desde una computadora o dispositivo móvil (responsive), el sitio web estará disponible en ambas plataformas para proporcionar una mejor experiencia de usuario. Además, el patrón de diseño web usado es Flat Design, para que el usuario tenga una alta comprensión y una fácil interacción al momento de estar en la interfaz. 
+
+Se utilizará el patrón Z:
+
+![image](https://github.com/user-attachments/assets/0b4b3e9c-c055-4da0-b4b9-c4da4d384186)
+
+Asimismo, se tienen contemplados los siguientes puntos relacionados a responsive web interfaces:
+
+- Grid System: Generalmente un sistema de 12 columnas para permitir que la interfaz se adapte a diferentes tamaños de pantalla.
+- Breakpoints: Definir puntos de quiebre (breakpoints) para adaptarse a pantallas pequeñas (móviles), medianas (tabletas) y grandes (escritorios). Ejemplos comunes son 320px, 768px y 1200px.
+- Escalado en tipografía: Asegurarse de que el texto sea legible tanto en pantallas grandes como pequeñas. Por ejemplo, un tamaño mínimo de 16px para móviles.
+- Consistencia en la paleta de colores: Usar una paleta de colores uniforme con variaciones para estados interactivos (hover, focus, active).
+- Botones y Links: Tienen que ser lo suficientemente grandes para interactuar en pantallas táctiles (mínimo 44px de altura).
+- Iconografía: Uso de iconos universales y reconocibles para navegación y acciones.
+
+Con respecto a las interfaces de la aplicación móvil, se contemplan los siguientes puntos:
+
+- Single Column: Ideal para aplicaciones de lectura de contenido (blogs, redes sociales), formularios simples, y listas de artículos o productos.
+- Bottom Navigation: La barra de navegación principal se coloca en la parte inferior de la pantalla, donde es más fácil de alcanzar con el pulgar, especialmente en dispositivos móviles más grandes.
+- Overlays: Utiliza capas superpuestas para mostrar información adicional sin cambiar de pantalla. Por ejemplo, ventanas emergentes que muestran más detalles o permiten realizar acciones rápidas.
+- Floating Action Button: Un botón flotante que suele ubicarse en la esquina inferior derecha y proporciona acceso a la acción principal de la aplicación.
+
+No se contemplan diseños de interfaz para la IoT embedded app debido a que la solución IOT no lo implica.
+
 ## 6.2 Information Architecture
+
+En la presente sección, se establecerá la estructura de la solución IOT según cada segmento objetivo. Del mismo modo, los distintos elementos que se emplearán en la navegación dentro de las aplicaciones.
+
 ### 6.2.1 Organization Systems
 
-### 6.2.2 Labeling Systems
+En este punto se indicarán los grupos de información en los cuales se aplicarán los tipos de estructuración visual, además, se indicará para qué segmento objetivo está diseñado y qué tipo de categorización se utilizará.
+
+**Segmento: Transportistas de productos peligrosos**
+
+- **Jerárquica:**
+  - **Monitoreo en tiempo real:** El transportista podrá visualizar de manera jerárquica la información sobre las condiciones de seguridad (sensores de detección de fugas de gas, temperatura, presión, etc.), organizada por niveles de prioridad.
+  
+- **Secuencial:**
+  - **Atención de alertas inmediatas:** El transportista seguirá un proceso secuencial en el manejo de alertas, comenzando desde la recepción de la alerta, verificación de la condición peligrosa, hasta la toma de decisiones como la activación de protocolos de emergencia.
+  
+- **Matricial:**
+  - **Registro histórico de datos de seguridad:** El transportista podrá acceder a una visualización matricial del historial de los eventos de seguridad del vehículo. La información se dispondrá por fecha, tipo de evento y gravedad, lo que facilitará el análisis cruzado de los datos.
+
+**Segmento: Empresas de transporte de productos peligrosos**
+
+- **Jerárquica:**
+  - **Integración con sistemas de gestión de flota:** Las empresas podrán gestionar la seguridad de su flota de forma jerárquica, priorizando alertas de mayor relevancia, desde la visión global de la flota hasta el detalle de cada vehículo.
+  
+- **Secuencial:**
+  - **Mejora continua en protocolos de seguridad:** Las empresas podrán revisar y ajustar sus protocolos de seguridad de forma secuencial, basándose en los datos obtenidos del registro histórico, siguiendo pasos como análisis, identificación de fallas y ajuste de medidas preventivas.
+
+**Funcionalidades ofrecidas para ambos segmentos:**
+
+- **Jerárquica:**
+  - **Landing Page:** En esta sección se presentará información relevante sobre el sistema de monitoreo de seguridad para productos peligrosos, organizada en categorías que van desde las características principales hasta los detalles técnicos.
+  
+- **Matricial:**
+  - **Menú de opciones:** Tanto transportistas como empresas de transporte tendrán un menú de funcionalidades, como monitoreo en tiempo real, alertas y registro histórico, organizadas sin un orden específico pero accesibles según las necesidades del usuario.
+
+Las funcionalidades contempladas permiten monitorear en tiempo real, recibir alertas inmediatas, analizar datos históricos y gestionar flotas de transporte de manera más eficiente y segura.
+
+6.2.2 Labeling Systems
+
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información brindada por la Landing Page.
+
+Encabezados de la Landing Page:
+
+- **Inicio/Home:** Sección preseleccionada por defecto que brindará una frase representativa y el logo de la aplicación, además de una idea principal del objetivo de esta.
+  
+- **Sobre nosotros/About Us:** Sección donde el cliente obtiene información acerca del equipo de desarrollo, será capaz de visualizar nuestra misión, visión, quiénes somos y qué hacemos.
+
+- **Services/Funcionalidades:** Sección dividida para cada segmento objetivo, donde se mostrarán las funcionalidades que otorga la aplicación para ellos.
+
+- **Contáctanos/Contact Us:** Sección donde se muestran nuestros canales de comunicación.
+
+---
+
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de las funcionalidades brindadas por la aplicación web.
+
+Encabezados para Transportistas:
+
+- **Inicio/Home:** Página principal personalizada para transportistas.
+
+- **Mis viajes:** Sección donde el transportista podrá gestionar y ver el estado de sus viajes en curso o programados.
+
+- **Registro de incidentes:** Permite al transportista registrar cualquier incidente ocurrido durante un viaje, proporcionando detalles clave para una resolución rápida.
+
+- **Historial:** Sección que almacena un historial detallado de todos los viajes realizados, incluyendo los incidentes reportados y su resolución.
+
+---
+
+Encabezados para Empresas:
+
+- **Inicio/Home:** Página principal personalizada para empresas.
+
+- **Incidentes publicados:** Sección donde la empresa puede visualizar y gestionar los incidentes que han sido reportados por los transportistas.
+
+- **Reportes:** Permite generar y ver reportes detallados sobre los viajes, incidentes, y la seguridad de la flota.
+
+- **Monitoreo de viajes:** Ofrece una visión en tiempo real del estado de los viajes que están en curso, con indicadores de seguridad y alertas.
+
+
 
 ### 6.2.3 SEO Tags and Meta Tags
 
+En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de los demás en internet. Gracias a ellas, se podrá encontrar a SafeFlow en los diversos buscadores.
+
+Para el sitio web estático:
+
+- **Title:** SafeFlow
+- **Description:** SafeFlow - CuriDev Oficial Landing Page
+- **Keywords:** hazardous transport, safety monitoring, incident management, transport security
+- **Authors:** CuriDev team
+
+Para la aplicación web:
+
+- **Title:** SafeFlow
+- **Description:** SafeFlow - CuriDev Oficial Web Page
+- **Keywords:** hazardous transport, safety monitoring, incident management, transport security, fleet management
+- **Authors:** CuriDev team
+
+Para la aplicación móvil:
+
+- **Title:** SafeFlow
+- **Description:** SafeFlow - CuriDev Oficial Mobile App
+- **Keywords:** hazardous transport, safety monitoring, incident management, transport security, fleet management
+- **Authors:** CuriDev team
+
+
 ### 6.2.4 Searching Systems
 
+En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación web, móvil y landing page. Al hacer uso de estos sistemas, los usuarios podrán encontrar la información que requieran.
+
+En el sitio web estático:
+Los usuarios podrán utilizar la barra de navegación para buscar información acerca del producto solución de SafeFlow. De manera interactiva, se utilizará un botón que alternará entre “Para transportistas” y “Para empresas”, permitiendo a los usuarios acceder rápidamente a las funcionalidades diseñadas para cada segmento.
+
+En la aplicación web y móvil:
+
+Segmento: Transportistas de productos peligrosos
+
+- **Mis viajes:**  
+  Esta sección permitirá al transportista realizar el seguimiento de sus viajes en curso o programados. El sistema de búsqueda incluirá un filtro que permitirá buscar viajes según origen, destino o fecha. Adicionalmente, podrá visualizar incidentes registrados durante los viajes o alertas de seguridad.
+
+- **Registro de incidentes:**  
+  En esta sección, los transportistas podrán registrar y gestionar incidentes ocurridos durante los viajes. El sistema de búsqueda permitirá filtrar incidentes según fecha, tipo de incidente, o nivel de gravedad. Los transportistas también podrán visualizar incidentes resueltos o en proceso de revisión.
+
+Segmento: Empresas de transporte de productos peligrosos
+
+- **Monitoreo de viajes:**  
+  Las empresas podrán realizar el seguimiento de todos los viajes de su flota. Se habilitará un sistema de búsqueda y filtro por vehículo, conductor, fecha o estado del viaje (en curso, finalizado, en alerta). Esto permitirá a las empresas gestionar mejor la seguridad de sus operaciones.
+
+- **Incidentes publicados:**  
+  En esta sección, las empresas podrán visualizar y gestionar los incidentes reportados por los transportistas. El sistema de búsqueda contará con filtros por fecha, tipo de incidente, y estado (resuelto o en revisión), lo que facilitará la gestión y análisis de los problemas ocurridos en la flota.
+
+#### Funcionalidades compartidas para ambos segmentos:
+
+- **Reportes y análisis:**  
+  Tanto transportistas como empresas podrán acceder a un sistema de búsqueda para generar reportes. Podrán buscar reportes históricos según la fecha, tipo de incidente, viajes completados, y datos de monitoreo. Esto permitirá generar reportes personalizados para análisis de seguridad y optimización de protocolos.
+
+
 ### 6.2.5 Navigation Systems
+
+A continuación, el equipo mostrará los sistemas de navegación con los que contará SafeFlow para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+
+### En la Landing Page:
+Se contará con encabezados que representarán las diversas secciones presentes. Estos encabezados estarán ubicados en la parte superior de la página en un menú horizontal que siempre estará visible mientras se navega por la página, ya sea al bajar o subir. Para evitar que el usuario tenga que desplazarse manualmente por toda la página, podrá utilizar estos encabezados para dirigirse directamente a la sección deseada. El visitante deberá leer el título de cada encabezado para asegurarse de que se está ubicando en la sección correcta. Este sistema permitirá una navegación rápida, fácil e intuitiva.
+
+### En la aplicación web:
+El sistema de navegación será similar al de la Landing Page, con un menú principal que permitirá a los usuarios trasladarse a diferentes páginas del sitio web. Las opciones de este menú variarán de acuerdo con el segmento objetivo al que pertenezca el usuario (transportista o empresa). Además, se presentarán listados organizados para distintos grupos de elementos, como viajes, incidentes o reportes. Dentro de estos listados, los usuarios podrán aplicar filtros para navegar entre las opciones de manera más eficiente y personalizada.
+
+### En la aplicación móvil:
+La navegación en la aplicación móvil tendrá un **scroll limitado**, mostrando carruseles de opciones en la sección **Home**, como viajes recientes o alertas activas. Además, se utilizará un **bottom navigation bar** (barra de navegación inferior) para facilitar la navegación entre las principales secciones de la aplicación, como "Mis viajes", "Alertas", o "Reportes". Las opciones en esta barra variarán según el tipo de usuario (transportista o empresa), ofreciendo un acceso rápido a las funcionalidades más relevantes para cada segmento.
+
 
 ## 6.3 Landing Page UI Design
 ### 6.3.1 Landing Page Wireframe

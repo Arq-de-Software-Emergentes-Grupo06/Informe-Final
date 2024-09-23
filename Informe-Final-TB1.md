@@ -1800,6 +1800,31 @@ La navegación en la aplicación móvil tendrá un **scroll limitado**, mostrand
 
 ## 6.3 Landing Page UI Design
 ### 6.3.1 Landing Page Wireframe
+En la etapa de diseño de la interfaz de usuario (UI) de la página de destino (landing page), uno de los primeros pasos cruciales es la creación del "Landing Page Wireframe". Este wireframe actúa como el esqueleto inicial de la página, proporcionando una representación estructural y funcional de los elementos clave que compondrán la interfaz final. En este caso presentamos las secciones: Navbar (dentro de Hero), Hero, Services, About, Testimonials, Download y Footer.
+
+Hero:
+
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778499289131/Hero.png?ex=66f2cf77&is=66f17df7&hm=796ba5b79a2c8f3f007748d96aca76f0326459ceacb080d1a14be939d4ebb27c&=&format=webp&quality=lossless&width=846&height=468)
+
+Services:
+
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778868650007/services.png?ex=66f2cf77&is=66f17df7&hm=eebebba732c10dfd450f5bb5a256f940305c47a450eda434d348b7c078b19ddd&=&format=webp&quality=lossless&width=631&height=468)
+
+About us:
+
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778184851597/about_us.png?ex=66f2cf77&is=66f17df7&hm=2efa59bb117c455f833c510e6f5bf034562c6a5357b06f55f846f76ddc701d1c&=&format=webp&quality=lossless&width=779&height=468)
+
+Testimonials:
+
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607760560210/testimonios.png?ex=66f2d308&is=66f18188&hm=17b75c43d99642f2c308635b7c72787c6c6c344464321b8938e63adce18b3001&=&format=webp&quality=lossless&width=691&height=468)
+
+Download:
+
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607177420912/descarga.png?ex=66f2d308&is=66f18188&hm=e377077a7632f48167b2167cb7ffed20988dece8c5170a3fe0617ef4a5766804&=&format=webp&quality=lossless&width=851&height=468)
+
+Footer:
+![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607466963047/footer.png?ex=66f2d308&is=66f18188&hm=4ddf322bc38c2e2478562307446df22a89310e57335f97c03aed614ff24740d5&=&format=webp&quality=lossless&width=960&height=259)
+
 
 ### 6.3.2 Landing Page Mock-up
 

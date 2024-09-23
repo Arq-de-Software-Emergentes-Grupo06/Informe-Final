@@ -1818,7 +1818,7 @@ About us:
 
 Testimonials:
 
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607760560210/testimonios.png?ex=66f2d308&is=66f18188&hm=17b75c43d99642f2c308635b7c72787c6c6c344464321b8938e63adce18b3001&=&format=webp&quality=lossless&width=691&height=468)
+![image](https://cdn.discordapp.com/attachments/1287785769527672942/1287809843721404476/testimonios.png?ex=66f2e5e1&is=66f19461&hm=d1fa354052675d234ef9bb70304087b25aa2acb3d9cfca56a2385b23b5a61fdc&)
 
 Download:
 
@@ -1829,6 +1829,37 @@ Footer:
 
 
 ### 6.3.2 Landing Page Mock-up
+
+ En la fase de diseño de la interfaz de usuario de la página de destino (landing page), el siguiente paso fundamental es la creación del "Landing Page Mock-up". Este mock-up representa la materialización visual de nuestra página, brindando una vista detallada y práctica de cómo se verá y funcionará la interfaz final.
+
+
+ NavBar y Hero:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096169939016/navbar_landing.png?ex=66f2e70b&is=66f1958b&hm=22a00788f8c634e8eb18480608626888b883ebc25ddd209c9a979e877932f633&=&format=webp&quality=lossless&width=904&height=468)
+
+
+
+ Services:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095813161015/hero_landing.png?ex=66f2e70b&is=66f1958b&hm=e60e3c81f49a5168e87c9ce4febcb7c3254b2eaf05c4b2bbd91febfbc06890b5&=&format=webp&quality=lossless&width=835&height=468)
+
+ about us:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095481942189/about_us_landing.png?ex=66f2e70b&is=66f1958b&hm=b590ff1b9200932199d984ef4e1d3ab594b8bae6bdb4a7b00fbb234be1a65bd3&=&format=webp&quality=lossless&width=960&height=414)
+
+
+ Testimonials:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095171432468/testimonials_landing.png?ex=66f2e70b&is=66f1958b&hm=3bf47c42ed220d78e4ea9e083971ebd6e1820d746adcf665a287364d69580639&=&format=webp&quality=lossless&width=787&height=468)
+
+ Download:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096731713578/descarga_landing.png?ex=66f2e70b&is=66f1958b&hm=b4aa9ba0a16f9cd8f1c74fdcbbb27a55fb8d565d1ef7f6f754d04d05077b6dfc&=&format=webp&quality=lossless&width=960&height=399)
+
+ Footer:
+
+ ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096429858899/footer_landing.png?ex=66f2e70b&is=66f1958b&hm=44b7d365ad8d63edfb367ad5e536173a8e147e092e9978d3c1bb132cd44aa5b6&=&format=webp&quality=lossless&width=960&height=231)
+
 
 
 

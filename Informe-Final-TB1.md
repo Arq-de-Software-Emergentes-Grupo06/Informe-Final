@@ -1802,6 +1802,8 @@ La navegación en la aplicación móvil tendrá un **scroll limitado**, mostrand
 ### 6.3.1 Landing Page Wireframe
 En la etapa de diseño de la interfaz de usuario (UI) de la página de destino (landing page), uno de los primeros pasos cruciales es la creación del "Landing Page Wireframe". Este wireframe actúa como el esqueleto inicial de la página, proporcionando una representación estructural y funcional de los elementos clave que compondrán la interfaz final. En este caso presentamos las secciones: Navbar (dentro de Hero), Hero, Services, About, Testimonials, Download y Footer.
 
+Link: https://www.figma.com/design/tItLy7WiwLwugLfArdOF5R/Arquitectura-de-Software?node-id=0-1&t=zAsUH4WkDUedpPmn-1
+
 Hero:
 
 ![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778499289131/Hero.png?ex=66f2cf77&is=66f17df7&hm=796ba5b79a2c8f3f007748d96aca76f0326459ceacb080d1a14be939d4ebb27c&=&format=webp&quality=lossless&width=846&height=468)
@@ -1827,6 +1829,8 @@ Footer:
 
 
 ### 6.3.2 Landing Page Mock-up
+
+
 
 ## 6.4 Applications UI/UX Design
 ### 6.4.1 Applications Wireframes

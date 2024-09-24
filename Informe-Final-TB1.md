@@ -1866,6 +1866,15 @@ Footer:
 ## 6.4 Applications UI/UX Design
 ### 6.4.1 Applications Wireframes
 
+
+Wireframes Web aplication:
+
+![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/fr.jpg?token=GHSAT0AAAAAACWUB4CJWTTK2Z5JHTKCVZDCZXSJOYA)
+
+
+![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/Frame.jpg?token=GHSAT0AAAAAACWUB4CJBUH7SDDENXB5IV4UZXSJOZA)
+
+
 Wireframes Mobile:
 
 ![image](https://github.com/user-attachments/assets/1d66d831-2319-4cc4-9eb5-27a1d815defa)
@@ -1875,12 +1884,23 @@ Wireframes Mobile:
 
 ### 6.4.3 Applications Mock-ups
 
+
+Web aplication Mock-up
+
+![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/sds.jpg?token=GHSAT0AAAAAACWUB4CIZTN6KAFY4EF6ATMAZXSJNOA)
+
+![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/sdsd.jpg?token=GHSAT0AAAAAACWUB4CINHMRNIOTJNHSNG3MZXSJNPA)
+
+Mobile Mock-ups:
+
 ![image](https://github.com/user-attachments/assets/019c4b88-3751-4595-94a8-8636f14859ff)
 
 
 ### 6.4.4 Applications User Flow Diagrams
 
+![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/Captura%20de%20pantalla%202024-09-24%20001214.jpg?token=GHSAT0AAAAAACWUB4CJHJQAGHBOJG2ONCWUZXSJKZA)
 
+Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/0b82c162-acc6-49cb-9450-d24843d59da7/edit?viewport_loc=60%2C352%2C5142%2C2330%2C0_0&invitationId=inv_8d44bcea-0ce3-4f21-a988-d58f3d99dfae)
 ## 6.5 Appilcations Prototyping
 
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.

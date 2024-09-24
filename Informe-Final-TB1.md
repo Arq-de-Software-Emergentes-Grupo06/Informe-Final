@@ -37,8 +37,11 @@ Agosto del 2024
 | 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design, Software Architecture, diseño y registro de entrevistas |
 | 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | EventStorming, Bounded Context Candidates, diseño y registro de entrevistas |
 | 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | Diseño de user stories, analisis de entrevistas, proceso Lean UX, Constrains v.1 |
-
-
+| 2.00 | 18/09/2024 | Gonzales Carrión, Jorge Enrique | Diseño de Strategical Driven Design y mockups/wireframes de app movil |
+| 2.10 | 18/09/2024 |  Pozo Campos, Rodrigo Jair  | Diseño de Landing Page (mockups y wireframes) |
+| 2.20 | 18/09/2024 |  Alarcon Rondon. Sandro Fourfive | Diseño de Web App (mockups y wireframes) |
+| 2.30 | 18/09/2024 |  Espejo Macuri, Paolo Andre | Diseño de Strategical Driven Design |
+| 2.40 | 18/09/2024 |  Laguerre Chalco, Fabrizzio Hernan | Elaboración de wireflows |
 ---
 # Project Report Collaboration Insights
 
@@ -59,6 +62,20 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 Registro de commits:
 ![image](https://github.com/user-attachments/assets/500ba39d-a9c5-4940-a872-bf7857b7909e)
+
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+-Primera versión de Software Architecture, Strategic-Level Domain-Driven Design
+
+- Applications MockUps y Wireframes
+
+- Applications wireflows y userflow
+
+
+Registro de commits:
 
 
 ---
@@ -121,6 +138,54 @@ Registro de commits:
   - [4.3.2. Software Architecture Context Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#432-software-architecture-context-level-diagrams)
   - [4.3.3. Software Architecture Container Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#433-software-architecture-container-level-diagrams)
   - [4.3.4. Software Architecture Deployment Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#434-software-architecture-deployment-diagrams)
+    
+## [Capítulo V: Tactical-Level Software Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#cap%C3%ADtulo-v-tactical-level-software-design)
+- [5.1. Bounded Context: IAM](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#51-bounded-context-iam)
+  - [5.1.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#511-domain-layer)
+  - [5.1.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#512-interface-layer)
+  - [5.1.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#513-application-layer)
+  - [5.1.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#514-infrastructure-layer)
+  - [5.1.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#516-bounded-context-software-architecture-component-level-diagrams)
+  - [5.1.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#517-bounded-context-software-architecture-code-level-diagrams)
+    - [5.1.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5171-bounded-context-domain-layer-class-diagrams)
+    - [5.1.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5172-bounded-context-database-design-diagram)
+- [5.2. Bounded Context: Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#52-bounded-context-management)
+  - [5.2.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#521-domain-layer)
+  - [5.2.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#522-interface-layer)
+  - [5.2.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#523-application-layer)
+  - [5.2.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#524-infrastructure-layer)
+  - [5.2.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#526-bounded-context-software-architecture-component-level-diagrams)
+  - [5.2.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#527-bounded-context-software-architecture-code-level-diagrams)
+    - [5.2.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5271-bounded-context-domain-layer-class-diagrams)
+    - [5.2.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5272-bounded-context-database-design-diagram)
+- [5.3. Bounded Context: Records](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#53-bounded-context-records)
+  - [5.3.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#531-domain-layer)
+  - [5.3.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#532-interface-layer)
+  - [5.3.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#533-application-layer)
+  - [5.3.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#534-infrastructure-layer)
+  - [5.3.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#536-bounded-context-software-architecture-component-level-diagrams)
+  - [5.3.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#537-bounded-context-software-architecture-code-level-diagrams)
+    - [5.3.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5371-bounded-context-domain-layer-class-diagrams)
+    - [5.3.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5372-bounded-context-database-design-diagram)
+
+## [Capítulo VI: Solution UX Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#cap%C3%ADtulo-vi-solution-ux-design)
+- [6.1. Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#61-style-guidelines)
+  - [6.1.1. General Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#611-general-style-guidelines)
+  - [6.1.2. Web, Mobile & Devices Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#612-web-mobile--devices-style-guidelines)
+- [6.2. Information Architecture](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#62-information-architecture)
+  - [6.2.2. Labeling Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#622-labeling-systems)
+  - [6.2.3. Searching Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#623-searching-systems)
+  - [6.2.4. SEO Tags and Meta Tags](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#624-seo-tags-and-meta-tags)
+  - [6.2.5. Navigation Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#625-navigation-systems)
+- [6.3. Landing Page UI Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#63-landing-page-ui-design)
+  - [6.3.1. Landing Page Wireframe](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#631-landing-page-wireframe)
+  - [6.3.2. Landing Page Mock-up](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#632-landing-page-mock-up)
+- [6.4. Applications UX/UI Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#64-applications-uxui-design)
+  - [6.4.1. Applications Wireframes](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#641-applications-wireframes)
+  - [6.4.2. Applications Wireflow Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#642-applications-wireflow-diagrams)
+  - [6.4.3. Applications Mock-ups](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#643-applications-mock-ups)
+  - [6.4.4. Applications User Flow Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#644-applications-user-flow-diagrams)
+- [6.5. Applications Prototyping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#65-applications-prototyping)
 
 
 
@@ -147,8 +212,8 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. | Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos.  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. | El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - Tp: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers entre otros elementos de diseño de arquitectura al equipo <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones   | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. TP: los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura.<br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas.<br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general.<br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. TP: TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. |
 
 # Capítulo I: Introducción
 
@@ -1256,6 +1321,9 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 # Capítulo V: Tactical-Level Software Design
 
 ## 5.1. Bounded Context: IAM
+
+Descripción: El contexto de IAM (Gestión de Identidad y Acceso) se encarga de la autenticación, autorización y administración de roles de los usuarios dentro del sistema. Proporciona un control centralizado para la creación, modificación, y eliminación de usuarios, además de gestionar los permisos y las políticas de acceso a los distintos servicios y datos dentro de la plataforma.
+
 ### 5.1.1. Domain Layer
 
 <table>
@@ -1559,11 +1627,9 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
     </tr>
 </table>
 
-
-
 ### 5.1.5 Bounded Context Software Architecture Component Level Diagrams
 
-
+![image](https://github.com/user-attachments/assets/1706f69f-e7cd-48f5-9803-a96f1a0d59b8)
 
 
 ### 5.1.6 Bounded Context Software Architecture Code Level Diagrams
@@ -1575,6 +1641,521 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 #### 5.1.6.2. Bounded Context Database Design Diagram
 
 ![image](https://github.com/user-attachments/assets/71c76fb2-c063-42d8-a7be-0c6cd55fa1a3)
+
+## 5.2. Bounded Context: MANAGEMENT
+
+Descripción: El contexto de Notificación gestiona los procesos relacionados con la creación, envío y seguimiento de notificaciones sobre incidentes o eventos relevantes que deben ser reportados a los transportistas, operadores o supervisores del sistema. Este contexto facilita la comunicación en tiempo real, proporcionando alertas y actualizaciones del estado de los incidentes.
+
+### 5.2.1. Domain Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>Transporte</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Gestionar los servicios de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador unico</td>
+    </tr>
+     <tr>
+        <td>formTransport</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Información del formulario</td>
+    </tr>
+     <tr>
+        <td>serviceStatus</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Estado del servicio</td>
+    </tr>
+     <tr>
+        <td>routes</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>	Ruta asignada para el transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>acceptService</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Método para aceptar el servicio</td>
+    </tr>
+    <tr>
+        <td>getRoute</td>
+        <td>String</td>
+        <td>Public</td>
+        <td>Obtener la ruta segura asignada</td>
+    </tr>
+</table>
+
+### 5.2.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlar la gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>transportService</td>
+        <td>TransportService</td>
+        <td>Private</td>
+        <td>Servicio para gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>createTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Crear nuevo servicio de transporte</td>
+    </tr>
+    <tr>
+        <td>getTransportById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Obtener servicio de transporte por id</td>
+    </tr>
+</table>
+
+
+### 5.2.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportService</td>
+        <td>Service</td>
+        <td colspan="2">	Servicio para gestionar reglas de negocio del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>transportRepository</td>
+        <td>TransportRepository</td>
+        <td>private</td>
+        <td>Repositorio de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registrar un nuevo servicio</td>
+    </tr>
+    <tr>
+        <td>findTransport</td>
+        <td>bool</td>
+        <td>Public</td>
+        <td>Validar datos del transporte</td>
+    </tr>
+</table>
+
+
+### 5.2.4. Infrastructure Layer
+
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>TransportRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Almacenar datos de transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>findById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Buscar transporte por ID</td>
+    </tr>
+</table>
+
+### 5.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/user-attachments/assets/8ca7eb70-a86e-404d-ab35-728b2d409ff0)
+
+
+### 5.2.6 Bounded Context Software Architecture Code Level Diagrams
+#### 5.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+
+
+
+#### 5.2.6.2. Bounded Context Database Design Diagram
+
+
+
+## 5.3. Bounded Context: MANAGEMENT
+
+Descripción: El contexto de Management está diseñado para supervisar y administrar los servicios de transporte y carga. Este contexto permite el seguimiento y la gestión de los recursos, la planificación de rutas, y la actualización de registros relacionados con los servicios en curso, así como la toma de decisiones operativas basadas en el estado actual del transporte y la carga.
+
+### 5.3.1. Domain Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Aggregate</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentNotification</td>
+        <td>Entity/Aggregate</td>
+        <td colspan="2">Gestiona los incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>Long</td>
+        <td>Private</td>
+        <td>Identificador unico</td>
+    </tr>
+     <tr>
+        <td>incidentRegistrado</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>Si el incidente ha sido registrado</td>
+    </tr>
+     <tr>
+        <td>serviceStatus</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>Estado del servicio</td>
+    </tr>
+     <tr>
+        <td>transportNotificaton</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>	Si el transportista ha sido notificado</td>
+    </tr>
+     <tr>
+        <td>indicentDetails</td>
+        <td>String</td>
+        <td>Private</td>
+        <td>	Si el transportista ha sido notificado</td>
+    </tr>
+     <tr>
+        <td>reportUpdate</td>
+        <td>Bool</td>
+        <td>Private</td>
+        <td>Indica si el reporte fue actualizado</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addIncident</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Envía una notificación al transportista</td>
+    </tr>
+    <tr>
+        <td>notificationTransport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Envía una notificación al transportista</td>
+    </tr>
+    <tr>
+        <td>updateReport</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Actualiza el reporte del incidente</td>
+    </tr>
+    <tr>
+        <td>isUpdate</td>
+        <td>Bool</td>
+        <td>Public</td>
+        <td>Verifica si el reporte fue actualizado</td>
+    </tr>
+</table>
+
+### 5.3.2. Interface Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Controller</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentsController</td>
+        <td>Controller</td>
+        <td colspan="2">Controlar la gestión del transporte</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>notificationService</td>
+        <td>NotificationService</td>
+        <td>Private</td>
+        <td>Servicio para gestionar las notificaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>sendNotification</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>	Envía notificación de incidente a transportista</td>
+    </tr>
+    <tr>
+        <td>getNotificationById</td>
+        <td>notification</td>
+        <td>Public</td>
+        <td>Obtener notificación de incidente por ID</td>
+    </tr>
+    <tr>
+        <td>addIncident</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registra un nuevo incidente</td>
+    </tr>
+
+</table>
+
+
+### 5.3.3. Application Layer
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Service</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentService</td>
+        <td>Service</td>
+        <td colspan="2">	Servicio para gestionar reglas de negocio de los incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Atributos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de dato</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>notificationRepository</td>
+        <td>NotificationRepository</td>
+        <td>private</td>
+        <td>Repositorio de notificaciones</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>addNotification</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Registrar una nueva notificación</td>
+    </tr>
+    <tr>
+        <td>findNotification</td>
+        <td>bool</td>
+        <td>Public</td>
+        <td>Validar los datos de la notificación</td>
+    </tr>
+</table>
+
+
+### 5.3.4. Infrastructure Layer
+
+
+<table>
+    <tr>
+        <td colspan="4" align="center">Repository</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Categoria</td>
+        <td colspan="2">Propósito</td>
+    </tr>
+    <tr>
+        <td>IncidentRepository</td>
+        <td>Repository</td>
+        <td colspan="2">Almacenar datos de incidentes</td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">Métodos</td>
+    </tr>
+    <tr>
+        <td>Nombre</td>
+        <td>Tipo de retorno</td>
+        <td>Visibilidad</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>findById</td>
+        <td>Transport</td>
+        <td>Public</td>
+        <td>Buscar transporte por ID</td>
+    </tr>
+    <tr>
+        <td>save</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Guardar una nueva notificación</td>
+    </tr>
+    <tr>
+        <td>update</td>
+        <td>void</td>
+        <td>Public</td>
+        <td>Actualizar los datos de una notificación</td>
+    </tr>
+</table>
+
+### 5.3.5 Bounded Context Software Architecture Component Level Diagrams
+
+![image](https://github.com/user-attachments/assets/5deba9be-fbe4-431d-90a9-8ab879ff6221)
+
+
+### 5.3.6 Bounded Context Software Architecture Code Level Diagrams
+#### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+
+
+
+#### 5.3.6.2. Bounded Context Database Design Diagram
+
+
+
+
 
 
 # Capítulo VI: Solution UX Design
@@ -1806,26 +2387,32 @@ Link: https://www.figma.com/design/tItLy7WiwLwugLfArdOF5R/Arquitectura-de-Softwa
 
 Hero:
 
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778499289131/Hero.png?ex=66f2cf77&is=66f17df7&hm=796ba5b79a2c8f3f007748d96aca76f0326459ceacb080d1a14be939d4ebb27c&=&format=webp&quality=lossless&width=846&height=468)
+![image](https://github.com/user-attachments/assets/b86cb4e5-0a37-41e1-9899-d56269a77566)
+
 
 Services:
 
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778868650007/services.png?ex=66f2cf77&is=66f17df7&hm=eebebba732c10dfd450f5bb5a256f940305c47a450eda434d348b7c078b19ddd&=&format=webp&quality=lossless&width=631&height=468)
+![image](https://github.com/user-attachments/assets/64ddb97e-8939-4c16-9f5c-eb31112450e1)
+
 
 About us:
 
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287785778184851597/about_us.png?ex=66f2cf77&is=66f17df7&hm=2efa59bb117c455f833c510e6f5bf034562c6a5357b06f55f846f76ddc701d1c&=&format=webp&quality=lossless&width=779&height=468)
+![image](https://github.com/user-attachments/assets/b17a32cc-2342-4798-a5e4-ebf266daa709)
+
 
 Testimonials:
 
-![image](https://cdn.discordapp.com/attachments/1287785769527672942/1287809843721404476/testimonios.png?ex=66f2e5e1&is=66f19461&hm=d1fa354052675d234ef9bb70304087b25aa2acb3d9cfca56a2385b23b5a61fdc&)
+![image](https://github.com/user-attachments/assets/de1e37a9-10a0-4b8a-92bc-cd3f20469074)
+
 
 Download:
 
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607177420912/descarga.png?ex=66f2d308&is=66f18188&hm=e377077a7632f48167b2167cb7ffed20988dece8c5170a3fe0617ef4a5766804&=&format=webp&quality=lossless&width=851&height=468)
+![image](https://github.com/user-attachments/assets/fdbced71-0f47-4428-9ca1-ca2ec049e67f)
+
 
 Footer:
-![image](https://media.discordapp.net/attachments/1287785769527672942/1287789607466963047/footer.png?ex=66f2d308&is=66f18188&hm=4ddf322bc38c2e2478562307446df22a89310e57335f97c03aed614ff24740d5&=&format=webp&quality=lossless&width=960&height=259)
+![image](https://github.com/user-attachments/assets/c9150348-3670-4bbc-90ec-a85a0721c088)
+
 
 
 ### 6.3.2 Landing Page Mock-up
@@ -1835,30 +2422,35 @@ Footer:
 
  NavBar y Hero:
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096169939016/navbar_landing.png?ex=66f2e70b&is=66f1958b&hm=22a00788f8c634e8eb18480608626888b883ebc25ddd209c9a979e877932f633&=&format=webp&quality=lossless&width=904&height=468)
+![image](https://github.com/user-attachments/assets/1ae0b12e-71bc-4464-9db2-8b57541b79fc)
 
 
 
  Services:
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095813161015/hero_landing.png?ex=66f2e70b&is=66f1958b&hm=e60e3c81f49a5168e87c9ce4febcb7c3254b2eaf05c4b2bbd91febfbc06890b5&=&format=webp&quality=lossless&width=835&height=468)
+![image](https://github.com/user-attachments/assets/0b70ce28-c01d-43d2-9b2f-5b4e5691ba1e)
+
 
  about us:
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095481942189/about_us_landing.png?ex=66f2e70b&is=66f1958b&hm=b590ff1b9200932199d984ef4e1d3ab594b8bae6bdb4a7b00fbb234be1a65bd3&=&format=webp&quality=lossless&width=960&height=414)
+![image](https://github.com/user-attachments/assets/454d4010-55d2-4d4a-ad41-0c9c5512c8b0)
+
 
 
  Testimonials:
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811095171432468/testimonials_landing.png?ex=66f2e70b&is=66f1958b&hm=3bf47c42ed220d78e4ea9e083971ebd6e1820d746adcf665a287364d69580639&=&format=webp&quality=lossless&width=787&height=468)
+![image](https://github.com/user-attachments/assets/ffd0c5dc-e962-4b56-8e50-48ecfb8ef81f)
+
 
  Download:
+ 
+![image](https://github.com/user-attachments/assets/5621d1c3-8f58-4c2c-a3de-e2107989074c)
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096731713578/descarga_landing.png?ex=66f2e70b&is=66f1958b&hm=b4aa9ba0a16f9cd8f1c74fdcbbb27a55fb8d565d1ef7f6f754d04d05077b6dfc&=&format=webp&quality=lossless&width=960&height=399)
 
  Footer:
 
- ![image](https://media.discordapp.net/attachments/1287785769527672942/1287811096429858899/footer_landing.png?ex=66f2e70b&is=66f1958b&hm=44b7d365ad8d63edfb367ad5e536173a8e147e092e9978d3c1bb132cd44aa5b6&=&format=webp&quality=lossless&width=960&height=231)
+![image](https://github.com/user-attachments/assets/4cb1b613-c998-4887-9bf4-9ff81e885c63)
+
 
 
 
@@ -1869,10 +2461,8 @@ Footer:
 
 Wireframes Web aplication:
 
-![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/fr.jpg?token=GHSAT0AAAAAACWUB4CJWTTK2Z5JHTKCVZDCZXSJOYA)
-
-
-![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/Frame.jpg?token=GHSAT0AAAAAACWUB4CJBUH7SDDENXB5IV4UZXSJOZA)
+![image](https://github.com/user-attachments/assets/63586d6f-474e-4be2-995d-d8ce52c983a5)
+![image](https://github.com/user-attachments/assets/b372a7fd-b32c-4e32-8b8b-968252b67af4)
 
 
 Wireframes Mobile:
@@ -1887,9 +2477,9 @@ Wireframes Mobile:
 
 Web aplication Mock-up
 
-![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/sds.jpg?token=GHSAT0AAAAAACWUB4CIZTN6KAFY4EF6ATMAZXSJNOA)
+![image](https://github.com/user-attachments/assets/0a7ee345-addd-4bd4-bc46-5ab80e65ccf6)
+![image](https://github.com/user-attachments/assets/1f98dff1-01da-4dba-bde4-8967abe6aabd)
 
-![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/sdsd.jpg?token=GHSAT0AAAAAACWUB4CINHMRNIOTJNHSNG3MZXSJNPA)
 
 Mobile Mock-ups:
 
@@ -1898,9 +2488,56 @@ Mobile Mock-ups:
 
 ### 6.4.4 Applications User Flow Diagrams
 
-![image](https://raw.githubusercontent.com/Alarsandro/DATA/refs/heads/main/EMERGENTES/Captura%20de%20pantalla%202024-09-24%20001214.jpg?token=GHSAT0AAAAAACWUB4CJHJQAGHBOJG2ONCWUZXSJKZA)
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Se utilizó la herramienta LucidChart.
 
-Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/0b82c162-acc6-49cb-9450-d24843d59da7/edit?viewport_loc=60%2C352%2C5142%2C2330%2C0_0&invitationId=inv_8d44bcea-0ce3-4f21-a988-d58f3d99dfae)
+User Goal: Registrar usuarios
+
+Task Flow:
+
+- Primero el usuario debe estar en la pantalla Sign In
+- Luego, si quiere crear un nuevo usuario va a la pantalla Sign Up
+- Si quiere crear cuenta como transportista va a la pantalla Sign Up
+- Dependendiendo de su tipo de cuenta se le redirige a la sección Home correspondiente
+
+![image](https://github.com/user-attachments/assets/06aba8c5-a4ae-4277-a6b7-fb94f1f46a6e)
+
+---
+
+User Goal: Ver servicios disponibles como transportista
+
+Task Flow: 
+
+- Si el transportista está interesado en aceptar una entrega
+- Entra a la sección de "Solicitation"
+- Y se visualiza los servicios
+
+![image](https://github.com/user-attachments/assets/d3c1cb58-d4c9-4b7f-afbf-c732a86e46df)
+
+---
+
+User Goal: Publicar servicios como administrador
+
+Task Flow:
+
+- Si el usuario autenticado como adminsitrador se encunetra en la sección
+- Entonces se le muestra un formulario para publicar un servicio
+- Si es aceptado, entonces es mostrado en la interfaz de los transportistas
+
+![image](https://github.com/user-attachments/assets/3cee9eec-d2f0-46c2-8176-637203eb26f3)
+
+User Goal: Visualizar perfil de transportista
+
+Task Flow:
+
+- Si el administrador desea verificar el perfil del transporista
+- Al aceptar un envío, el administradorpuede ver el perfil
+- Si es así, entonces se le muestra el perfil a detalle
+
+![image](https://github.com/user-attachments/assets/c433cf19-edcb-47d0-9c0f-30363472bd22)
+
+
+Enlace para acceder a LucidChart: (https://lucid.app/lucidchart/0b82c162-acc6-49cb-9450-d24843d59da7/edit?viewport_loc=60%2C352%2C5142%2C2330%2C0_0&invitationId=inv_8d44bcea-0ce3-4f21-a988-d58f3d99dfae)
+
 ## 6.5 Appilcations Prototyping
 
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
@@ -1916,11 +2553,14 @@ Video Exposición:
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYwhwGkv7p1Ch4gSwp711G4BK8TA4xMN8AA3GrA22SXcWw?e=Xgdvon&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ![image](https://github.com/user-attachments/assets/55afc192-dcc2-46ed-8123-ccc241182fd9)
+![image](https://github.com/user-attachments/assets/4a25eb97-9828-49aa-a82c-c764484cf5fe)
 
 
 # Conclusión
 
 En esta primera entrega se realizaron tareas relacionadas a la captura de requisitos y toma de decisiones a la solución tecnoloógica con tecnologías emergentes, en este caso utilizanod IOT. Se planteó el dominio de negocio y a que problemática responde. 
+
+En esta segunda entrega, se desarrolló la primera versión de la arquitectura del sistema, aplicando herramientas de Domain Driven Design tales como EventStorming, Bounded Context Canvas. Todo esto nos permitió establecer las bases para la arquitectura de la solución con tecnología emergente.
 
 
 # Bibliografía
@@ -1933,3 +2573,4 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 # Anexos
 
 Video exposición TB1: 
+Video Exposición TB2:

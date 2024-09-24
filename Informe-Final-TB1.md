@@ -1866,16 +1866,36 @@ Footer:
 ## 6.4 Applications UI/UX Design
 ### 6.4.1 Applications Wireframes
 
+Wireframes Mobile:
+
+![image](https://github.com/user-attachments/assets/1d66d831-2319-4cc4-9eb5-27a1d815defa)
+
+
 ### 6.4.2 Applications Wireflow Diagrams
 
 ### 6.4.3 Applications Mock-ups
 
+![image](https://github.com/user-attachments/assets/019c4b88-3751-4595-94a8-8636f14859ff)
+
+
 ### 6.4.4 Applications User Flow Diagrams
 
-### 6.4.5 Applications Prototyping
 
 ## 6.5 Appilcations Prototyping
 
+En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
+
+Principio de elección: Procuramos que la aplicación web Y MOVIL posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
+
+Principio de divulgación: La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee. Esto se evidencia en los detalles al seleccionar un cultivo.
+
+Video Exposición:
+
+![image](https://github.com/user-attachments/assets/889ea49c-1a85-4414-9619-adcb29f53c04)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYwhwGkv7p1Ch4gSwp711G4BK8TA4xMN8AA3GrA22SXcWw?e=Xgdvon&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+![image](https://github.com/user-attachments/assets/55afc192-dcc2-46ed-8123-ccc241182fd9)
 
 
 # Conclusión

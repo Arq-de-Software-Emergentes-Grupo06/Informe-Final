@@ -1,4 +1,4 @@
-![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
+![Diagrama sin título drawio (3)](https://github.com/user-attachments/assets/90a91cba-9ae3-4fb6-8115-20fed88b78c6)![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
 
@@ -2473,6 +2473,15 @@ Wireframes Mobile:
 
 
 ### 6.4.2 Applications Wireflow Diagrams
+
+Wireflow Diagrams Web application:
+![Diagrams Web application(1)](https://github.com/user-attachments/assets/247e9d16-d64b-4b43-b615-f825825ce5e2)
+![Diagrams Web application(2)](https://github.com/user-attachments/assets/70015937-9912-43b6-964f-ebbd3af8b0ad)
+
+Wireflow Diagrams Mobile:
+![Diagrams Mobile(1)](https://github.com/user-attachments/assets/32d32887-4bf2-4046-afe9-f0f13df479e8)
+![Diagrams Mobile(2)](https://github.com/user-attachments/assets/f7cc7fdd-1ce6-4511-9f4a-d18d5b30554d)
+
 
 ### 6.4.3 Applications Mock-ups
 

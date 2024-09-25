@@ -12,7 +12,7 @@ Sección SW82
 
 Profesor: Rojas Malasquez, Royer Edelwer
 
-***INFORME DE TRABAJO FINAL - TB1***
+***INFORME DE TRABAJO FINAL - TP***
 
 **Startup: CuriDev**
 
@@ -63,7 +63,7 @@ Para la elaboración del informe se realizaron actividades tales como:
 Registro de commits:
 ![image](https://github.com/user-attachments/assets/500ba39d-a9c5-4940-a872-bf7857b7909e)
 
-TB2: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+TP: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
 
 Para la elaboración del informe se realizaron actividades tales como:
@@ -76,6 +76,8 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 
 Registro de commits:
+
+![image](https://github.com/user-attachments/assets/d33f0acd-2e33-46fd-930d-d11933729ae4)
 
 
 ---
@@ -322,15 +324,14 @@ Luego de analizar las 5W y 2H, se evidencia que la industria del transporte de p
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-El propósito de esta solución es proporcionar un sistema de monitoreo en tiempo real que detecte posibles fugas de gases combustibles (GNV) durante su transporte. La idea es que, al utilizar sensores avanzados, se pueda identificar rápidamente cualquier fuga que pudiera alcanzar la cabina del conductor sin ser percibida, evitando así riesgos potenciales como explosiones.
+Los productos/servicios existentes no abordan adecuadamente el problema crítico de la detección temprana de fugas de gases combustibles (GNV) durante su transporte, lo que pone en riesgo tanto la seguridad de los conductores como la reputación de las empresas.
 
-Este sistema está diseñado para abordar una problemática crítica en la industria del transporte de gases combustibles: la falta de mecanismos eficaces que permitan alertar a los conductores sobre fugas inminentes antes de que se conviertan en una amenaza. Actualmente, existen pocas soluciones tecnológicas que ofrezcan este nivel de seguridad, lo que hace que nuestra propuesta sea una alternativa innovadora en el mercado.
+Nuestra solución abordará esta brecha proporcionando un sistema de monitoreo en tiempo real que, a través de sensores, detectará rápidamente cualquier fuga de gas antes de que alcance la cabina del conductor y se convierta en una amenaza.
 
-Sin embargo, hemos observado un factor críticio, que en base a los poisbles incidentes de fuga de gas, no solo puede perjudicar a la empresa en su reputación, sino cobrar vidas humanas debido a la poca atención a este problema
+Nos enfocaremos inicialmente en empresas de transporte de gases combustibles que necesiten mejorar sus medidas de seguridad y reducir riesgos operativos.
 
-Por tanto, la pregunta clave que este proyecto busca resolver es:
-
-**¿Cómo prevenir eficazmente las fugas de gases combustibles en el transporte para proteger la vida de los conductores y la integridad de la carga?**
+Sabremos que hemos tenido éxito cuando observemos una reducción significativa en los incidentes relacionados con fugas de gas, junto con una mejora en la percepción de seguridad por parte de los conductores y las empresas involucradas.
+ 
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -963,19 +964,11 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ## 2.4. Ubiquitous Language
 
-•	Profile (Perfil): Un perfil es un registro que contiene información personal sobre un usuario, típicamente almacenado dentro de la base de datos de la aplicación.
-
-•	Registration (Registro): La inscripción es el proceso de crear una cuenta de usuario dentro de la aplicación.
-
-•	FAQ (Frequently Asked Questions) (Preguntas Frecuentes): Las FAQ (Preguntas Frecuentes) son una recopilación de preguntas comúnmente formuladas y sus respectivas respuestas, con el objetivo de proporcionar una ayuda rápida a los usuarios.
-
 •	Dashboard (Panel de control): Un panel de control es un componente de la interfaz de usuario que proporciona una visión general de la información relevante y las acciones disponibles para el usuario, como la gestión de eventos para los organizadores o la configuración de la cuenta para los asistentes.
 
 •	Confirmation (Confirmación): Una confirmación es un reconocimiento o notificación proporcionada a los usuarios después de completar una solicitud o registro de incidente.
 
 •	Event Listing (Listado de eventos): Un listado de eventos es una colección o pantalla de eventos disponibles para que los usuarios los examinen y seleccionen.
-
-•	About Us (Acerca de Nosotros): "Acerca de nosotros" es una sección de la aplicación que contiene información sobre los creadores, la misión y los objetivos de la plataforma.
 
 •	Incident Notification (Notificación de incidentes): El proceso por el cual se informa a los transportistas y empresarios sobre cualquier inconveniente o problema que haya ocurrido durante el servicio de transporte.
 
@@ -1299,7 +1292,7 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 ### 4.3.1. Software Architecture System Landscape Diagram
 
-![image](https://github.com/user-attachments/assets/f2298318-2b09-4ce5-bc9c-88c8aa668d06)
+![image](https://github.com/user-attachments/assets/c2919b47-a4ec-4995-8677-6ea207f04029)
 
 
 ### 4.3.2. Software Architecture Context Level Diagrams
@@ -1310,13 +1303,15 @@ A continuación se mostrarán los diagramas c4 que exponen la arquitectura del s
 
 ### 4.3.3. Software Architecture Container Level Diagrams
 
-![image](https://github.com/user-attachments/assets/e1b399c4-6509-4dc9-98fc-0196cb8b8a71)
+![image](https://github.com/user-attachments/assets/78fbd047-7632-49c4-9a42-4c9d2458946f)
+
 
 
 
 ### 4.3.4. Software Architecture Deployment Diagrams
 
-![image](https://github.com/user-attachments/assets/3330ed52-938f-4075-abe1-8cdd753a0a02)
+![image](https://github.com/user-attachments/assets/09fe9c0e-a68f-43fa-811c-fc093ee347bf)
+
 
 # Capítulo V: Tactical-Level Software Design
 

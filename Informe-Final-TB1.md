@@ -1640,7 +1640,8 @@ Descripción: El contexto de IAM (Gestión de Identidad y Acceso) se encarga de 
 
 #### 5.1.6.2. Bounded Context Database Design Diagram
 
-![image](https://github.com/user-attachments/assets/71c76fb2-c063-42d8-a7be-0c6cd55fa1a3)
+![image](https://github.com/user-attachments/assets/666e0d91-610b-4b67-bdf8-bb1e61c41a33)
+
 
 ## 5.2. Bounded Context: MANAGEMENT
 
@@ -1875,6 +1876,7 @@ Descripción: El contexto de Notificación gestiona los procesos relacionados co
 
 #### 5.2.6.2. Bounded Context Database Design Diagram
 
+![image](https://github.com/user-attachments/assets/c49df029-5113-471d-9c1a-d3205afe9ef0)
 
 
 ## 5.3. Bounded Context: MANAGEMENT
@@ -2153,9 +2155,7 @@ Descripción: El contexto de Management está diseñado para supervisar y admini
 
 #### 5.3.6.2. Bounded Context Database Design Diagram
 
-
-
-
+![image](https://github.com/user-attachments/assets/d318cce8-35bc-42c3-9a38-35745f961429)
 
 
 # Capítulo VI: Solution UX Design

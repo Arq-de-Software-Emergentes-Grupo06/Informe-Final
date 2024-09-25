@@ -1871,6 +1871,7 @@ Descripción: El contexto de Notificación gestiona los procesos relacionados co
 ### 5.2.6 Bounded Context Software Architecture Code Level Diagrams
 #### 5.2.6.1. Bounded Context Domain Layer Class Diagrams
 
+![image](https://github.com/user-attachments/assets/c761b97d-bb67-41b9-850b-3bb3b343b9b2)
 
 
 
@@ -1879,7 +1880,7 @@ Descripción: El contexto de Notificación gestiona los procesos relacionados co
 ![image](https://github.com/user-attachments/assets/c49df029-5113-471d-9c1a-d3205afe9ef0)
 
 
-## 5.3. Bounded Context: MANAGEMENT
+## 5.3. Bounded Context: RECORDS
 
 Descripción: El contexto de Management está diseñado para supervisar y administrar los servicios de transporte y carga. Este contexto permite el seguimiento y la gestión de los recursos, la planificación de rutas, y la actualización de registros relacionados con los servicios en curso, así como la toma de decisiones operativas basadas en el estado actual del transporte y la carga.
 
@@ -2150,6 +2151,7 @@ Descripción: El contexto de Management está diseñado para supervisar y admini
 ### 5.3.6 Bounded Context Software Architecture Code Level Diagrams
 #### 5.3.6.1. Bounded Context Domain Layer Class Diagrams
 
+![image](https://github.com/user-attachments/assets/5ad524c5-8b65-41de-af10-ad17fbf42884)
 
 
 

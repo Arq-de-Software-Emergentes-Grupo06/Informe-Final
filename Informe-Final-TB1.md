@@ -2521,8 +2521,8 @@ Task Flow:
 - Si el transportista está interesado en aceptar una entrega
 - Entra a la sección de "Solicitation"
 - Y se visualiza los servicios
-
-![image](https://github.com/user-attachments/assets/d3c1cb58-d4c9-4b7f-afbf-c732a86e46df)
+  
+![image](https://github.com/user-attachments/assets/3cee9eec-d2f0-46c2-8176-637203eb26f3)
 
 ---
 
@@ -2533,8 +2533,8 @@ Task Flow:
 - Si el usuario autenticado como adminsitrador se encunetra en la sección
 - Entonces se le muestra un formulario para publicar un servicio
 - Si es aceptado, entonces es mostrado en la interfaz de los transportistas
-
-![image](https://github.com/user-attachments/assets/3cee9eec-d2f0-46c2-8176-637203eb26f3)
+  
+![image](https://github.com/user-attachments/assets/d3c1cb58-d4c9-4b7f-afbf-c732a86e46df)
 
 User Goal: Visualizar perfil de transportista
 

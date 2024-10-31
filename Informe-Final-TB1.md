@@ -12,7 +12,7 @@ Sección SW82
 
 Profesor: Rojas Malasquez, Royer Edelwer
 
-***INFORME DE TRABAJO FINAL - TP***
+***INFORME DE TRABAJO FINAL - TB2***
 
 **Startup: CuriDev**
 
@@ -25,7 +25,7 @@ Profesor: Rojas Malasquez, Royer Edelwer
 - Laguerre Chalco, Fabrizzio Hernan
 - Pozo Campos, Rodrigo Jair
 
-Agosto del 2024
+Octubre del 2024
 
 ---
 # Registro de Versiones del Informe
@@ -42,6 +42,11 @@ Agosto del 2024
 | 2.20 | 18/09/2024 |  Alarcon Rondon. Sandro Fourfive | Diseño de Web App (mockups y wireframes) |
 | 2.30 | 18/09/2024 |  Espejo Macuri, Paolo Andre | Diseño de Strategical Driven Design |
 | 2.40 | 18/09/2024 |  Laguerre Chalco, Fabrizzio Hernan | Elaboración de wireflows |
+| 3.00 | 30/10/2024 |  Gonzales Carrión, Jorge Enrique  | Desarrollo de apliación móvil y sprint backlog |
+| 3.10 | 30/10/2024 | Pozo Campos, Rodrigo Jair   | Desarrollo de aplicación embebida IoT y registro de entrevistas de validación |
+| 3.20 | 30/10/2024 | Espejo Macuri, Paolo Andre   | Desarrollo de API Web y evaluación de heuristicas |
+| 3.30 | 30/10/2024 | Laguerre Chalco, Fabrizzio Hernan   | Registro de entrevistas y desarrollo de video about the product |
+| 3.40 | 30/10/2024 | Alarcon Rondon. Sandro Fourfive   | Registro de entrevistas y desarrollo de aplicación móvil |
 ---
 # Project Report Collaboration Insights
 
@@ -63,7 +68,7 @@ Para la elaboración del informe se realizaron actividades tales como:
 Registro de commits:
 ![image](https://github.com/user-attachments/assets/500ba39d-a9c5-4940-a872-bf7857b7909e)
 
-TP: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
 
 Para la elaboración del informe se realizaron actividades tales como:
@@ -78,6 +83,24 @@ Para la elaboración del informe se realizaron actividades tales como:
 Registro de commits:
 
 ![image](https://github.com/user-attachments/assets/d33f0acd-2e33-46fd-930d-d11933729ae4)
+
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+-Primera versión de los productos digitales tales como:
+
+- Mobile App
+
+- Embedded App IoT
+
+- API Web (Beeceptor)
+
+
+Registro de commits:
+
+
 
 
 ---
@@ -189,6 +212,29 @@ Registro de commits:
   - [6.4.4. Applications User Flow Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#644-applications-user-flow-diagrams)
 - [6.5. Applications Prototyping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#65-applications-prototyping)
 
+## [7.1. Software Configuration Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#71-software-configuration-management)
+- [7.1.1. Software Development Environment Configuration](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#711-software-development-environment-configuration)
+- [7.1.2. Source Code Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#712-source-code-management)
+- [7.1.3. Source Code Style Guide & Conventions](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#713-source-code-style-guide--conventions)
+- [7.1.4. Software Deployment Configuration](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#714-software-deployment-configuration)
+
+## [7.2. Solution Implementation](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#72-solution-implementation)
+- [7.2.1. Sprint n](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#721-sprint-n)
+  - [7.2.1.1. Sprint Planning 1](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7211-sprint-planning-1)
+  - [7.2.1.2. Sprint Backlog 1](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7212-sprint-backlog-1)
+  - [7.2.1.3. Development Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7213-development-evidence-for-sprint-review)
+  - [7.2.1.4. Testing Suite Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7214-testing-suite-evidence-for-sprint-review)
+  - [7.2.1.5. Execution Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7215-execution-evidence-for-sprint-review)
+  - [7.2.1.6. Services Documentation Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7216-services-documentation-evidence-for-sprint-review)
+  - [7.2.1.7. Software Deployment Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7217-software-deployment-evidence-for-sprint-review)
+  - [7.2.1.8. Team Collaboration Insights during Sprint](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7218-team-collaboration-insights-during-sprint)
+
+## [7.3. Validation Interviews](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#73-validation-interviews)
+- [7.3.1. Diseño de Entrevistas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#731-dise%C3%B1o-de-entrevistas)
+- [7.3.2. Registro de Entrevistas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#732-registro-de-entrevistas)
+- [7.3.3. Evaluaciones según heurísticas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#733-evaluaciones-seg%C3%BAn-heur%C3%ADsticas)
+
+## [7.4. Video About-the-Product](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#74-video-about-the-product)
 
 
 
@@ -214,8 +260,9 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - Tp: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers entre otros elementos de diseño de arquitectura al equipo <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones   | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. TP: los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura.<br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas.<br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general.<br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. TP: TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. <br> Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - TP: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers entre otros elementos de diseño de arquitectura al equipo <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones  <br> Jorge Gonzales - TB2: Explicó los avances en el desarrollo de la aplicación móvil y el progreso en el sprint backlog. <br> Rodrigo Pozo - TB2: Presentó el desarrollo de la aplicación embebida IoT y discutió el registro de entrevistas de validación. <br> Paolo Espejo - TB2: Explicó el desarrollo de la API Web y los resultados de la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Expuso los hallazgos en las entrevistas de validación y presentó el avance del video "About the Product". <br> Sandro Alarcón - TB2: Comunicó el progreso en el desarrollo de la aplicación móvil y el registro de entrevistas de validación. | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. TP: los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas. <br> TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera oral para el desarrollo de las primeras verisones de los productos digitales |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura.<br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas.<br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general.<br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. <br> Jorge Gonzales - TB2: Documentó el desarrollo de la aplicación móvil y el progreso del sprint backlog. <br> Rodrigo Pozo - TB2: Redactó el reporte del desarrollo de la aplicación embebida IoT y registró las entrevistas de validación. <br> Paolo Espejo - TB2: Redactó el informe de desarrollo de la API Web y la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Documentó el registro de entrevistas y el guion del video "About the Product". <br> Sandro Alarcón - TB2: Escribió el registro de entrevistas de validación y el avance en la aplicación móvil. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera escrita para el desarrollo de las primeras verisones de los productos digitales |
+
 
 # Capítulo I: Introducción
 
@@ -2366,13 +2413,13 @@ Segmento: Empresas de transporte de productos peligrosos
 
 A continuación, el equipo mostrará los sistemas de navegación con los que contará SafeFlow para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
 
-### En la Landing Page:
+En la Landing Page:
 Se contará con encabezados que representarán las diversas secciones presentes. Estos encabezados estarán ubicados en la parte superior de la página en un menú horizontal que siempre estará visible mientras se navega por la página, ya sea al bajar o subir. Para evitar que el usuario tenga que desplazarse manualmente por toda la página, podrá utilizar estos encabezados para dirigirse directamente a la sección deseada. El visitante deberá leer el título de cada encabezado para asegurarse de que se está ubicando en la sección correcta. Este sistema permitirá una navegación rápida, fácil e intuitiva.
 
-### En la aplicación web:
+En la aplicación web:
 El sistema de navegación será similar al de la Landing Page, con un menú principal que permitirá a los usuarios trasladarse a diferentes páginas del sitio web. Las opciones de este menú variarán de acuerdo con el segmento objetivo al que pertenezca el usuario (transportista o empresa). Además, se presentarán listados organizados para distintos grupos de elementos, como viajes, incidentes o reportes. Dentro de estos listados, los usuarios podrán aplicar filtros para navegar entre las opciones de manera más eficiente y personalizada.
 
-### En la aplicación móvil:
+En la aplicación móvil:
 La navegación en la aplicación móvil tendrá un **scroll limitado**, mostrando carruseles de opciones en la sección **Home**, como viajes recientes o alertas activas. Además, se utilizará un **bottom navigation bar** (barra de navegación inferior) para facilitar la navegación entre las principales secciones de la aplicación, como "Mis viajes", "Alertas", o "Reportes". Las opciones en esta barra variarán según el tipo de usuario (transportista o empresa), ofreciendo un acceso rápido a las funcionalidades más relevantes para cada segmento.
 
 
@@ -2561,12 +2608,621 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EY
 ![image](https://github.com/user-attachments/assets/55afc192-dcc2-46ed-8123-ccc241182fd9)
 ![image](https://github.com/user-attachments/assets/4a25eb97-9828-49aa-a82c-c764484cf5fe)
 
+# Capítulo VI: Solution UX Design
+## 7.1. Software Configuration Management
+
+
+### 7.1.1. Software Development Environment Configuration
+
+Utilizaremos principalmente como IDEs: Visual Studio Code o WebStorm, cada una con su configuración debida para no causar conflictos con carpetas personalizadas de cada IDE. Más adelante se hará uso de IntelliJ IDEA para la implementación de las Web APIs.
+
+Como herramientas de desarrollo se hará uso de la última versión disponible de Node.js. Para el frontend, se usará el framework web Angular versión 13. El cual se instalará mediante nvm en su versión de Windows. Como framework de diseño se usará Angular Material UI. Finalmente, para el backend, se utilizará el lenguaje de programación de Java.
+
+Como IDE de desarrollo para la aplicación móvil, se usará Visual Studio junto con un emulador y el SDK de Flutter más reciente, esto nos permite desarrollar con una amplia gamma de extensiones para facilitar la codificación y todas las opciones que brinda flutter en sus componentes.
+
+Como herramientas SaSS, se usará GitHub como herramienta para colaboración de código. También usaremos Trello para la elaboración de los Product Backlog. Vertabelo, para la elaboración del diagrama de base de datos. Codegram, para la elaboración del diagrama de clases y LucidChart, para diagramas adicionales.
+
+Como herramienta de desarrollo para el Embedded IOT Application se usará el simulador Wokwim, con el lenguaje de programación C++.
+
+Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y CSS. Para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está acostumbrado y tienen un cierto dominio. Estas herramientos son las siguientes:
+
+Visual Studio Code: Es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con cualquier lenguaje de programación. Además es bastante conocida por todos los integrantes del equipo y debido a ello se decidió trabajar con Visual Studio Code. Para la instalación del programa, se puede conseguir desde su página web oficial: una vez descargado se puede proceder con la instalación de forma rápida y fácil.
+
+Git y Github: Se usaron estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios, tener funciones para ver cambios, commits, pull request, entre otros. El enlace de descarga del instalador de GitHub Desktop es
+
+Live Server: Finalmente, para acelerar el desarrollo del landing page, se usó esta extensión que sirve para visualizar los cambios inmediatamente después de alguna modificación en el código así se evita estar recargando la página, lo cual es un ahorro de tiempo y comodidad al desarrollar.
+
+Discord: Aunque originalmente se diseñó como una plataforma de comunicación para gamers, Discord también se utiliza para diseñar y crear comunidades en línea y mejorar la experiencia de usuario a través de la comunicación y colaboración en grupos.
+
+WhatsApp: WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede usar para mantenerse en contacto con miembros del equipo y colaborar en cierta medida.
+
+Zoom: Zoom es una plataforma de comunicación que ofrece videoconferencias y reuniones en línea. Aunque se utiliza principalmente para comunicarse y realizar reuniones virtuales, también puede ser útil para la gestión de proyectos remotos y la colaboración en tiempo real.
+
+Requirements Management:
+
+Miro: Miro es una plataforma de pizarra en línea que se utiliza para colaborar en la ideación, planificación y diseño de proyectos. Es especialmente útil para la colaboración visual, como la creación de mapas mentales, diagramas y prototipos.
+
+Google Docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos.
+
+Product UX/UI Design:
+
+Figma: Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) basada en la nube. Se utiliza para crear prototipos interactivos, diseños de aplicaciones y colaboración en tiempo real en proyectos de diseño.
+
+UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio.
+
+LucidChart: es una herramienta para crear diagramas de clases, flujo y entre otros, de manera facil e intuitiva. Nos va a servir para hacer los user flows y el diagrama de clases para el proyecto.
+
+Software Development:
+
+Visual Studio Code: Visual Studio Code es un editor de código fuente altamente configurable y ampliable. Se utiliza principalmente para la codificación, depuración y desarrollo de software en varios lenguajes de programación.
+
+Git: Git es un sistema de control de versiones distribuido. Aunque no es un programa en sí mismo, es una tecnología esencial para el desarrollo de software y se usa para rastrear cambios en el código fuente y facilitar la colaboración entre programadores.
+
+Software Documentation:
+
+GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
+
+Software Testing:
+
+Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales.
+
+
+### 7.1.2. Source Code Management
+
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada:
+
+Repositorio de Landing Page: https://github.com/Arq-de-Software-Emergentes-Grupo06/Landing-Page
+
+Repositorio de pruebas de aceptación: https://github.com/Arq-de-Software-Emergentes-Grupo06/acceptance-test
+
+Repositorio Mobile App: https://github.com/Arq-de-Software-Emergentes-Grupo06/fastflow_mobileapp
+
+Repositorio Embedded App IoT: https://github.com/Arq-de-Software-Emergentes-Grupo06/Wokwi-Simulacion
+
+### 7.1.3. Source Code Style Guide & Conventions
+
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, JavaScript/TypeScript, CSS:
+
+HTML: Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
+
+Declarar siempre el tipo documento: Es decir, colocar siempre la etiqueta en la primera línea del código.
+
+Utilizar el nombre de las etiquetas y sus atributos en minúscula: Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
+
+Cerrar todas las etiquetas: Esto evita futuros problemas o errores de sintaxis.
+
+Siempre coloca comillas para los valores de los atributos de las etiquetas: De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
+
+Especificar siempre los atributos alt, width y height para las imágenes: Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+
+No omitir la etiqueta ni los metadatos: Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
+
+CSS: Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
+
+Nombre de clases: Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
+
+Usar nombres de clase cortos: Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
+
+Usar delimitadores de nombres de clase adecuados: Se debe de separar las palabras en los nombres de clase con solo guiones.
+
+Evitar los selectores de ID: No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
+
+Usar propiedades abreviadas: Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
+
+JavaScript: Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
+
+Usar nombres cortos y fáciles de leer: Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
+
+Evitar el uso de variables globales (keyword “var”): No se recomienda el uso de este tipo de variables en un proyecto, porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
+
+Comentar y documentar lo necesario: Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
+
+Usar notaciones sencillas de entender: Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+
+Gherkin: Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
+
+Los bloques “Give-When-Then” deben ser diferenciados: Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+
+Usar tablas para los pasos: Si uno de los pasos requiere de más información es recomendable usar tablas para organizar dicha información y tenga un aspecto más ordenado.
+
+Usar comillas simples para los parámetros: Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
+
+Separar los escenarios con comentarios: Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+
+En resumen, las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML), CSS (CSS Style Guide) y JavaScript (JS) en el caso de la landing page. En el caso de la implementación del frontend, se utilizará Angular Framework utilizando HTML5, CSS3 y JavaScript para aspectos estáticos de templates y TypeScript como lenguaje de programación.
+
+Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática.
+
+El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará Angular Material.
+
+Para el desarrollo de Web Services, se realizará bajo RESTful API architectural style y se hará uso de Spring Boot Framework, utilizando Java como lenguaje de Programación.
+
+Para el desarrollo de Mobile App, se hará uso de Flutter/Dart como lenguaje y se utilizará el mismo Web Service anteriormente mencionado.
+
+### 7.1.4. Software Deployment Configuration
+
+Para el despliegue de la landing page y la aplicación web, se usará netlify, donde se seguirán los siguientes pasos:
+
+Primero se debe iniciar sesión en Netlify con una cuenta de Github, luego ir a "Sites" donde se ubica el siguiente botón:
+
+![image](https://github.com/user-attachments/assets/627ccab8-2b59-4d70-a682-697ddbdc32f6)
+
+Luego, se debe seleccionar la organización del proyecto en Github, y seleccionar el repositorio deseado:
+
+Para la landing page, al ser un sitio estático, no es necesario configurar rutas para acceder al proyecto, por ende solo es necesario darle al botón de "Deploy"
+
+![image](https://github.com/user-attachments/assets/da55e807-ebaa-4f47-9537-dd43092cefa6)
+
+De esta manera se la plataforma se encarga del build y en pocos minutos estaría desplegada la Landing Page y la aplicación web.
+
+## 7.2. Solution Implementation
+### 7.2.1. Sprint 1
+#### 7.2.1.1. Sprint Planning 1
+
+| Sprint # | 1 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2024 - 09 - 10 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Alarcon Rondon. Sandro Fourfive / Laguerre Chalco, Fabrizzio Hernan / Pozo Campos, Rodrigo Jair |
+| Sprint 1 - Review Summary | No aplica (Es el primer Sprint) |
+| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| **Sprint Goal & User Stories** | - |
+| Sprint 1 Goal| Nuestro objetivo es brindar infomraicón pertinente en las secciones de la landing apge acerca de la solución IoT y visualizar los viajes o servicios de transporte de combustible en la aplicación móvil. <br> Creemos que esto genera una base sólida acerca de las funcionalidades de FastFlow para los visitantes y permitir a los transportistas visualziar sus viajes. Esto será confirmado cuando los visitantes se suscriban a las aplicaciones.   |
+| Sprint 1 - Velocity | El equipo puede aceptar 28 Story Points|
+| Sprint 1 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es 18|
+
+#### 7.2.1.2. Sprint Backlog 1
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">US16</td><td rowspan="2" valign="top">Sección Hero y Botón Call-to-Action</td><td valign="top">16.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar las secciones de hero y calltoaction</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">16.2</td><td valign="top">Implementar sección responsive </td><td valign="top">Realizar las secciones con proporciones responsive</td><td valign="top">2</td><td valign="top">Laguerre Chalco, Fabrizzio Hernan</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="1" valign="top"> US14</td><td rowspan="1" valign="top">Landing Page responsive</td><td valign="top">12.1</td><td valign="top">Implementar vistas responsive</td><td valign="top">Realizar los estilos de las secciones responsive</td><td valign="top">4</td><td valign="top">Alarcon Rondon. Sandro Fourfive</td><td valign="top">Done</td></tr>
+
+
+<tr><td rowspan="1" valign="top">US15</td><td rowspan="1" valign="top"> 	Visualización de características de la aplicación web o móvil web en Landing Page</td><td valign="top">15.1</td><td valign="top">Implementar sección de funcionalidades y beneficios</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Gonzales Carrión, Jorge Enrique</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="1" valign="top"> 	US12</td><td rowspan="1" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td><td valign="top">12.1</td><td valign="top">Implementar sección propuesta</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+<tr><td valign="top"> 	US06</td><td valign="top"> 	Seguimiento en Tiempo Real de los Transportes Activos</td><td valign="top">16.1</td><td valign="top">Implementar sección en la aplicación movil</td><td valign="top">Realizar los estilos de la sección para empresarios </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+</table>
+
+Como herramienta de control para este Sprint se usó Trello con un board exclusivo para esta iteración:
+
+![imagen](https://github.com/user-attachments/assets/4530452c-8947-412a-9e51-43d16987e4fc)
+
+Link: https://trello.com/invite/b/6723b55cb861b5f50c919ad1/ATTIbe94b7237c6fb5c7b24da3ef2b093337A2994F8F/safeflow-sprint-1
+
+#### 7.2.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| Wokwi-Simulacion | gas-sensor-version-1 | 3eca40b | feat: added files  | - | 30/10/2024 |
+| Wokwi-Simulacion | temp-sensor-version-1 | 1519a1a| feat: added files temp sensor  | - | 30/10/2024 |
+| Landing-Page  | EN | af2f987 | add landing page  | - | 23/09/2024 |
+| Landing-Page  | ES | 0a1226c | add landing page ES  | - | 23/09/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-IoT | test/UserStories | 524f950 | Acceptance-test-1.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | f2a5a88 | Acceptance-test-2.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | 89bf09e | Acceptance-test-3.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | 65442d8 | Acceptance-test-4.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | ca70f9b | Acceptance-test-5.feature  | - | 30/10/2023 |
+
+Link de repositorio: https://github.com/Arq-de-Software-Emergentes-Grupo06/acceptance-test
+
+#### 7.2.1.5. Execution Evidence for Sprint Review
+
+En el Sprint 1 se alcanzó a desarrollar una primera versión de la landing page, la aplicación móvil y el IoT Embedded App, como principales caracteristicas tenemos las vistas de Dashboard de monitoreo de carga, Home, servicios realizados, etc. A continuación se muestra un video de lo realizado:
+
+![imagen](https://github.com/user-attachments/assets/a5aa28f9-62f8-43d7-aab4-d809d53beeab)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ETFA7fskBvxPushstcTMdUcBTRvGthfXhE509_zzZ5B5sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5OXzRm
+
+#### 7.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint 1, debido a que no existe la incorporación de los Web Services, se decidió usar Beeceptor como alternativa a consumir datos.
+Beeceptor: https://fastflow.free.beeceptor.com
+
+| Endpoint | Detalles |
+| - | - | 
+| /users| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
+| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
+| /services  | En este endpoint se almacena laos servicios realizados pro parte de las empresas | 
+| /incidents | En este endpoint almacena los incidentes registrados manualmente | 
+
+
+
+#### 7.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la web app y landing page se usó Netlify, a continuación se detallará paso a paso para este Sprint 1:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/user-attachments/assets/04bc0a04-824c-472c-93e2-f28ee2533092)
+
+
+Se genera la carpeta dist, luego, se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración.
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto. Y se obtiene el registro del despliegue dentro de Netlify
+
+![imagen](https://github.com/user-attachments/assets/6504f90b-c985-438f-9c32-33dff1161df1)
+
+
+De esta manera el avance del Sprint 1 queda desplegado.
+
+![imagen](https://github.com/user-attachments/assets/07b7df99-e8ac-4045-9f1b-68efad6365d7)
+
+Link de landing page: (https://safe-flow-landing.netlify.app/)
+
+Link de simulaciones en Wokwi:
+
+
+#### 7.2.1.8. Team Collaboration Insights during Sprint
+
+Landing Page:
+![imagen](https://github.com/user-attachments/assets/ac56c310-0bef-4bd3-9ce3-218553a27db7)
+
+Embedded App IoT:
+![imagen](https://github.com/user-attachments/assets/c402209f-f367-4377-aeb5-c019727fd87e)
+
+Mobile App:
+![imagen](https://github.com/user-attachments/assets/6c7f1fc6-f38e-40c4-9ae1-7e8e93c9c30b)
+
+## 7.3. Validation Interviews
+
+En esta sección, se registra las actividades correspondientes a las entrevistas de validación del proyecto. Estas entrevistas van dirigidas a ambos segmentos objetivos donde se evidencia la interacción con el landing page y con las aplicaciones.
+
+### 7.3.1. Diseño de Entrevistas
+
+Segmento objetivo: Empresarios de transporte de combustible:
+
+Explicación de los alcances de la demostración:
+
+- Landing Page
+- Principales tareas en la app movil
+- Simulación de sensores
+
+Preguntas:
+
+- ¿Consideras atractiva la manera en la que el producto SafeFlow está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamiento, propósito y funcionalidades ofrecidas por la aplicación móvil?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+- Del 1 al 10, ¿cómo calificarías el diseño de la Landing Page?
+- Con respecto a la aplicación móvil, ¿consideras que es complicado encontrar un servicio realizado?
+- ¿Los detalles de los servicios y de los incidentes son adecuados en las secciones? ¿Qué otros apartados te gustaría visualizar?
+- ¿Qué opinas acerca de la distribución de secciones?
+- ¿Cómo describirías nuestra aplicación móvil en pocas palabras?
+- ¿Qué características específicas deseas que agreguemos a la aplicación móvil?
+- ¿Utilizas actualmente una aplicación móvil con IoT para administrar tus ventas u obtener información sobre los incidentes con combustibles? De ser así, ¿qué características logras diferenciar entre esa aplicación y la nuestra?
+- De todas las características evidenciadas en la aplicación móvil, ¿cuál crees que debería mejorarse? ¿Por qué?
+- ¿Consideras que el diseño es adecuado?
+
+Segmento objetivo: Transportistas de combustibles peligrosos:
+
+Explicación de los alcances de la demostración:
+
+- Landing Page
+- Principales tareas en la app movil
+- Simulación de sensores
+
+Preguntas:
+
+- ¿Consideras atractiva la manera en la que el producto SafeFlow está promocionado en la Landing Page?
+- ¿Consideras que el landing page ofrece toda la información necesaria para entender el funcionamiento, propósito y funcionalidades ofrecidas por la aplicación móvil para obtener información de sensores y registrar incidentes?
+- ¿Resulta agradable a la vista la manera en la que la información está presentada?
+- ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+- Del 1 al 10, ¿cómo calificarías el diseño de la Landing Page?
+- Con respecto a la aplicación móvil, ¿consideras que es complicado encontrar el historial de incidentes registrados?
+- ¿Los detalles de los incidentes y los datos obtenidos de los sensores son adecuados en las secciones? ¿Qué otros apartados te gustaría visualizar?
+- ¿Qué opinas acerca de la distribución de secciones para la obtención de datos de sensores y el registro de incidentes?
+- ¿Cómo describirías nuestra aplicación móvil en pocas palabras?
+- ¿Qué características específicas relacionadas con el monitoreo de sensores o el registro de incidentes te gustaría que agreguemos a la aplicación móvil?
+- ¿Utilizas actualmente una aplicación móvil con IoT para obtener información de sensores y registrar incidentes? De ser así, ¿qué características logras diferenciar entre esa aplicación y la nuestra?
+- De todas las características evidenciadas en la aplicación móvil para monitorear sensores y registrar incidentes, ¿cuál crees que debería mejorarse? ¿Por qué?
+- ¿Consideras que el diseño es adecuado para la visualización de datos de sensores y el registro de incidentes?
+
+### 7.3.2. Registro de Entrevistas
+
+**Segmento objetivo: Transportistas**
+
+***Primera Entrevista:***
+
+Nombres y apellidos: Jean Pierre Morin
+
+Edad: 20
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+Resumen:
+
+
+
+
+***Segunda Entrevista:***
+
+Nombres y apellidos: Ian Perez
+
+Edad: 25
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link:
+
+
+Resumen:
+
+
+***Tercera Entrevista:***
+
+Nombres y apellidos: Luis Cornejo
+
+Edad: 25
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+
+
+
+Link: 
+
+
+Resumen:
+
+
+**Segmento objetivo: Empresas de transporte de productos peligrosos**
+
+***Primera Entrevista:***
+
+Nombre: Paolo Checa
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+
+Resumen:
+
+
+***Segunda Entrevista:***
+
+Nombre: Lissane Mareni
+
+Inicio: 4:30
+
+Fin: 8:48
+
+Duración: 4:18
+
+Link: 
+
+
+Resumen
+
+  
+
+
+***Tercera Entrevista:***
+
+Nombre: Jose Luis Castillo
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+
+
+Resumen:
+
+
+
+### 7.3.3. Evaluaciones según heurísticas
+
+UX Heuristics & Principles Evaluation
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la validación con posibles usuarios según su segmento.
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Arquitectura de Software Emergente**
+
+**SECCIÓN : SW82**
+
+**PROFESORES : Todos**
+
+**AUDITOR : Equipo de desarrollo Curidev** 
+
+**CLIENTE(S) : SafeFlow ** 
+
+
+- **SITE o APP A EVALUAR:**
+
+SafeFlow - Solución IoT de prevención de accidentes con combustibles peligrosos 
+
+- **TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Desktop landing page
+   1. Información y descripción de la aplicación móvil y sus funcionalidades
+   2. Visualización de botón call to action
+   3. Header y footer apropiado para la landing page
+2. Mobile Application
+   1. Registro de nuevo usuario
+   2. Inicio de sesión de usuario existente
+   3. Botones interactivos y de uso intuitivo
+   5. Navegación y orientación dentro de las secciones
+   6. Proceso de visualización de transportes
+
+
+- **ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco </p><p>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de </p><p>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente </p><p>reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es </p><p>importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
+
+
+- **TABLA RESUMEN:**
+
+1. **Mobile App**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El formato de diseño elegido para los botones es inconsistente*|*1*|*Usabilidad - Consistencia y estándares*|
+|*2*|*Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*|*1*|*Usabilidad - Reconocer antes que recordar*|
+|*3*|*No existe un apartado de edición de perfil*|*2*|*Usabilidad - Control de usuario y libertad*|
+|*4*|*Inconsistencia en tamaño de tipografía*|*2*|*Usabilidad - Consistencia y estándares*|
+
+2. **Landing page**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El contenido de funcionalidades no se actualiza periódicamente*|*3*|*Information Architecture - Is it credible?*|
+
+
+
+- **DESCRIPCIÓN DE PROBLEMAS:**
+
+
+
+1. **Mobile Application**
+
+***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+Botones en sección "Sign In y Sign Up"
+
+![imagen](https://github.com/user-attachments/assets/cb1e674a-ad47-4a3f-a6d8-f7fde1f1ff77)
+
+
+*El formato de diseño elegido para los botones “Sign In” es inconsistente a comparación de todas las secciones de la aplicación móvil. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+
+***Recomendación:**
+Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
+
+***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Reconocer antes que recordar*
+
+***Problema:***
+
+Barra de navegación:
+
+![imagen](https://github.com/user-attachments/assets/ebd6bb64-6767-49c6-a411-781d0ab73ce8)
+
+
+*Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
+
+***Recomendación:**
+Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
+
+***PROBLEMA #3:** No existe un apartado de edición de perfil*
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Control de usuario y libertad*
+
+***Problema:***
+
+*Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
+
+***Recomendación:**
+Implementar un boton o apartado para editar perfil de usuario.*
+
+
+***PROBLEMA #5:** Inconsistencia en tamaño de tipografía *
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+
+![imagen](https://github.com/user-attachments/assets/8d451433-4046-4121-8df8-7ff313378f23)
+
+*En las pantallas de home para ambos roles, existe una incosistencia en el tamaño de la tipografía, lo que ocasiona insatisfacción visual al usuario al momento de navegar por las pantallas de home*
+
+
+***Recomendación:**
+Corregir la tipografía en todas las secciones de un tamaño equivalente*
+
+
+1. **Landing Page**
+
+***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
+
+***Severidad:** 3*
+
+*Heurística violada: Information Architecture - Is it credible?*
+
+***Problema:***
+
+*En la sección de funcionalidades, algunas de estas ya no se están implementando, por lo que el usuario puede ser confundido al querer usar esas caracteristicas*
+
+***Recomendación:**
+Corregir las funcionalidades mostradas en las listas de la sección*
+
+
+## 7.4. Video About-the-Product
+
+A continuación, se mostrará el Video About the Product, donde se mostrará las carácteristicas de la Landing Page para los segmentos objetivos interesados. De igual manera, se mostrará lo avanzado en el primer Sprint. Finalmente, también incluye un testimonio de uso realizado en una entrevista de validación:
 
 # Conclusión
 
 En esta primera entrega se realizaron tareas relacionadas a la captura de requisitos y toma de decisiones a la solución tecnoloógica con tecnologías emergentes, en este caso utilizanod IOT. Se planteó el dominio de negocio y a que problemática responde. 
 
 En esta segunda entrega, se desarrolló la primera versión de la arquitectura del sistema, aplicando herramientas de Domain Driven Design tales como EventStorming, Bounded Context Canvas. Todo esto nos permitió establecer las bases para la arquitectura de la solución con tecnología emergente.
+
+En esta tercera entrega, se desarrollaron las primeras versiones de los productos digitales que componene la solución IoT, de esta manera sentando las bases de funcionaldiades escenciales para el correcto funcionamiento y satisfacción de los segmentos objetivos. Por otro lado, se realizaron diversas actividades para mejorar la calidad del Sprint, tales como entrevistas de validación y evaluaciones según heuristicas.
 
 
 # Bibliografía
@@ -2579,4 +3235,4 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 # Anexos
 
 Video exposición TB1: 
-Video Exposición TB2:
+Video Exposición TP:

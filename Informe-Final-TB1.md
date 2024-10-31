@@ -100,6 +100,8 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 Registro de commits:
 
+![imagen](https://github.com/user-attachments/assets/c752f5e0-8fd2-47b9-8969-fa46099cf371)
+
 
 
 

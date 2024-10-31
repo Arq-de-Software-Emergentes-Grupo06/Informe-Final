@@ -12,7 +12,7 @@ Sección SW82
 
 Profesor: Rojas Malasquez, Royer Edelwer
 
-***INFORME DE TRABAJO FINAL - TB1***
+***INFORME DE TRABAJO FINAL - TB2***
 
 **Startup: CuriDev**
 
@@ -25,7 +25,7 @@ Profesor: Rojas Malasquez, Royer Edelwer
 - Laguerre Chalco, Fabrizzio Hernan
 - Pozo Campos, Rodrigo Jair
 
-Agosto del 2024
+Octubre del 2024
 
 ---
 # Registro de Versiones del Informe
@@ -37,8 +37,16 @@ Agosto del 2024
 | 1.20 | 21/08/2024 | Gonzales Carrión, Jorge Enrique| Strategic-Level Attribute-Driven Design, Strategic-Level Domain-Driven Design, Software Architecture, diseño y registro de entrevistas |
 | 1.30 | 21/08/2024 | Laguerre Chalco, Fabrizzio Hernan | EventStorming, Bounded Context Candidates, diseño y registro de entrevistas |
 | 1.40 | 01/09/2024 | Pozo Campos, Rodrigo Jair | Diseño de user stories, analisis de entrevistas, proceso Lean UX, Constrains v.1 |
-
-
+| 2.00 | 18/09/2024 | Gonzales Carrión, Jorge Enrique | Diseño de Strategical Driven Design y mockups/wireframes de app movil |
+| 2.10 | 18/09/2024 |  Pozo Campos, Rodrigo Jair  | Diseño de Landing Page (mockups y wireframes) |
+| 2.20 | 18/09/2024 |  Alarcon Rondon. Sandro Fourfive | Diseño de Web App (mockups y wireframes) |
+| 2.30 | 18/09/2024 |  Espejo Macuri, Paolo Andre | Diseño de Strategical Driven Design |
+| 2.40 | 18/09/2024 |  Laguerre Chalco, Fabrizzio Hernan | Elaboración de wireflows |
+| 3.00 | 30/10/2024 |  Gonzales Carrión, Jorge Enrique  | Desarrollo de apliación móvil y sprint backlog |
+| 3.10 | 30/10/2024 | Pozo Campos, Rodrigo Jair   | Desarrollo de aplicación embebida IoT y registro de entrevistas de validación |
+| 3.20 | 30/10/2024 | Espejo Macuri, Paolo Andre   | Desarrollo de API Web y evaluación de heuristicas |
+| 3.30 | 30/10/2024 | Laguerre Chalco, Fabrizzio Hernan   | Registro de entrevistas y desarrollo de video about the product |
+| 3.40 | 30/10/2024 | Alarcon Rondon. Sandro Fourfive   | Registro de entrevistas y desarrollo de aplicación móvil |
 ---
 # Project Report Collaboration Insights
 
@@ -58,7 +66,43 @@ Para la elaboración del informe se realizaron actividades tales como:
 -User Stories y Product Backlog
 
 Registro de commits:
-![image](https://github.com/user-attachments/assets/78f03c33-e559-4d8d-911b-44222b621651)
+![image](https://github.com/user-attachments/assets/500ba39d-a9c5-4940-a872-bf7857b7909e)
+
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+-Primera versión de Software Architecture, Strategic-Level Domain-Driven Design
+
+- Applications MockUps y Wireframes
+
+- Applications wireflows y userflow
+
+
+Registro de commits:
+
+![image](https://github.com/user-attachments/assets/d33f0acd-2e33-46fd-930d-d11933729ae4)
+
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+-Primera versión de los productos digitales tales como:
+
+- Mobile App
+
+- Embedded App IoT
+
+- API Web (Beeceptor)
+
+
+Registro de commits:
+
+![imagen](https://github.com/user-attachments/assets/c752f5e0-8fd2-47b9-8969-fa46099cf371)
+
+
 
 
 ---
@@ -121,7 +165,78 @@ Registro de commits:
   - [4.3.2. Software Architecture Context Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#432-software-architecture-context-level-diagrams)
   - [4.3.3. Software Architecture Container Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#433-software-architecture-container-level-diagrams)
   - [4.3.4. Software Architecture Deployment Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#434-software-architecture-deployment-diagrams)
+    
+## [Capítulo V: Tactical-Level Software Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#cap%C3%ADtulo-v-tactical-level-software-design)
+- [5.1. Bounded Context: IAM](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#51-bounded-context-iam)
+  - [5.1.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#511-domain-layer)
+  - [5.1.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#512-interface-layer)
+  - [5.1.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#513-application-layer)
+  - [5.1.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#514-infrastructure-layer)
+  - [5.1.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#516-bounded-context-software-architecture-component-level-diagrams)
+  - [5.1.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#517-bounded-context-software-architecture-code-level-diagrams)
+    - [5.1.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5171-bounded-context-domain-layer-class-diagrams)
+    - [5.1.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5172-bounded-context-database-design-diagram)
+- [5.2. Bounded Context: Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#52-bounded-context-management)
+  - [5.2.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#521-domain-layer)
+  - [5.2.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#522-interface-layer)
+  - [5.2.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#523-application-layer)
+  - [5.2.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#524-infrastructure-layer)
+  - [5.2.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#526-bounded-context-software-architecture-component-level-diagrams)
+  - [5.2.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#527-bounded-context-software-architecture-code-level-diagrams)
+    - [5.2.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5271-bounded-context-domain-layer-class-diagrams)
+    - [5.2.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5272-bounded-context-database-design-diagram)
+- [5.3. Bounded Context: Records](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#53-bounded-context-records)
+  - [5.3.1. Domain Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#531-domain-layer)
+  - [5.3.2. Interface Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#532-interface-layer)
+  - [5.3.3. Application Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#533-application-layer)
+  - [5.3.4. Infrastructure Layer](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#534-infrastructure-layer)
+  - [5.3.6. Bounded Context Software Architecture Component Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#536-bounded-context-software-architecture-component-level-diagrams)
+  - [5.3.7. Bounded Context Software Architecture Code Level Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#537-bounded-context-software-architecture-code-level-diagrams)
+    - [5.3.7.1. Bounded Context Domain Layer Class Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5371-bounded-context-domain-layer-class-diagrams)
+    - [5.3.7.2. Bounded Context Database Design Diagram](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#5372-bounded-context-database-design-diagram)
 
+## [Capítulo VI: Solution UX Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#cap%C3%ADtulo-vi-solution-ux-design)
+- [6.1. Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#61-style-guidelines)
+  - [6.1.1. General Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#611-general-style-guidelines)
+  - [6.1.2. Web, Mobile & Devices Style Guidelines](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#612-web-mobile--devices-style-guidelines)
+- [6.2. Information Architecture](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#62-information-architecture)
+  - [6.2.2. Labeling Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#622-labeling-systems)
+  - [6.2.3. Searching Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#623-searching-systems)
+  - [6.2.4. SEO Tags and Meta Tags](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#624-seo-tags-and-meta-tags)
+  - [6.2.5. Navigation Systems](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#625-navigation-systems)
+- [6.3. Landing Page UI Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#63-landing-page-ui-design)
+  - [6.3.1. Landing Page Wireframe](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#631-landing-page-wireframe)
+  - [6.3.2. Landing Page Mock-up](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#632-landing-page-mock-up)
+- [6.4. Applications UX/UI Design](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#64-applications-uxui-design)
+  - [6.4.1. Applications Wireframes](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#641-applications-wireframes)
+  - [6.4.2. Applications Wireflow Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#642-applications-wireflow-diagrams)
+  - [6.4.3. Applications Mock-ups](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#643-applications-mock-ups)
+  - [6.4.4. Applications User Flow Diagrams](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#644-applications-user-flow-diagrams)
+- [6.5. Applications Prototyping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#65-applications-prototyping)
+
+## [7.1. Software Configuration Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#71-software-configuration-management)
+- [7.1.1. Software Development Environment Configuration](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#711-software-development-environment-configuration)
+- [7.1.2. Source Code Management](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#712-source-code-management)
+- [7.1.3. Source Code Style Guide & Conventions](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#713-source-code-style-guide--conventions)
+- [7.1.4. Software Deployment Configuration](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#714-software-deployment-configuration)
+
+## [7.2. Solution Implementation](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#72-solution-implementation)
+- [7.2.1. Sprint n](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#721-sprint-n)
+  - [7.2.1.1. Sprint Planning 1](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7211-sprint-planning-1)
+  - [7.2.1.2. Sprint Backlog 1](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7212-sprint-backlog-1)
+  - [7.2.1.3. Development Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7213-development-evidence-for-sprint-review)
+  - [7.2.1.4. Testing Suite Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7214-testing-suite-evidence-for-sprint-review)
+  - [7.2.1.5. Execution Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7215-execution-evidence-for-sprint-review)
+  - [7.2.1.6. Services Documentation Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7216-services-documentation-evidence-for-sprint-review)
+  - [7.2.1.7. Software Deployment Evidence for Sprint Review](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7217-software-deployment-evidence-for-sprint-review)
+  - [7.2.1.8. Team Collaboration Insights during Sprint](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#7218-team-collaboration-insights-during-sprint)
+
+## [7.3. Validation Interviews](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#73-validation-interviews)
+- [7.3.1. Diseño de Entrevistas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#731-dise%C3%B1o-de-entrevistas)
+- [7.3.2. Registro de Entrevistas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#732-registro-de-entrevistas)
+- [7.3.3. Evaluaciones según heurísticas](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#733-evaluaciones-seg%C3%BAn-heur%C3%ADsticas)
+
+## [7.4. Video About-the-Product](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#74-video-about-the-product)
 
 
 
@@ -147,5 +262,5 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. | Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos.  |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. | El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. <br> Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - TP: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers entre otros elementos de diseño de arquitectura al equipo <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones  <br> Jorge Gonzales - TB2: Explicó los avances en el desarrollo de la aplicación móvil y el progreso en el sprint backlog. <br> Rodrigo Pozo - TB2: Presentó el desarrollo de la aplicación embebida IoT y discutió el registro de entrevistas de validación. <br> Paolo Espejo - TB2: Explicó el desarrollo de la API Web y los resultados de la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Expuso los hallazgos en las entrevistas de validación y presentó el avance del video "About the Product". <br> Sandro Alarcón - TB2: Comunicó el progreso en el desarrollo de la aplicación móvil y el registro de entrevistas de validación. | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. TP: los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas. <br> TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera oral para el desarrollo de las primeras verisones de los productos digitales |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura.<br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas.<br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general.<br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. <br> Jorge Gonzales - TB2: Documentó el desarrollo de la aplicación móvil y el progreso del sprint backlog. <br> Rodrigo Pozo - TB2: Redactó el reporte del desarrollo de la aplicación embebida IoT y registró las entrevistas de validación. <br> Paolo Espejo - TB2: Redactó el informe de desarrollo de la API Web y la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Documentó el registro de entrevistas y el guion del video "About the Product". <br> Sandro Alarcón - TB2: Escribió el registro de entrevistas de validación y el avance en la aplicación móvil. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera escrita para el desarrollo de las primeras verisones de los productos digitales |

@@ -2869,7 +2869,9 @@ De esta manera el avance del Sprint 1 queda desplegado.
 
 Link de landing page: (https://safe-flow-landing.netlify.app/)
 
-Link de simulaciones en Wokwi:
+Link de simulaciones en Wokwi: https://wokwi.com/projects/413180120059730945
+
+https://wokwi.com/projects/413204204342722561
 
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
@@ -2943,114 +2945,91 @@ Preguntas:
 
 ***Primera Entrevista:***
 
-Nombres y apellidos: Jean Pierre Morin
-
-Edad: 20
-
-Inicio: 
-
-Fin: 
-
-Duración: 
-
-Link: 
-
-Resumen:
-
-
-
-
-***Segunda Entrevista:***
-
 Nombres y apellidos: Ian Perez
 
 Edad: 25
 
-Inicio: 
+Inicio: 8:13
 
-Fin: 
+Fin: 15:04
 
-Duración: 
+Duración: 6:52
 
 Link:
 
+![imagen](https://github.com/user-attachments/assets/5e2e730c-e23d-46d5-9b82-2750d973f57b)
 
 Resumen:
-
+Ian menciona que la landing page de SafeFlow es atractiva y clara, destacando el monitoreo en tiempo real como clave para la seguridad en el transporte de materiales peligrosos. Sugiere incluir ejemplos prácticos y mejorar la adaptación a dispositivos móviles. Sobre la app, destaca la facilidad para acceder al historial de incidentes y propone añadir predicciones de datos y alertas personalizadas. Aunque considera el diseño adecuado, sugiere una mejor organización de gráficos para resaltar datos críticos en emergencias y mejorar la velocidad de respuesta ante incidentes.
 
 ***Tercera Entrevista:***
 
-Nombres y apellidos: Luis Cornejo
+Nombres y apellidos: Favio Landeo
 
 Edad: 25
 
-Inicio: 
+Inicio: 15:04
 
-Fin: 
+Fin: 22:03
 
-Duración: 
-
-
-
+Duración: 6:57
 
 Link: 
 
+![imagen](https://github.com/user-attachments/assets/a41e672e-38c1-49b6-92d7-01bd6185b02a)
 
 Resumen:
 
+Favio considera que la landing page de SafeFlow es atractiva y adecuada para explicar sus ventajas de seguridad en el transporte de combustibles. Aunque la presentación es clara, sugiere incluir ejemplos prácticos y mejorar la explicación sobre la instalación de sensores.
+
+En cuanto a la app, destaca su fácil navegación y acceso al historial de incidentes, sugiriendo agregar un apartado de mantenimiento y acceso rápido a contactos de emergencia. Favio propone incluir alertas de audio o vibración para situaciones críticas y mejorar el sistema de alertas con tonos de prioridad. Describe la app como "una herramienta efectiva para monitorear y reaccionar ante incidentes en el transporte de materiales peligrosos."
 
 **Segmento objetivo: Empresas de transporte de productos peligrosos**
 
 ***Primera Entrevista:***
 
-Nombre: Paolo Checa
+Nombres y apellidos: Sharon Barrial
 
-Inicio: 
+Edad: 20
 
-Fin: 
+Inicio: 00
 
-Duración: 
+Fin: 08:13
+
+Duración: 08:13
 
 Link: 
 
+![imagen](https://github.com/user-attachments/assets/026998aa-03cc-4175-b7fa-3323daa6e409)
 
 Resumen:
+
+Sharon opina que la landing page de SafeFlow es atractiva y resalta bien las ventajas de monitoreo de seguridad, esenciales para el transporte de combustibles peligrosos. Aunque considera que la página explica adecuadamente el sistema, sugiere agregar ejemplos prácticos para mejorar la comprensión.
+
+Ella accedió desde un celular y notó que la página está bien optimizada para dispositivos móviles. Califica el diseño con un 9, destacando que es funcional, aunque recomienda mayor claridad en el proceso de instalación de sensores.
+
+Sobre la app, Sharon considera intuitiva la navegación y destaca la facilidad para encontrar el historial de incidentes. Sugiere un apartado de mantenimiento y un acceso rápido a contactos de emergencia. Propone añadir alertas de audio o vibración para cambios críticos y comenta que SafeFlow es superior a otras apps de monitoreo por su enfoque en seguridad. Además, sugiere mejorar las alertas con tonos de prioridad para distinguir entre situaciones menores y críticas.
+
 
 
 ***Segunda Entrevista:***
 
-Nombre: Lissane Mareni
+Nombre: Sebastian Mendez
 
-Inicio: 4:30
+Inicio: 22:03
 
-Fin: 8:48
+Fin: 31:44
 
-Duración: 4:18
-
-Link: 
-
-
-Resumen
-
-  
-
-
-***Tercera Entrevista:***
-
-Nombre: Jose Luis Castillo
-
-Inicio: 
-
-Fin: 
-
-Duración: 
+Duración: 9:41
 
 Link: 
 
+![imagen](https://github.com/user-attachments/assets/b25b22bf-da94-4bc8-890b-3e1d5be5234d)
 
 
 Resumen:
 
+Sebastián considera que la landing de SafeFlow es atractiva y destaca bien los beneficios en seguridad, recomendando agregar casos prácticos y testimonios para mejorar la confianza. La calificó con un 8, tras revisarla desde una computadora de escritorio, resaltando su funcionalidad e intuitividad. Sobre la app, destaca su fácil navegación, sugiriendo un análisis mensual de incidentes y reportes financieros para decisiones estratégicas. Actualmente usa una solución IoT básica, pero valora la especialización de SafeFlow en transporte de combustibles, proponiendo mejorar los reportes para justificar la inversión. 
 
 
 ### 7.3.3. Evaluaciones según heurísticas
@@ -3236,5 +3215,8 @@ Soto, J. A. S., González, D. L. E., Sánchez, J. F. I., Reyes, J. A., & Layva, 
 
 # Anexos
 
-Video exposición TB1: 
-Video Exposición TP:
+Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EUiUUIC1kXRJv5Z6QIk1Md8Bq0XGdR6M1aGMuusUgAx86g?e=NIx2JJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video Exposición TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQtY02wGc-9BruKxA4zePMcBrf0g5p57enTfLFNF-meycg?e=pUGkME&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video Exposición TB2: 

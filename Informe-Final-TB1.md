@@ -2955,7 +2955,7 @@ Fin: 15:04
 
 Duración: 6:52
 
-Link:
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeCFl9gZqCRGhALIlvfC2EEBTEySrlhkidIA6kU9Y0vBzg?e=NydcCz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ![imagen](https://github.com/user-attachments/assets/5e2e730c-e23d-46d5-9b82-2750d973f57b)
 
@@ -2974,7 +2974,7 @@ Fin: 22:03
 
 Duración: 6:57
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeCFl9gZqCRGhALIlvfC2EEBTEySrlhkidIA6kU9Y0vBzg?e=NydcCz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ![imagen](https://github.com/user-attachments/assets/a41e672e-38c1-49b6-92d7-01bd6185b02a)
 
@@ -2998,7 +2998,7 @@ Fin: 08:13
 
 Duración: 08:13
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeCFl9gZqCRGhALIlvfC2EEBTEySrlhkidIA6kU9Y0vBzg?e=NydcCz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ![imagen](https://github.com/user-attachments/assets/026998aa-03cc-4175-b7fa-3323daa6e409)
 
@@ -3022,7 +3022,7 @@ Fin: 31:44
 
 Duración: 9:41
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeCFl9gZqCRGhALIlvfC2EEBTEySrlhkidIA6kU9Y0vBzg?e=NydcCz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ![imagen](https://github.com/user-attachments/assets/b25b22bf-da94-4bc8-890b-3e1d5be5234d)
 
@@ -3197,6 +3197,12 @@ Corregir las funcionalidades mostradas en las listas de la sección*
 
 A continuación, se mostrará el Video About the Product, donde se mostrará las carácteristicas de la Landing Page para los segmentos objetivos interesados. De igual manera, se mostrará lo avanzado en el primer Sprint. Finalmente, también incluye un testimonio de uso realizado en una entrevista de validación:
 
+![imagen](https://github.com/user-attachments/assets/51495328-6782-4e60-ada1-2637785d043c)
+
+
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZ8pn120ONFLgzEQqZUlhEwBhF5bqBj2-IUZeVuQn6lrWw?e=IPwTzV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 # Conclusión
 
 En esta primera entrega se realizaron tareas relacionadas a la captura de requisitos y toma de decisiones a la solución tecnoloógica con tecnologías emergentes, en este caso utilizanod IOT. Se planteó el dominio de negocio y a que problemática responde. 
@@ -3205,6 +3211,13 @@ En esta segunda entrega, se desarrolló la primera versión de la arquitectura d
 
 En esta tercera entrega, se desarrollaron las primeras versiones de los productos digitales que componene la solución IoT, de esta manera sentando las bases de funcionaldiades escenciales para el correcto funcionamiento y satisfacción de los segmentos objetivos. Por otro lado, se realizaron diversas actividades para mejorar la calidad del Sprint, tales como entrevistas de validación y evaluaciones según heuristicas.
 
+## Video About-the-Team
+
+A continuación se presenta el video about the team, donde cada integrante exponse una retrospectiva grupal y personal acerca de su desempeño a lo largo del sprint y del proyecto, seguido de una retrospectiva del lider del equipo. Además, se detallan las tareas que realizó cada uno. 
+
+![imagen](https://github.com/user-attachments/assets/54f33add-bee4-4e0e-bb4d-0d80997d45b9)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EROydnGPR7FBjIxC-2pELpgBPJBsHIr8yYxrV3-KJdCJgg?e=NjwchP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
@@ -3219,4 +3232,4 @@ Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118
 
 Video Exposición TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQtY02wGc-9BruKxA4zePMcBrf0g5p57enTfLFNF-meycg?e=pUGkME&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Video Exposición TB2: 
+Video Exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXDfUlVMe99Dj1wfrVGCjYEBvtEY3ACW-IaXp7ZIkBneVA?e=5vTZFm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D

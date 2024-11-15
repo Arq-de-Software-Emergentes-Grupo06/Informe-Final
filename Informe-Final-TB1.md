@@ -2885,6 +2885,133 @@ Embedded App IoT:
 Mobile App:
 ![imagen](https://github.com/user-attachments/assets/6c7f1fc6-f38e-40c4-9ae1-7e8e93c9c30b)
 
+### 7.2.2. Sprint 2
+#### 7.2.2.1. Sprint Planning 2
+
+| Sprint # | 2 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2024 - 11 - 10 |
+| Time | 18:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Alarcon Rondon. Sandro Fourfive / Laguerre Chalco, Fabrizzio Hernan / Pozo Campos, Rodrigo Jair |
+| Sprint 2 - Review Summary |  |
+| Sprint 2 - Retrospective Summary  |  |
+| **Sprint Goal & User Stories** | - |
+| Sprint 2 Goal| Nuestro objetivo es brindar infomraicón pertinente en las secciones de la landing apge acerca de la solución IoT y visualizar los viajes o servicios de transporte de combustible en la aplicación móvil. <br> Creemos que esto genera una base sólida acerca de las funcionalidades de FastFlow para los visitantes y permitir a los transportistas visualziar sus viajes. Esto será confirmado cuando los visitantes se suscriban a las aplicaciones.   |
+| Sprint 2 - Velocity | El equipo puede aceptar 28 Story Points|
+| Sprint 2 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 18|
+
+#### 7.2.2.2. Sprint Backlog 2
+
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">US16</td><td rowspan="2" valign="top">Sección Hero y Botón Call-to-Action</td><td valign="top">16.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar las secciones de hero y calltoaction</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">16.2</td><td valign="top">Implementar sección responsive </td><td valign="top">Realizar las secciones con proporciones responsive</td><td valign="top">2</td><td valign="top">Laguerre Challco, Fabrizzio Hernan</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="1" valign="top"> US14</td><td rowspan="1" valign="top">Landing Page responsive</td><td valign="top">12.1</td><td valign="top">Implementar vistas responsive</td><td valign="top">Realizar los estilos de las secciones responsive</td><td valign="top">4</td><td valign="top">Alarcon Rondon. Sandro Fourfive</td><td valign="top">Done</td></tr>
+
+
+<tr><td rowspan="1" valign="top">US15</td><td rowspan="1" valign="top"> 	Visualización de características de la aplicación web o móvil web en Landing Page</td><td valign="top">15.1</td><td valign="top">Implementar sección de funcionalidades y beneficios</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Gonzales Carrión, Jorge Enrique</td><td valign="top">Done</td></tr>
+
+<tr><td rowspan="1" valign="top"> 	US12</td><td rowspan="1" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td><td valign="top">12.1</td><td valign="top">Implementar sección propuesta</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+<tr><td valign="top"> 	US06</td><td valign="top"> 	Seguimiento en Tiempo Real de los Transportes Activos</td><td valign="top">16.1</td><td valign="top">Implementar sección en la aplicación movil</td><td valign="top">Realizar los estilos de la sección para empresarios </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+</table>
+
+Como herramienta de control para este Sprint se usó Trello con un board exclusivo para esta iteración:
+
+![imagen](https://github.com/user-attachments/assets/4530452c-8947-412a-9e51-43d16987e4fc)
+
+Link: https://trello.com/invite/b/6723b55cb861b5f50c919ad1/ATTIbe94b7237c6fb5c7b24da3ef2b093337A2994F8F/safeflow-sprint-1
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| Wokwi-Simulacion | gas-sensor-version-1 | 3eca40b | feat: added files  | - | 30/10/2024 |
+| Wokwi-Simulacion | temp-sensor-version-1 | 1519a1a| feat: added files temp sensor  | - | 30/10/2024 |
+| Landing-Page  | EN | af2f987 | add landing page  | - | 23/09/2024 |
+| Landing-Page  | ES | 0a1226c | add landing page ES  | - | 23/09/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-IoT | test/UserStories | 524f950 | Acceptance-test-1.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | f2a5a88 | Acceptance-test-2.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | 89bf09e | Acceptance-test-3.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | 65442d8 | Acceptance-test-4.feature  | - | 30/10/2023 |
+| acceptance-test-IoT | test/UserStories | ca70f9b | Acceptance-test-5.feature  | - | 30/10/2023 |
+
+Link de repositorio: https://github.com/Arq-de-Software-Emergentes-Grupo06/acceptance-test
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 se alcanzó a desarrollar una primera versión de la landing page, la aplicación móvil y el IoT Embedded App, como principales caracteristicas tenemos las vistas de Dashboard de monitoreo de carga, Home, servicios realizados, etc. A continuación se muestra un video de lo realizado:
+
+![imagen](https://github.com/user-attachments/assets/a5aa28f9-62f8-43d7-aab4-d809d53beeab)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ETFA7fskBvxPushstcTMdUcBTRvGthfXhE509_zzZ5B5sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5OXzRm
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint 2, debido a que no existe la incorporación de los Web Services, se decidió usar Beeceptor como alternativa a consumir datos.
+Beeceptor: https://fastflow.free.beeceptor.com
+
+| Endpoint | Detalles |
+| - | - | 
+| /users| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
+| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
+| /services  | En este endpoint se almacena laos servicios realizados pro parte de las empresas | 
+| /incidents | En este endpoint almacena los incidentes registrados manualmente | 
+
+
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la web app y landing page se usó Netlify, a continuación se detallará paso a paso para este Sprint 1:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/user-attachments/assets/04bc0a04-824c-472c-93e2-f28ee2533092)
+
+
+Se genera la carpeta dist, luego, se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración.
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto. Y se obtiene el registro del despliegue dentro de Netlify
+
+![imagen](https://github.com/user-attachments/assets/6504f90b-c985-438f-9c32-33dff1161df1)
+
+
+De esta manera el avance del Sprint 1 queda desplegado.
+
+![imagen](https://github.com/user-attachments/assets/07b7df99-e8ac-4045-9f1b-68efad6365d7)
+
+Link de landing page: (https://safe-flow-landing.netlify.app/)
+
+Link de simulaciones en Wokwi: https://wokwi.com/projects/413180120059730945
+
+https://wokwi.com/projects/413204204342722561
+
+
+#### 7.2.2.8. Team Collaboration Insights during Sprint
+
+Landing Page:
+![imagen](https://github.com/user-attachments/assets/ac56c310-0bef-4bd3-9ce3-218553a27db7)
+
+Embedded App IoT:
+![imagen](https://github.com/user-attachments/assets/c402209f-f367-4377-aeb5-c019727fd87e)
+
+Mobile App:
+![imagen](https://github.com/user-attachments/assets/6c7f1fc6-f38e-40c4-9ae1-7e8e93c9c30b)
+
 ## 7.3. Validation Interviews
 
 En esta sección, se registra las actividades correspondientes a las entrevistas de validación del proyecto. Estas entrevistas van dirigidas a ambos segmentos objetivos donde se evidencia la interacción con el landing page y con las aplicaciones.
@@ -3199,9 +3326,9 @@ A continuación, se mostrará el Video About the Product, donde se mostrará las
 
 ![imagen](https://github.com/user-attachments/assets/51495328-6782-4e60-ada1-2637785d043c)
 
-
-
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZ8pn120ONFLgzEQqZUlhEwBhF5bqBj2-IUZeVuQn6lrWw?e=IPwTzV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+# Impacto del software emergente en nuestra solución
 
 # Conclusión
 

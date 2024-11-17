@@ -12,7 +12,7 @@ Sección SW82
 
 Profesor: Rojas Malasquez, Royer Edelwer
 
-***INFORME DE TRABAJO FINAL - TB2***
+***INFORME DE TRABAJO FINAL - TF***
 
 **Startup: CuriDev**
 
@@ -25,7 +25,7 @@ Profesor: Rojas Malasquez, Royer Edelwer
 - Laguerre Chalco, Fabrizzio Hernan
 - Pozo Campos, Rodrigo Jair
 
-Octubre del 2024
+Noviembre del 2024
 
 ---
 # Registro de Versiones del Informe
@@ -47,6 +47,11 @@ Octubre del 2024
 | 3.20 | 30/10/2024 | Espejo Macuri, Paolo Andre   | Desarrollo de API Web y evaluación de heuristicas |
 | 3.30 | 30/10/2024 | Laguerre Chalco, Fabrizzio Hernan   | Registro de entrevistas y desarrollo de video about the product |
 | 3.40 | 30/10/2024 | Alarcon Rondon. Sandro Fourfive   | Registro de entrevistas y desarrollo de aplicación móvil |
+| 4.00 | 15/11/2024 |  Gonzales Carrión, Jorge Enrique  | Desarrollo de apliación móvil y sprint backlog 2|
+| 4.10 | 15/11/2024 | Pozo Campos, Rodrigo Jair   | Desarrollo de aplicación embebida IoT y registro de entrevistas de validación para el Sprint 2 |
+| 4.20 | 15/11/2024 | Espejo Macuri, Paolo Andre   | Desarrollo de API Web, evaluación de heuristicas y documentación de commits para el Sprint 2 |
+| 4.30 | 15/11/2024 | Laguerre Chalco, Fabrizzio Hernan   | Registro de entrevistas, desarrollo de video about the product, documentación de deployment evidence del Sprint 2 |
+| 4.40 | 15/11/2024 | Alarcon Rondon. Sandro Fourfive   | Registro de entrevistas, documentación de commits y execution evidence |
 ---
 # Project Report Collaboration Insights
 
@@ -102,6 +107,25 @@ Registro de commits:
 
 ![imagen](https://github.com/user-attachments/assets/c752f5e0-8fd2-47b9-8969-fa46099cf371)
 
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final
+
+Para la elaboración del informe se realizaron actividades tales como:
+
+- Documentación del Sprint 2, inclyuendo Sprint Planning y Sprint Backlog
+
+- Redacción de Development, Execution y Testing Suite Evidence
+
+- Documentación de endpoints de Web Services
+
+- Actualización de entrevistas de validación
+
+- Incorporación de lenguaje obiquo 
+
+
+Registro de commits:
+
+
 
 
 
@@ -137,6 +161,8 @@ Registro de commits:
   - [2.3.3. Empathy Mapping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#233-empathy-mapping)
   - [2.3.4. As-is Scenario Mapping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#234-as-is-scenario-mapping)
 - [2.4. Ubiquitous Language](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#24-ubiquitous-language)
+- [2.5. Sustento de la Tecnología Emergente (IoT)](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#25-sustento-de-la-tecnolog%C3%ADa-emergente-iot)
+
 
 ## [Capítulo III: Requirements Specification](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#cap%C3%ADtulo-iii-requirements-specification)
 - [3.1. To-Be Scenario Mapping](https://github.com/Arq-de-Software-Emergentes-Grupo06/Informe-Final/blob/main/Informe-Final-TB1.md#31-to-be-scenario-mapping)
@@ -260,10 +286,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
 del ABET – EAC - Student Outcome 3.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. <br> Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - TP: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers entre otros elementos de diseño de arquitectura al equipo <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones  <br> Jorge Gonzales - TB2: Explicó los avances en el desarrollo de la aplicación móvil y el progreso en el sprint backlog. <br> Rodrigo Pozo - TB2: Presentó el desarrollo de la aplicación embebida IoT y discutió el registro de entrevistas de validación. <br> Paolo Espejo - TB2: Explicó el desarrollo de la API Web y los resultados de la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Expuso los hallazgos en las entrevistas de validación y presentó el avance del video "About the Product". <br> Sandro Alarcón - TB2: Comunicó el progreso en el desarrollo de la aplicación móvil y el registro de entrevistas de validación. | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. TP: los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas. <br> TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera oral para el desarrollo de las primeras verisones de los productos digitales |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura.<br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas.<br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general.<br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. <br> Jorge Gonzales - TB2: Documentó el desarrollo de la aplicación móvil y el progreso del sprint backlog. <br> Rodrigo Pozo - TB2: Redactó el reporte del desarrollo de la aplicación embebida IoT y registró las entrevistas de validación. <br> Paolo Espejo - TB2: Redactó el informe de desarrollo de la API Web y la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Documentó el registro de entrevistas y el guion del video "About the Product". <br> Sandro Alarcón - TB2: Escribió el registro de entrevistas de validación y el avance en la aplicación móvil. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera escrita para el desarrollo de las primeras verisones de los productos digitales |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Expuso el To Be Scenario Map al equipo, presentando de manera clara las historias de usuario y restricciones iniciales. <br> Paolo Espejo - TB1: Explicó a través de una sesión de Event Storming los flujos de trabajo, detallando las historias de usuario identificadas. <br> Jorge Gonzales - TB1: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico. <br> Fabrizzio Laguerre - TB1: Expuso los resultados del Event Storming, detallando la identificación de los Bounded Contexts y su impacto en la solución. <br> Rodrigo Pozo - TB1: Explicó el proceso Lean UX y los hallazgos del análisis de entrevistas, detallando las implicancias en el diseño de historias de usuario y restricciones. <br> Sandro Alarcón - TP: Expuso propuestas de diseño de aplicaciones web al equipo de manera clara y objetiva. <br> Paolo Espejo - TP: Explicó a través de una sesión de desarrollo, los posibles aggregates, controllers, entre otros elementos de diseño de arquitectura al equipo. <br> Jorge Gonzales - TP: Comunicó mediante una reunión al equipo de desarrollo propuestas para la arquitectura del software, enfocándose en el diseño estratégico y la realización de propuestas para el diseño móvil de la aplicación. <br> Fabrizzio Laguerre - TP: Expuso los resultados del diseño de wireflows apps y propuestas de diseño de arquitectura. <br> Rodrigo Pozo - TP: Explicó el posible diseño de la landing page y su separación entre secciones. <br> Jorge Gonzales - TB2: Explicó los avances en el desarrollo de la aplicación móvil y el progreso en el sprint backlog. <br> Rodrigo Pozo - TB2: Presentó el desarrollo de la aplicación embebida IoT y discutió el registro de entrevistas de validación. <br> Paolo Espejo - TB2: Explicó el desarrollo de la API Web y los resultados de la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Expuso los hallazgos en las entrevistas de validación y presentó el avance del video "About the Product". <br> Sandro Alarcón - TB2: Comunicó el progreso en el desarrollo de la aplicación móvil y el registro de entrevistas de validación. <br> Jorge Gonzales - TF: Comunicó claramente los avances en el desarrollo de la aplicación móvil, destacando los objetivos alcanzados en el sprint backlog 2 y resolviendo dudas del equipo. <br> Rodrigo Pozo - TF: Explicó de manera efectiva el progreso en la aplicación embebida IoT, detallando el impacto del registro de entrevistas de validación en la mejora del diseño técnico del Sprint 2. <br> Paolo Espejo - TF: Explicó el diseño y desarrollo de la API Web, detallando los resultados de la evaluación heurística y cómo esta guía las iteraciones futuras. <br> Fabrizzio Laguerre - TF: Presentó los resultados del registro de entrevistas y el desarrollo del video "About the Product", enfatizando la importancia de documentar la evidencia de despliegue para los stakeholders. <br> Sandro Alarcón - TF: Comunicó el impacto del registro de entrevistas y los commits realizados, asegurando que los entregables del Sprint 2 fueran comprendidos por todos los involucrados. | TB1: Los miembros del equipo demostraron capacidad para comunicar oralmente sus ideas y resultados de manera efectiva, adaptando su lenguaje y nivel de detalle según la audiencia, logrando una comprensión común del proyecto y sus desafíos. <br> TP: Los miembros del equipo demostraron capacidad para comunicarse oralmente y exponer sus ideas ante decisiones de diseño de arquitectura y prototipado complejas. <br> TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera oral para el desarrollo de las primeras versiones de los productos digitales. <br> TF: El equipo fortaleció su capacidad para comunicar los avances y desafíos del proyecto, destacando la importancia de adaptar el lenguaje técnico según el público, lo que facilitó la toma de decisiones informadas en el Sprint 2. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Sandro Alarcón - TB1: Documentó las historias de usuario y restricciones v.1, asegurando claridad y detalle en los escenarios planteados. <br> Paolo Espejo - TB1: Redactó las descripciones de las historias de usuario y detalló los resultados del Event Storming v.1 en formato escrito. <br> Jorge Gonzales - TB1: Propuso textualmente una lista de alternativas para la arquitectura del software, integrando conceptos de diseño estratégico y resultados de entrevistas. <br> Fabrizzio Laguerre - TB1: Registró en un informe las entrevistas realizadas y detalló el proceso de Event Storming, asegurando que los hallazgos sean entendibles por todos los involucrados. <br> Rodrigo Pozo - TB1: Redactó los resultados del análisis de entrevistas y formalizó el proceso Lean UX, destacando los insights y restricciones identificadas. <br> Sandro Alarcón - TP: Redactó propuestas de versión final para diseño de web apps. <br> Paolo Espejo - TP: Elaboró el informe final detallando los aggregates y controllers identificados durante las sesiones de arquitectura. <br> Jorge Gonzales - TP: Escribió un documento con las propuestas de diseño de la arquitectura para la aplicación móvil, detallando alternativas y justificaciones técnicas. <br> Fabrizzio Laguerre - TP: Documentó el análisis de wireflows y la propuesta final de diseño para las aplicaciones web y móviles, explicando su impacto en la solución general. <br> Rodrigo Pozo - TP: Redactó el reporte final del diseño de la landing page, asegurando que las secciones y su estructura sean entendibles para stakeholders no técnicos. <br> Jorge Gonzales - TB2: Documentó el desarrollo de la aplicación móvil y el progreso del sprint backlog. <br> Rodrigo Pozo - TB2: Redactó el reporte del desarrollo de la aplicación embebida IoT y registró las entrevistas de validación. <br> Paolo Espejo - TB2: Redactó el informe de desarrollo de la API Web y la evaluación de heurísticas. <br> Fabrizzio Laguerre - TB2: Documentó el registro de entrevistas y el guion del video "About the Product". <br> Sandro Alarcón - TB2: Escribió el registro de entrevistas de validación y el avance en la aplicación móvil. <br> Jorge Gonzales - TF: Redactó el informe del desarrollo de la aplicación móvil para el Sprint 2, detallando cómo los avances en el backlog se alinearon con los objetivos del proyecto. <br> Rodrigo Pozo - TF: Documentó el progreso del IoT y cómo las entrevistas de validación influyeron en las mejoras del diseño técnico del Sprint 2. <br> Paolo Espejo - TF: Escribió un reporte detallado sobre la API Web, la evaluación heurística y la documentación de los commits clave del Sprint 2. <br> Fabrizzio Laguerre - TF: Redactó el informe del video "About the Product" y las entrevistas realizadas, incluyendo evidencias de despliegue. <br> Sandro Alarcón - TF: Documentó entrevistas, commits y evidencias de ejecución del Sprint 2, asegurando claridad para diferentes audiencias. | TB1: El equipo logró comunicar de manera escrita sus ideas y resultados de forma objetiva y comprensible, permitiendo que personas de diferentes especialidades comprendieran los avances y propuestas del proyecto. <br> TP: El equipo logró comunicar de manera escrita sus ideas y resultados de forma clara y objetiva, adaptando la terminología y el nivel de detalle según la audiencia, contribuyendo a una comprensión común del progreso y decisiones del proyecto. <br> TB2: El equipo de desarrollo logró comunicar sus ideas y aportes de manera escrita para el desarrollo de las primeras versiones de los productos digitales. <br> TF: El equipo demostró un alto nivel de habilidad para documentar de manera escrita, asegurando que los entregables fueran accesibles para personas de diferentes especialidades y niveles jerárquicos, lo que facilitó la colaboración en el Sprint 2. |
 
 
 # Capítulo I: Introducción
@@ -1013,35 +1039,66 @@ Tanto los transportistas como las empresas coinciden en la alta importancia de l
 
 ## 2.4. Ubiquitous Language
 
-•	Dashboard (Panel de control): Un panel de control es un componente de la interfaz de usuario que proporciona una visión general de la información relevante y las acciones disponibles para el usuario, como la gestión de eventos para los organizadores o la configuración de la cuenta para los asistentes.
+Términos y Definiciones
 
-•	Confirmation (Confirmación): Una confirmación es un reconocimiento o notificación proporcionada a los usuarios después de completar una solicitud o registro de incidente.
+**Dashboard (Panel de Control)**
+Un panel de control es un componente de la interfaz de usuario que proporciona una visión general del estado del transporte, incluyendo datos en tiempo real de sensores de gas y temperatura. Permite a los operadores monitorear alertas de seguridad y la ubicación de la carga.
 
-•	Event Listing (Listado de eventos): Un listado de eventos es una colección o pantalla de eventos disponibles para que los usuarios los examinen y seleccionen.
+**Incident List (Listado de Incidentes)**
+Una pantalla que presenta una lista de todos los incidentes reportados durante los servicios de transporte. Incluye detalles como niveles de gas peligrosos detectados, cambios de temperatura anormales y acciones correctivas tomadas.
 
-•	Incident Notification (Notificación de incidentes): El proceso por el cual se informa a los transportistas y empresarios sobre cualquier inconveniente o problema que haya ocurrido durante el servicio de transporte.
+**Incident Notification (Notificación de Incidentes)**
+El proceso por el cual los transportistas y empresarios son informados de forma automática y en tiempo real sobre fugas de gas, temperaturas fuera del rango seguro u otros problemas detectados por los sensores IoT instalados en los vehículos de transporte.
 
-•	Transport Service (Servicio de transporte): El conjunto de operaciones logísticas destinadas a transportar bienes desde un punto de origen hasta su destino final.
+**Monitoring Package (Monitoreo de Carga)**
+Seguimiento en tiempo real del estado de la carga, utilizando sensores IoT para registrar niveles de gas, temperatura y otros parámetros críticos para evitar accidentes durante el transporte de productos peligrosos.
 
-•	Transporters (Transportistas): Personas o empresas responsables del transporte de bienes desde el origen hasta el destino.
+**Transport Service (Servicio de Transporte)**
+El conjunto de operaciones logísticas, incluyendo el monitoreo en tiempo real y la detección temprana de riesgos, destinados a transportar bienes peligrosos como gasolina o gas desde un punto de origen hasta su destino final.
 
-•	Business Owner (Empresario): Persona o entidad encargada de gestionar la logística y la coordinación del transporte de bienes, así como de la relación con los transportistas.
+**Transporters (Transportistas)**
+Personas o empresas responsables de supervisar los vehículos equipados con sensores IoT para garantizar un transporte seguro de productos peligrosos.
 
-•	Incident Report (Reporte de incidente): Documento que detalla el incidente ocurrido durante el proceso de transporte, incluyendo la causa, el impacto y las acciones correctivas.
+**Business Owner (Empresario)**
+Persona o entidad encargada de gestionar la logística y la coordinación del transporte de bienes peligrosos, supervisando las métricas de seguridad proporcionadas por la solución IoT.
 
-•	Transporter Rating (Calificación de transportistas): Proceso mediante el cual los empresarios califican la calidad del servicio ofrecido por los transportistas.
+**Incident Report (Reporte de Incidente)**
+Documento generado automáticamente que detalla un incidente detectado por los sensores IoT, como fugas de gas o incrementos bruscos de temperatura. Incluye la causa, impacto y medidas correctivas tomadas.
 
-•	Load Monitoring (Monitoreo de carga): Seguimiento en tiempo real del estado y ubicación de la carga durante el proceso de transporte.
+**Sensor Alerts (Alertas de Sensores)**
+Notificaciones automáticas enviadas a través de la plataforma cuando los sensores IoT detectan condiciones peligrosas como niveles altos de gas o temperaturas fuera del rango seguro.
 
-•	Transporter Registration (Registro de transportistas): Proceso mediante el cual un transportista crea una cuenta o perfil en la plataforma para ofrecer sus servicios.
+**Transporter Rating (Calificación de Transportistas)**
+Evaluación de la calidad del servicio ofrecido por los transportistas basada en su capacidad de respuesta a alertas de seguridad y su cumplimiento con los estándares de manejo de bienes peligrosos.
 
-•	Login (Iniciar sesión): El proceso mediante el cual un usuario accede a su cuenta en la plataforma.
+**Transporter Registration (Registro de Transportistas)**
+Proceso mediante el cual un transportista se registra en la plataforma para vincular su flota de vehículos con sensores IoT y ofrecer servicios de transporte seguro.
 
-•	Authentication Policy (Política de autenticación): Conjunto de reglas que definen cómo los usuarios deben autenticarse para acceder a la plataforma, asegurando que solo personas autorizadas puedan ingresar.
+**Login (Iniciar Sesión)**
+El proceso mediante el cual un usuario accede a su cuenta en la plataforma para monitorear, gestionar o responder a alertas relacionadas con el transporte de bienes peligrosos.
 
-•	Service Acceptance (Aceptación del servicio): Confirmación por parte de los transportistas de que aceptan una oferta de servicio de transporte hecha por un empresario.
+**Authentication Policy (Política de Autenticación)**
+Conjunto de reglas que garantizan que solo usuarios autorizados, como transportistas y empresarios, puedan acceder a la plataforma y monitorear los datos IoT.
 
-•	Transport Route (Ruta de transporte): El trayecto que debe seguir el transportista desde el punto de recogida hasta el punto de entrega de la mercancía.
+**Transport Route (Ruta de Transporte)**
+El trayecto definido que debe seguir el transportista, monitoreado en tiempo real para garantizar el cumplimiento de condiciones seguras a lo largo del recorrido.
+
+
+## 2.5 Sustento de la Tecnología Emergente (IoT)
+
+¿Cómo el IoT Resuelve la Problemática de la Fuga de Gas en el Transporte de Productos Peligrosos?
+
+El uso de sensores IoT para monitorear en tiempo real el estado de la carga en vehículos de transporte de bienes peligrosos como gasolina o gas aborda directamente las principales problemáticas de seguridad y gestión logística:
+
+1. **Detección Temprana de Fugas:** Los sensores IoT instalados en las unidades de transporte son capaces de detectar fugas de gas de manera instantánea. Esto permite enviar alertas automáticas a transportistas y empresarios, reduciendo el tiempo de respuesta y evitando posibles desastres.
+
+2. **Monitoreo Continuo de Condiciones Ambientales:** Los sensores de temperatura monitorean continuamente el ambiente interno del vehículo. Un aumento anormal en la temperatura puede ser un indicador de peligro inminente, lo que activa protocolos de seguridad automáticos.
+
+3. **Registro y Reporte de Incidentes:** La tecnología IoT facilita la generación automática de reportes detallados de incidentes, proporcionando evidencia clara de lo ocurrido y ayudando a implementar mejoras en las operaciones futuras.
+
+4. **Cumplimiento de Normativas:** La solución IoT ayuda a los transportistas y empresarios a cumplir con las normativas internacionales de seguridad para el transporte de bienes peligrosos, minimizando riesgos legales y ambientales.
+
+En conclusión, la implementación de IoT en el transporte de productos peligrosos no solo mejora la seguridad, sino que también optimiza la eficiencia logística y reduce los costos asociados a accidentes, protegiendo tanto a las personas como al medio ambiente.
 
 
 
@@ -2896,37 +2953,42 @@ Mobile App:
 | Location | Virtual via Google Meet |
 | Prepared By | Gonzales Carrión, Jorge Enrique |
 | Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Alarcon Rondon. Sandro Fourfive / Laguerre Chalco, Fabrizzio Hernan / Pozo Campos, Rodrigo Jair |
-| Sprint 2 - Review Summary |  |
-| Sprint 2 - Retrospective Summary  |  |
+| Sprint 1 - Review Summary | Se realizó la primera versión de la aplicación móvil, landing page y embedded app IoT |
+| Sprint 1 - Retrospective Summary  | Mejorar el diseño de la aplicación móvil e implementar endpoints en backend |
 | **Sprint Goal & User Stories** | - |
-| Sprint 2 Goal| Nuestro objetivo es brindar infomraicón pertinente en las secciones de la landing apge acerca de la solución IoT y visualizar los viajes o servicios de transporte de combustible en la aplicación móvil. <br> Creemos que esto genera una base sólida acerca de las funcionalidades de FastFlow para los visitantes y permitir a los transportistas visualziar sus viajes. Esto será confirmado cuando los visitantes se suscriban a las aplicaciones.   |
+| Sprint 2 Goal| Nuestro enfoque está en permitir a los transportistas monitorear la carga mediante la aplicación móvil mediante la información obtenida del embedded app IoT y los sensores de la misma manera registrar incidentes manualmente, para los empresarios permitirles monitorear los sensores mediante la aplicación web y obtener lso datos de los usuarios/empleados mediante la aplicación web, para los desarrolladores se le ofrece endpoints relacionados a la creación de usuarios, servicios y entregas para que puedan manejar los datos de los clientes <br> .                                                                                  Creemos que esto ofrecerá a su totalidad las funcionalidades planeadas al satisfacer a los transportistas con el monitoreo de la carga y a los empresarios el monitoreo desde la aplicación web <br>.                                                                                             Esto se confirmará cuando los transportistas usen la aplicación móvil en cada viaje que hagan y cuando los empresarios usen la aplicación web para monitorear a los transportistas previamente convertidos a usuarios al usar la landing page.  |
 | Sprint 2 - Velocity | El equipo puede aceptar 28 Story Points|
 | Sprint 2 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 18|
 
 #### 7.2.2.2. Sprint Backlog 2
 
-<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">2</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
-<tr><td rowspan="2" valign="top">US16</td><td rowspan="2" valign="top">Sección Hero y Botón Call-to-Action</td><td valign="top">16.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar las secciones de hero y calltoaction</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
-<tr><td valign="top">16.2</td><td valign="top">Implementar sección responsive </td><td valign="top">Realizar las secciones con proporciones responsive</td><td valign="top">2</td><td valign="top">Laguerre Challco, Fabrizzio Hernan</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US01</td><td rowspan="2" valign="top">Monitoreo de Vehiculo</td><td valign="top">01.1</td><td valign="top">Implementar pantalla con estilos y obtener datos de API</td><td valign="top">Realizar la pantalla de monitoreo de sensores</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">01.2</td><td valign="top">Visualización de detalles de sensores</td><td valign="top">Obtener información de los sensores</td><td valign="top">2</td><td valign="top">Laguerre Challco, Fabrizzio Hernan</td><td valign="top">Done</td></tr>
 
-<tr><td rowspan="1" valign="top"> US14</td><td rowspan="1" valign="top">Landing Page responsive</td><td valign="top">12.1</td><td valign="top">Implementar vistas responsive</td><td valign="top">Realizar los estilos de las secciones responsive</td><td valign="top">4</td><td valign="top">Alarcon Rondon. Sandro Fourfive</td><td valign="top">Done</td></tr>
+<tr><td rowspan="1" valign="top"> US11</td><td rowspan="1" valign="top">ActualiZación de estado del transporte</td><td valign="top">11.1</td><td valign="top">Implementar que la aplicación siempre se actualice cada 10 segundos</td><td valign="top">Realizar los estilos y funciones de refrescar la pantalla</td><td valign="top">4</td><td valign="top">Alarcon Rondon. Sandro Fourfive</td><td valign="top">Done</td></tr>
 
 
-<tr><td rowspan="1" valign="top">US15</td><td rowspan="1" valign="top"> 	Visualización de características de la aplicación web o móvil web en Landing Page</td><td valign="top">15.1</td><td valign="top">Implementar sección de funcionalidades y beneficios</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Gonzales Carrión, Jorge Enrique</td><td valign="top">Done</td></tr>
+<tr><td rowspan="1" valign="top">US05</td><td rowspan="1" valign="top">Seguimiento en Tiempo real de transporte</td><td valign="top">05.1</td><td valign="top">Implementar sección de deliveries on going para la aplicación móvil</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Gonzales Carrión, Jorge Enrique</td><td valign="top">Done</td></tr>
 
-<tr><td rowspan="1" valign="top"> 	US12</td><td rowspan="1" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td><td valign="top">12.1</td><td valign="top">Implementar sección propuesta</td><td valign="top">Realizar la sección con los estilos e iconografía correspondiente</td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+<tr><td rowspan="1" valign="top">US12</td><td rowspan="1" valign="top">Publicación de Solicitudes de Transporte de Productos Peligrosos</td><td valign="top">12.1</td><td valign="top">Implementar pantallas de servicios</td><td valign="top">Obtener losdatos de los servicios realizados en pantalla</td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
 
-<tr><td valign="top"> 	US06</td><td valign="top"> 	Seguimiento en Tiempo Real de los Transportes Activos</td><td valign="top">16.1</td><td valign="top">Implementar sección en la aplicación movil</td><td valign="top">Realizar los estilos de la sección para empresarios </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+<tr><td valign="top"> 	US15</td><td valign="top">Visualización de características de la aplicación web o móvil web en Landing Page</td><td valign="top">15.1</td><td valign="top">Actualizar videos about the product y about the team</td><td valign="top">Actualizar secciones de funcionalidades y about us </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+<tr><td valign="top"> 	TS-06</td><td valign="top">Implementación de Actualización de Estado del Vehículo desde Edge API</td><td valign="top">T06.1</td><td valign="top">Implementar endpoints para sensores</td><td valign="top">Implementar endopoints para obtener datos de los sensores </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
+<tr><td valign="top"> 	TS-04</td><td valign="top">Implementación de Monitoreo en Tiempo Real a través de Edge API</td><td valign="top">T04.1</td><td valign="top">Implementar endpoints para sensores y deliveries</td><td valign="top">Implementar endopoints para obtener datos de los sensores </td><td valign="top">2</td><td valign="top">Pozo Campos, Rodrigo Jair</td><td valign="top">Done</td></tr>
+
 
 </table>
 
 Como herramienta de control para este Sprint se usó Trello con un board exclusivo para esta iteración:
 
-![imagen](https://github.com/user-attachments/assets/4530452c-8947-412a-9e51-43d16987e4fc)
+![imagen](https://github.com/user-attachments/assets/8f657028-fb54-4063-9eec-699e6e9dadd0)
 
-Link: https://trello.com/invite/b/6723b55cb861b5f50c919ad1/ATTIbe94b7237c6fb5c7b24da3ef2b093337A2994F8F/safeflow-sprint-1
+Link: https://trello.com/invite/b/6738ed95a2d13e642d2602a1/ATTIa8f18fb616a4e9312b9a6a4ad22faa59CD70078A/safeflow-sprint-2
 
 #### 7.2.2.3. Development Evidence for Sprint Review
 
@@ -2936,47 +2998,78 @@ Link: https://trello.com/invite/b/6723b55cb861b5f50c919ad1/ATTIbe94b7237c6fb5c7b
 | Wokwi-Simulacion | temp-sensor-version-1 | 1519a1a| feat: added files temp sensor  | - | 30/10/2024 |
 | Landing-Page  | EN | af2f987 | add landing page  | - | 23/09/2024 |
 | Landing-Page  | ES | 0a1226c | add landing page ES  | - | 23/09/2024 |
-| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
-| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
-| safeflow_mobileapp | feature/crop-detail | 13fa79a | fix: sales indentation  | - | 30/10/2024 |
+| safe-flow-webapp | master | 5cff3a0 | fix/ add floating buttons  | - | 15/11/2024 |
+| safe-flow-webapp | master | 739b071 | feat/ added all contexts and feats | - | 15/11/2024 |
+| safe-flow-webapp | master | 1966b33 | initial Commit | - | 14/11/2024 |
+| Safe-Flow-Backend  | main | 8593b46 | commit init: Feat added all services | - | 12/11/2024 |
+| Safe-Flow-Backend  | main | 38a9515 | update delivery table | - | 13/11/2024 |
+| Safe-Flow-Backend  | main | 77a0d77 | added delete endpoints | - | 13/11/2024 |
+| Safe-Flow-Backend  | main | 86bbf7f | add IAM context | - | 14/11/2024 |
+| Safe-Flow-Backend  | main | 46d178b | fix: update cors | - | 15/11/2024 |
+| safe-flow-webapp   | master | 1966b33 | initial commit | - | 14/11/2024 |
+| safe-flow-webapp   | master | 739b071 | feat/ added all contexts and feats | - | 15/11/2024 |
+| safe-flow-webapp   | master | 5cff3a0 | fix/ add floating buttons | - | 15/11/2024 |
 
-#### 7.2.1.4. Testing Suite Evidence for Sprint Review
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-IoT | test/UserStories | 524f950 | Acceptance-test-1.feature  | - | 30/10/2023 |
-| acceptance-test-IoT | test/UserStories | f2a5a88 | Acceptance-test-2.feature  | - | 30/10/2023 |
-| acceptance-test-IoT | test/UserStories | 89bf09e | Acceptance-test-3.feature  | - | 30/10/2023 |
-| acceptance-test-IoT | test/UserStories | 65442d8 | Acceptance-test-4.feature  | - | 30/10/2023 |
-| acceptance-test-IoT | test/UserStories | ca70f9b | Acceptance-test-5.feature  | - | 30/10/2023 |
+| acceptance-test  | test/UserStories | c59d75b | acceptance-test-6  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | edaa342 | acceptance-test-7  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | 58262ae | acceptance-test-8  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | 462bb0c | acceptance-test-9  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | 63bbf01 | acceptance-test-10  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | faa26c6 | acceptance-test-11  | - | 16/11/2023 |
+| acceptance-test  | test/UserStories | 708752c | acceptance-test-12  | - | 16/11/2023 |
 
 Link de repositorio: https://github.com/Arq-de-Software-Emergentes-Grupo06/acceptance-test
 
+Se realizaron pruebas automatizadas en Selenium en la aplicación web:
+
+![imagen](https://github.com/user-attachments/assets/b736df3c-0d84-4919-b9e6-d523d5c75110)
+
 #### 7.2.2.5. Execution Evidence for Sprint Review
 
-En el Sprint 2 se alcanzó a desarrollar una primera versión de la landing page, la aplicación móvil y el IoT Embedded App, como principales caracteristicas tenemos las vistas de Dashboard de monitoreo de carga, Home, servicios realizados, etc. A continuación se muestra un video de lo realizado:
+En el Sprint 2 se alcanzó a desarrollar las ultimas versiones de la landing page, la aplicación móvil, IoT Embedded App y aplicación web, como principales caracteristicas tenemos las vistas de Dashboard de monitoreo de carga, Home, servicios realizados, etc. A continuación se muestra un video de lo realizado:
 
-![imagen](https://github.com/user-attachments/assets/a5aa28f9-62f8-43d7-aab4-d809d53beeab)
+![imagen](https://github.com/user-attachments/assets/831d4fc9-7245-4dbb-b686-e7953ae948c8)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ETFA7fskBvxPushstcTMdUcBTRvGthfXhE509_zzZ5B5sg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5OXzRm
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERjMj0gYBJ5EjKFtTUoVdPUBd44kBpXncfeShSl0iqqu8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2md0Rj
 
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
-Para este sprint 2, debido a que no existe la incorporación de los Web Services, se decidió usar Beeceptor como alternativa a consumir datos.
-Beeceptor: https://fastflow.free.beeceptor.com
+| **Acciones** | **Endpoint** | **Detalles** | **Enlace** | **Datos de Muestra** |
+|--------------|--------------|---------------|------------|-----------------------|
+| **GET**      | /api/safe-flow/v1/incidents | Obtiene todos los incidentes registrados | http://localhost:8080/swagger-ui/index.html#/Incidents/getAllIncidents | - |
+| **POST**     | /api/safe-flow/v1/incidents | Crea un nuevo incidente | http://localhost:8080/swagger-ui/index.html#/Incidents/createIncident | "id": 0, "incidentPlace": "string", "date": "string", "description": "string" |
+| **GET**      | /api/safe-flow/v1/incidents/{id} | Obtiene un incidente específico por ID | http://localhost:8080/swagger-ui/index.html#/Incidents/getIncidentById | "id": 1 |
+| **DELETE**   | /api/safe-flow/v1/incidents/{id} | Elimina un incidente específico por ID | http://localhost:8080/swagger-ui/index.html#/Incidents/deleteIncident | "id": 1 |
+| **GET**      | /api/safe-flow/v1/services | Obtiene todos los servicios registrados | http://localhost:8080/swagger-ui/index.html#/Services/getAllServices | - |
+| **POST**     | /api/safe-flow/v1/services | Crea un nuevo servicio | http://localhost:8080/swagger-ui/index.html#/Services/createService | "id": 0, "nameService": "string", "description": "string", "incidents": "string" |
+| **DELETE**   | /api/safe-flow/v1/services/{id} | Elimina un servicio específico por ID | http://localhost:8080/swagger-ui/index.html#/Services/deleteService | "id": 1 |
+| **GET**      | /api/safe-flow/v1/deliveries | Obtiene todas las entregas registradas | http://localhost:8080/swagger-ui/index.html#/Deliveries/getAllDeliveries | - |
+| **POST**     | /api/safe-flow/v1/deliveries | Crea una nueva entrega | http://localhost:8080/swagger-ui/index.html#/Deliveries/createDelivery | "id": 0, "destination": "string", "packageDescription": "string", "exitPoint": "string", "route": "string", "stop": "string", "combustibleType": "string", "warnings": "string" |
+| **GET**      | /api/safe-flow/v1/deliveries/{id} | Obtiene una entrega específica por ID | http://localhost:8080/swagger-ui/index.html#/Deliveries/getDeliveryById | "id": 1 |
+| **DELETE**   | /api/safe-flow/v1/deliveries/{id} | Elimina una entrega específica por ID | http://localhost:8080/swagger-ui/index.html#/Deliveries/deleteDelivery | "id": 1 |
+| **GET**      | /api/safeflow/v1/sensors/{id} | Obtiene información de un sensor específico | http://localhost:8080/swagger-ui/index.html#/Sensors/getSensorById | "id": 1 |
+| **PUT**      | /api/safeflow/v1/sensors/{id} | Actualiza información de un sensor específico | http://localhost:8080/swagger-ui/index.html#/Sensors/updateSensor | "id": 1, "gasValue": 5, "temp": 25, "safe": true, "unsafe": false |
+| **DELETE**   | /api/safeflow/v1/sensors/{id} | Elimina un sensor específico por ID | http://localhost:8080/swagger-ui/index.html#/Sensors/deleteSensor | "id": 1 |
+| **GET**      | /api/safeflow/v1/sensors | Obtiene todos los sensores registrados | http://localhost:8080/swagger-ui/index.html#/Sensors/getAllSensors | - |
+| **POST**     | /api/safeflow/v1/sensors | Crea un nuevo sensor | http://localhost:8080/swagger-ui/index.html#/Sensors/createSensor | "id": 0, "gasValue": 0, "temp": 0, "safe": true, "unsafe": true |
+| **POST**     | /api/v1/auth/signup | Registra un nuevo usuario en el sistema | http://localhost:8080/swagger-ui/index.html#/Auth/signup | "username": "Juan", "email": "juan@gmail.com", "password": "password123" |
+| **POST**     | /api/v1/auth/signin | Permite iniciar sesión en el sistema | http://localhost:8080/swagger-ui/index.html#/Auth/signin | "username": "Juan", "password": "password123" |
+| **GET**      | /api/v1/users | Obtiene información de todos los usuarios registrados | http://localhost:8080/swagger-ui/index.html#/Users/getAllUsers | - |
+| **GET**      | /api/v1/users/{userId} | Obtiene información de un usuario específico por ID | http://localhost:8080/swagger-ui/index.html#/Users/getUserById | "userId": 1 |
 
-| Endpoint | Detalles |
-| - | - | 
-| /users| En este endpoint se almacenan la información de los usuarios, tales como username, email, password, role, photo y token | 
-| /deliveries | En este endpoint se almacenan las entregas que aun no tienen ligadas un incidente | 
-| /services  | En este endpoint se almacena laos servicios realizados pro parte de las empresas | 
-| /incidents | En este endpoint almacena los incidentes registrados manualmente | 
+Documentación en OpenAPI:
 
+![imagen](https://github.com/user-attachments/assets/9bfc93c7-3ca0-45ff-843e-380cb8e6dc2e)
 
+![imagen](https://github.com/user-attachments/assets/3b7fed49-cb43-497e-b90d-6df6a33d0773)
 
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el despliegue de la web app y landing page se usó Netlify, a continuación se detallará paso a paso para este Sprint 1:
+Para el despliegue de la web app y landing page se usó Netlify, a continuación se detallará paso a paso para este Sprint 2:
 
 Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
 
@@ -2990,11 +3083,48 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 ![imagen](https://github.com/user-attachments/assets/6504f90b-c985-438f-9c32-33dff1161df1)
 
 
-De esta manera el avance del Sprint 1 queda desplegado.
+De esta manera el avance del Sprint 2 queda desplegado.
 
 ![imagen](https://github.com/user-attachments/assets/07b7df99-e8ac-4045-9f1b-68efad6365d7)
 
+A continuación se deja evidencia con fecha y hora de los despliegues realizados en Netlify:
+
+Landing Page:
+
+![imagen](https://github.com/user-attachments/assets/3fd0fc67-b613-4d09-91dc-51edd6be188b)
+
+Web App:
+
+![imagen](https://github.com/user-attachments/assets/a7764f3c-3bed-45a0-8625-6b31a260223f)
+
 Link de landing page: (https://safe-flow-landing.netlify.app/)
+
+Link de aplicación web: (https://safeflow-v1.netlify.app)
+
+---
+
+Por otro lado, vamos a explicar los pasos a despliegue de los web services:
+
+Se utilizó Zeabur debido a su gran utilidad en el plan gratuito, permitiendo depslegar 3 servicios, primero se crea un espaciode trabajo:
+
+![imagen](https://github.com/user-attachments/assets/2d7a7706-2826-4a5e-bfe4-18698b5bc52b)
+
+Se añade un nuevo servicio:
+
+![imagen](https://github.com/user-attachments/assets/847aafe9-25eb-4f2c-b842-779c7fa95450)
+
+Luego de escoger el repositorio, se empieza a hacer el build del despliegue:
+
+![imagen](https://github.com/user-attachments/assets/65104678-b3e3-4b24-bb4c-f901aa5e2c76)
+
+Finalmente, se obtiene el desplieuge con el link:
+
+https://safe-flow-api.sfo1.zeabur.app/swagger-ui/index.html#/
+
+A continuación, tenemos la evidencia de despliegue en los logs proporcionados por la plataforma:
+
+![imagen](https://github.com/user-attachments/assets/e5be7013-ed22-4b84-b037-650298933081)
+
 
 Link de simulaciones en Wokwi: https://wokwi.com/projects/413180120059730945
 
@@ -3004,13 +3134,20 @@ https://wokwi.com/projects/413204204342722561
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 
 Landing Page:
-![imagen](https://github.com/user-attachments/assets/ac56c310-0bef-4bd3-9ce3-218553a27db7)
 
-Embedded App IoT:
-![imagen](https://github.com/user-attachments/assets/c402209f-f367-4377-aeb5-c019727fd87e)
+![imagen](https://github.com/user-attachments/assets/13150cfe-7bac-4c78-a29a-6878de59d19a)
 
 Mobile App:
-![imagen](https://github.com/user-attachments/assets/6c7f1fc6-f38e-40c4-9ae1-7e8e93c9c30b)
+
+![imagen](https://github.com/user-attachments/assets/94d33373-bbe2-4963-b56c-b3f5e39cf9c2)
+
+Web App:
+
+![imagen](https://github.com/user-attachments/assets/9b643522-cc64-477e-9028-80e2cffb2613)
+
+Backend:
+
+![imagen](https://github.com/user-attachments/assets/c14b90d3-86bf-4452-85bb-6d096608fc24)
 
 ## 7.3. Validation Interviews
 
@@ -3230,6 +3367,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | :-: | :-: | :-: | :-: |
 |*1*|*El contenido de funcionalidades no se actualiza periódicamente*|*3*|*Information Architecture - Is it credible?*|
 
+3. **Web Application**
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*|*1*|*Usabilidad - Reconocer antes que recordar*|
+
+
 
 
 - **DESCRIPCIÓN DE PROBLEMAS:**
@@ -3304,7 +3447,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 Corregir la tipografía en todas las secciones de un tamaño equivalente*
 
 
-1. **Landing Page**
+2. **Landing Page**
 
 ***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
 
@@ -3319,6 +3462,24 @@ Corregir la tipografía en todas las secciones de un tamaño equivalente*
 ***Recomendación:**
 Corregir las funcionalidades mostradas en las listas de la sección*
 
+3. **PROBLEMA #1:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Reconocer antes que recordar*
+
+***Problema:***
+
+Barra de navegación:
+
+![imagen](https://github.com/user-attachments/assets/aa6b1f9f-8ddf-4419-9a4f-1bd36080ef28)
+
+
+*Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
+
+***Recomendación:**
+Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
+
 
 ## 7.4. Video About-the-Product
 
@@ -3327,6 +3488,12 @@ A continuación, se mostrará el Video About the Product, donde se mostrará las
 ![imagen](https://github.com/user-attachments/assets/51495328-6782-4e60-ada1-2637785d043c)
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZ8pn120ONFLgzEQqZUlhEwBhF5bqBj2-IUZeVuQn6lrWw?e=IPwTzV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Finalmene, se presenta la nueva versión del video-about-the-product con los nuevos avances del Sprint 2:
+
+![imagen](https://github.com/user-attachments/assets/2b344e01-7458-492c-94b1-a904fb212cde)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERhIddMG4MpLu9uZhuZDO0QBZZhsIaDhMlFBv4MgGKiwQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hYxJqP
 
 # Impacto del software emergente en nuestra solución
 
@@ -3337,6 +3504,20 @@ En esta primera entrega se realizaron tareas relacionadas a la captura de requis
 En esta segunda entrega, se desarrolló la primera versión de la arquitectura del sistema, aplicando herramientas de Domain Driven Design tales como EventStorming, Bounded Context Canvas. Todo esto nos permitió establecer las bases para la arquitectura de la solución con tecnología emergente.
 
 En esta tercera entrega, se desarrollaron las primeras versiones de los productos digitales que componene la solución IoT, de esta manera sentando las bases de funcionaldiades escenciales para el correcto funcionamiento y satisfacción de los segmentos objetivos. Por otro lado, se realizaron diversas actividades para mejorar la calidad del Sprint, tales como entrevistas de validación y evaluaciones según heuristicas.
+
+En esta última entrega, el proyecto ha alcanzado un nivel de madurez significativo, consolidando los avances logrados en las fases previas y enfocándose en la integración, optimización y validación de la solución tecnológica basada en IoT.
+
+Se completaron las siguientes actividades clave:
+
+    Integración Completa de la Solución: Se integraron las diferentes partes de la arquitectura del sistema, asegurando que los componentes IoT, la Edge API y las interfaces digitales trabajen de manera fluida y eficiente. Esto garantizó un flujo de datos continuo y confiable entre los dispositivos y el sistema central.
+
+    Optimización de Funcionalidades: Se realizaron mejoras en las funcionalidades principales, tales como el monitoreo en tiempo real, la actualización de estados y la gestión de transportistas. Estas optimizaciones garantizaron un rendimiento robusto y una experiencia de usuario acorde con los objetivos del proyecto.
+
+    Validación y Pruebas Exhaustivas: Se llevaron a cabo pruebas de funcionalidad, rendimiento y usabilidad en escenarios reales y simulados. Además, se realizaron entrevistas de validación con stakeholders y usuarios finales, obteniendo retroalimentación valiosa para ajustar los últimos detalles.
+
+    Cumplimiento de Estándares de Calidad: La solución fue evaluada bajo criterios heurísticos y de seguridad, garantizando que cumpla con los requisitos legales y las mejores prácticas de la industria en el transporte de productos peligrosos.
+
+En conclusión, esta entrega final marca la culminación de un proceso de desarrollo iterativo y enfocado en la innovación tecnológica. La solución IoT no solo responde de manera efectiva a la problemática planteada, sino que también establece un precedente para la implementación de tecnologías emergentes en un sector tan crítico como el transporte de productos peligrosos. La colaboración interdisciplinaria, el uso de herramientas avanzadas como Domain Driven Design y el enfoque centrado en el usuario han sido fundamentales para lograr una solución funcional, escalable y preparada para futuras mejoras.
 
 ## Video About-the-Team
 
@@ -3360,3 +3541,5 @@ Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118
 Video Exposición TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQtY02wGc-9BruKxA4zePMcBrf0g5p57enTfLFNF-meycg?e=pUGkME&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video Exposición TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXDfUlVMe99Dj1wfrVGCjYEBvtEY3ACW-IaXp7ZIkBneVA?e=5vTZFm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video de Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXpME2sxs_NHmNoUthXKwasB8rDIraTDEZMrc8IRfTupuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qGZkjz
